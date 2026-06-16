@@ -46,7 +46,7 @@ The mapping is **intuitive**: the planetary quality of the planet matches the pl
 
 ## The Planetary Hours
 
-The **planetary hours** are the **24 equal hours** of the day, each ruled by one of the seven planets. The sequence is the **Chaldean order** (Saturn → Jupiter → Mars → Sun → Venus → Mercury → Moon) repeating. The **first hour** after sunrise is ruled by the planet of the day (Sunday = Sun, Monday = Moon, etc.).
+The **planetary hours** are the **24 unequal temporal hours** of the day (12 day hours from sunrise to sunset + 12 night hours from sunset to sunrise; the day and night hours are each equal in length to each other, but the day hours differ from the night hours in length — longer in summer, shorter in winter). Each hour is ruled by one of the seven classical planets. The sequence is the **Chaldean order** (Saturn → Jupiter → Mars → Sun → Venus → Mercury → Moon) repeating. The **first hour** after sunrise is ruled by the planet of the day (Sunday = Sun, Monday = Moon, etc.).
 
 For business use:
 
