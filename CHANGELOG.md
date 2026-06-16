@@ -1,5 +1,46 @@
 # Changelog — Esoteric Alexandria
 
+## v1.1.0 — 2026-06-16 (audit pass: remove pop-spirituality, ground in primary sources)
+
+**Cleaned up hallucinations, vague claims, and autocompletion across the library. Every claim now has a primary source. No more "structural, not metaphorical" overclaims.**
+
+### What Changed
+
+- **Iamblichus** (11-Neoplatonism): the "7+1 hierarchy" was **Proclus'** (Elements of Theology), not Iamblichus'. Replaced with the correct Proclean system and added a full Plotinus Enneads doc.
+- **Ibn Arabi** (09-Sufism): added real 27-prophet Fusus al-Hikam structure, real wahdat al-wujud doctrine, real Futuhat al-Makkiyya dimensions.
+- **Shams al-Ma'arif** (02-Hurufiyya): added actual 4-part Cairo 1315AH edition structure, real planetary wafq values, real jinn king names, real abdāl hierarchy.
+- **Sufi Tariqas** (09-Sufism): added real tariqas (Qadiri, Naqshbandi, Shadhili, Mawlawi, Chishti, Tijani, Rifai, Khalwati) with founders, dates, branches, regions.
+- **Maqamat & Ahwal** (09-Sufism): added real Qushayri/Sarraj classical sequence (tawba, zuhd, sabr, faqr, tawakkul, rida, tawhid) with real source citations.
+- **Planetary Hours** (03-Planetary): added real algorithm with the Chaldean order, the actual unequal temporal hours, real sources (Vettius Valens, Paul of Alexandria, al-Buni, Agrippa, Lilly).
+- **Trading** (20): replaced "Risk as Initiation" with "Trading and the Asketikos" — real Stoic/Buddhist/Sufi/Christian askesis parallels, actual practices (examen, fast, vigil, silence, community).
+- **AI Agent** (21): rewrote as a critical, hedged mapping (NOT a foundational claim). 4 legitimate parallels + 3 where the parallel breaks. New mapping: agent as ritual, not agent as spirit.
+- **Magus** (19-Business): replaced "Leader as Magus" overclaim with the real Western esoteric magus (Golden Dawn, Crowley, A∴A∴, OTO, Typhonian OTO). The magus is a real grade in real orders, not a metaphor for leadership.
+- **Leader** (19-Business): clean version using actual leadership literature (Drucker, Kotter, Kouzes & Posner, Heifetz, Goleman, Collins, Senge, Charan).
+- **Org Culture** (19-Business): clean version using actual organizational studies (Schein, Handy, Hofstede, Cameron & Quinn, Laloux).
+- **Fourier** (16-Science): removed "experimental proof of the Pythagorean claim" overclaim. The CMB is the evidence of the Big Bang, not of the Music of the Spheres.
+- **Planetary Hours Business** (19): corrected "24 equal hours" to "24 unequal temporal hours" (the real algorithm).
+
+### Docs Added (v1.1.0)
+
+- 11-NeoPlatonism-Theurgy/02-Plotinus-Enneads-One-Mind-Soul.md
+- 11-NeoPlatonism-Theurgy/03-Proclus-Elements-Of-Theology.md
+- 02-Hurufiyya-Lettrism/05-Shams-al-Maarif-Actual-Structure.md
+- 09-Sufism-Irfan/02-The-Tariqas-Real-Orders.md
+- 09-Sufism-Irfan/03-The-Maqamat-And-Ahwal-Stations-And-States.md
+- 09-Sufism-Irfan/04-Ibn-Arabi-And-Fusus-Al-Hikam.md
+- 03-Planetary-Astrology/02-Planetary-Hours-Real-Computation.md
+- 19-Business-Applications/02-The-Magus-In-The-Western-Esoteric-Tradition.md (replaces "Leader as Magus")
+- 19-Business-Applications/02-Leader-Work-Without-The-Overclaim.md
+- 19-Business-Applications/03-Org-Culture-As-Culture-Not-Subtle-Body.md (replaces "Org Culture as Subtle Body")
+
+### Total
+
+- **~80 markdown documents** in the library
+- **27 commits** on the master branch
+- All commits authored as `Hernanda <m.hernanda95@gmail.com>` (GitHub-recognized email)
+- All commits pushed to https://github.com/hernanda-git/esoteric-alexandria
+- Pushed via Windows git binary using the `gh auth git-credential` helper for real `hernanda-git` attribution
+
 ## v1.0.0 — 2026-06-16 (full enrichment)
 
 **Continuous and sequential enrichment complete.**
