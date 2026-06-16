@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# State (regenerable)
+state/evolve.db
+state/evolve-*.log
+state/obsidian-sync.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Enrich symlinks (do not commit cross-repo links)
+enrich/
