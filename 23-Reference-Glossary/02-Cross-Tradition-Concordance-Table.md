@@ -395,6 +395,18 @@ The concordance is the **most powerful argument** for the **perennial philosophy
 | Hermetic | The Magic Square (Kamea / Wafq) | [[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]] |
 | Modern | Cymatic Patterns | [[16-Science-Resonance/01-Cymatics-And-Vibration]] |
 
+### 31. Spirit Beings / Jinn Types
+
+| Tradition | Name | Reference |
+|-----------|------|-----------|
+| Islamic (Quranic) | Jinn (الجن) — the general race | [[06-Angels-Jinn-Demons/03-Jinn-Islamic-Spirit-Lore]] |
+| Islamic (Esoteric) | Jann (الجان) — the primordial progenitor | [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]] |
+| Islamic (Esoteric) | Hinn (الحين) — the mutable jinn of time/decay | [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]] |
+| Islamic (Esoteric) | Bann (البن) — the hidden jinn of the earth | [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]] |
+| Western / Solomonic | Goetic Spirits (72 demons) | [[06-Angels-Jinn-Demons/02-Goetic-Spirits-72-Shemhamphorash]] |
+| Kabbalistic | Shem ha-Mephorash (72 angels) | [[06-Angels-Jinn-Demons/02-Goetic-Spirits-72-Shemhamphorash]] |
+| Christian | Angelic Hierarchy (9 choirs) | [[06-Angels-Jinn-Demons/01-Angelic-Hierarchy]] |
+
 ## The Use of the Concordance
 
 The concordance has **three uses**:

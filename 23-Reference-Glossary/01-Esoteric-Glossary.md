@@ -30,6 +30,7 @@ sources:
 ## B
 
 - **Bagua** — the 8 Chinese trigrams, the building blocks of the I Ching
+- **Bann, Al-** (البنّ) — the fourth class of jinn in the esoteric Islamic fourfold classification. The **hidden jinn** of the subterranean realm, associated with fragrance (*bān* = the fragrant shrub), treasure guardianship, and esoteric knowledge. The most material of the jinn classes, they are the most amenable to binding operations (*'azima*). See [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]]
 - **Basmala** — the Islamic invocation "In the name of God, the Merciful, the Compassionate" (Bismillah al-Rahman al-Rahim)
 - **Bats** — Arabic for the "inner" (in Sufism, the esoteric as opposed to the *zahir*)
 
@@ -75,6 +76,7 @@ sources:
 ## H
 
 - **Heka** — the Egyptian magical power, the personified deity of magic
+- **Hinn, Al-** (الحينّ) — the third class of jinn in the esoteric Islamic fourfold classification. Created from the interaction of fire and earth, the Hinn are the **mutable jinn** associated with time, transformation, and decay. They inhabit the liminal threshold zones between worlds and are the most commonly encountered jinn in folk tradition. See [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]]
 - **Hermes Trismegistus** — "Hermes the Thrice-Greatest", the legendary author of the Hermetic texts. See [[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]
 - **Hexagram** — the 6-line figure in the I Ching, one of 64. See [[07-Divination-Geomancy/03-I-Ching-64-Hexagrams]]
 - **Hieros Gamos** — the sacred marriage, the coniunctio oppositorum
@@ -94,7 +96,8 @@ sources:
 ## J
 
 - **Jafr** — the Islamic science of the unseen, the divination by letter arithmetic. See [[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]
-- **Jinn** — the non-human, non-angel intelligent beings of the Islamic tradition. See [[06-Angels-Jinn-Demons/03-Jinn-Islamic-Spirit-Lore]]
+- **Jann, Al-** (الجانّ) — the second class of jinn in the esoteric Islamic fourfold classification. The **primordial progenitor** of the jinn, created from scorching fire (*nār al-samūm*) before the creation of Adam (Quran 15:27). The "father of the jinn" from whom all jinn descend. Associated with Iblis in esoteric commentary. See [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]]
+- **Jinn** — the non-human, non-angel intelligent beings of the Islamic tradition. See [[06-Angels-Jinn-Demons/03-Jinn-Islamic-Spirit-Lore]] and [[06-Angels-Jinn-Demons/08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]]
 - **Junius** — the Avestan term for the spirit world, the ancestor of the jinn concept
 - **Jung** — Carl Gustav Jung (1875-1961), the founder of Analytical Psychology. See [[18-Psychology-Jungian/01-Jung-And-Alchemy]]
 

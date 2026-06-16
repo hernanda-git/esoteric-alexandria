@@ -144,3 +144,4 @@ The library's category 06 is the **textual foundation**. The practice requires t
 - [[02-Goetic-Spirits-72-Shemhamphorash]] — the Western parallel
 - [[02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview]] — the *'ilm al-huruf* tradition
 - [[09-Sufism-Irfan/01-Sufism-Overview]] — the Sufi interaction with the jinn
+- [[08-The-Four-Jinn-Classes-Hinn-Bann-Jann-Jinn]] — the fourfold ontological classification of jinn into Al-Hinn, Al-Bann, Al-Jann, and Al-Jinn
