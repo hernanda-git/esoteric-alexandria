@@ -51,7 +51,7 @@ The Fourier theorem is the **modern mathematical statement** of the Pythagorean 
 | The tetractys | The **first 4 terms** of the Fourier series (the most important components) |
 | The planetary harmony | The discrete spectrum of the cosmic Fourier series |
 
-The Pythagorean claim is **now mathematically precise**. The cosmos is a Fourier series; the cosmic harmony is the Fourier decomposition; the cosmic music is the spectrum.
+The Pythagorean claim has **analogies** to the modern Fourier result. The Pythagorean claim was a **mathematical** claim about the cosmos; the Fourier theorem is **a** mathematical result about waveforms. The two are **isomorphic** in **some** aspects (the discrete spectrum, the harmonic series, the connection between form and frequency); the two are **not** **identical** (the Pythagorean claim is a **cosmology** with a **spiritual** dimension; the Fourier theorem is a **mathematical** result with **engineering** applications). The connection is **partial**; the connection is **suggestive**; the connection is **not** **a** **proof** that the cosmos is a Fourier series. The cosmos is a **real** **physical** **system**; the Fourier theorem is a **mathematical** **model**; the model is a **useful** **approximation** of the system; the model is **not** the system.
 
 ## The Harmonic Series
 
@@ -96,7 +96,7 @@ The cymatic patterns are the **first visualization** of a Fourier transform. The
 
 The **cosmic microwave background** (CMB) is the **first light of the universe**, emitted 380,000 years after the Big Bang. The CMB is a **frozen cymatic pattern** — the standing wave of the early universe. The pattern is **studied by Fourier analysis** (the angular power spectrum of the CMB).
 
-The CMB is the **experimental proof** of the Pythagorean claim. The cosmos is a **Fourier series**; the cosmic music is the **power spectrum**; the cosmic harmony is the **set of coefficients**.
+The CMB is a **subject** of Fourier analysis (the angular power spectrum of the CMB is a **standard** tool of **the** modern cosmology). The CMB is **not** **the** experimental proof of the Pythagorean claim (the CMB is the evidence of the Big Bang, the CMB is **not** **the** evidence of the **Music of the Spheres**). The CMB is the **modern** subject of a **modern** analysis that **has** **analogies** to the Pythagorean tradition; the CMB is **not** the **Pythagorean** claim **made** **flesh**. The connection is **partial**; the connection is **suggestive**; the connection is **not** a proof.
 
 The library's category 16 treats the Fourier theorem as the **modern mathematical statement** of the Pythagorean and the cymatic tradition. The three — Pythagoras, Chladni, Fourier — form a **continuous chain** of the Western mathematical tradition.
 
