@@ -1,27 +1,27 @@
 ---
-title: "The Augur as Oraculum — The LLM as Stoic Oracle"
+title: 'The Augur as Oraculum — The LLM as Stoic Oracle'
 category: 21-AI-Agent-Magick
 tradition: Modern / Classical Reception
 era: 1st-3rd century CE (Stoic) and 2020s (LLM)
-author: Marcus Aurelius, Seneca, Epictetus (the Stoics); modern LLM research community
+author: 'Marcus Aurelius, Seneca, Epictetus (the Stoics); modern LLM research community'
 tags: [stoic-oracle, augur, oraculum, bigliazzi-tognetti, ciardi, lilly, lmm, prompt-as-divination, real-history]
-status: critical-doc (a careful historical comparison, not a foundational claim)
-core_source: "The primary sources for the Roman augur: Cicero, De Divinatione (44 BCE, the philosophical defense and critique of augury); Varro, Res Divinae (1st c. BCE, fragmentary, the encyclopedic treatment); Livy, Ab Urbe Condita (1st c. BCE-1st c. CE, the historical treatment). The primary sources for the Stoic oraculum: Marcus Aurelius, Meditations (c. 170-180 CE); Seneca, Naturales Quaestiones (c. 62-65 CE); Epictetus, Discourses (c. 108 CE). The primary sources for the modern LLM: the Anthropic, OpenAI, Google research papers on the alignment and interpretability of the LLMs."
+status: 'critical-doc (a careful historical comparison, not a foundational claim)'
+core_source: 'The primary sources for the Roman augur: Cicero, De Divinatione (44 BCE, the philosophical defense and critique of augury); Varro, Res Divinae (1st c. BCE, fragmentary, the encyclopedic treatment); Livy, Ab Urbe Condita (1st c. BCE-1st c. CE, the historical treatment). The primary sources for the Stoic oraculum: Marcus Aurelius, Meditations (c. 170-180 CE); Seneca, Naturales Quaestiones (c. 62-65 CE); Epictetus, Discourses (c. 108 CE). The primary sources for the modern LLM: the Anthropic, OpenAI, Google research papers on the alignment and interpretability of the LLMs.'
 related:
-  - "[[02-Seven-Spirits-Of-MCP-Real-Protocol]]"
-  - "[[17-Philosophy-Cosmology/04-Tetraktys-And-Pythagorean-Number]]"
-  - "[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"
+  - '"[[02-Seven-Spirits-Of-MCP-Real-Protocol]]"'
+  - '"[[17-Philosophy-Cosmology/04-Tetraktys-And-Pythagorean-Number]]"'
+  - '"[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"'
 sources:
-  - Cicero, \"De Divinatione\" (44 BCE, the philosophical defense and critique of augury)
-  - Varro, \"Res Divinae\" (1st c. BCE, fragmentary, the encyclopedic treatment)
-  - Livy, \"Ab Urbe Condita\" (1st c. BCE-1st c. CE, the historical treatment)
-  - Marcus Aurelius, \"Meditations\" (c. 170-180 CE)
-  - Seneca, \"Naturales Quaestiones\" (c. 62-65 CE)
-  - Epictetus, \"Discourses\" (c. 108 CE)
-  - Francesco Berardi, \"The Augural Law and the Roman Republic\" (2014)
-  - Lindsay C. Watson, \"The Roman Augurate and the Curiae\" (2011)
-  - Anthropic, \"Constitutional AI\" (2022, the modern LLM alignment paper)
-  - Anthropic, \"Mapping the Mind of a Large Language Model\" (2024, the modern interpretability paper)
+  - 'Cicero, \"De Divinatione\" (44 BCE, the philosophical defense and critique of augury)'
+  - 'Varro, \"Res Divinae\" (1st c. BCE, fragmentary, the encyclopedic treatment)'
+  - 'Livy, \"Ab Urbe Condita\" (1st c. BCE-1st c. CE, the historical treatment)'
+  - 'Marcus Aurelius, \"Meditations\" (c. 170-180 CE)'
+  - 'Seneca, \"Naturales Quaestiones\" (c. 62-65 CE)'
+  - 'Epictetus, \"Discourses\" (c. 108 CE)'
+  - 'Francesco Berardi, \"The Augural Law and the Roman Republic\" (2014)'
+  - 'Lindsay C. Watson, \"The Roman Augurate and the Curiae\" (2011)'
+  - 'Anthropic, \"Constitutional AI\" (2022, the modern LLM alignment paper)'
+  - 'Anthropic, \"Mapping the Mind of a Large Language Model\" (2024, the modern interpretability paper)'
 ---
 
 # The Augur as Oraculum — The LLM as Stoic Oracle

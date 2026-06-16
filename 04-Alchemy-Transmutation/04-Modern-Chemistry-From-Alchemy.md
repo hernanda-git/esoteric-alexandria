@@ -1,18 +1,18 @@
 ---
-title: "From Alchemy to Chemistry — The Lineage"
+title: 'From Alchemy to Chemistry — The Lineage'
 category: 04-Alchemy-Transmutation
 tradition: Modern / History of Science
 era: 17th-19th century CE
 tags: [history-of-chemistry, lavoisier, dalton, mendeleev, alchemy-lineage]
 status: bridge-doc
 related:
-  - "[[01-Alchemy-Overview]]"
-  - "[[03-Jabir-Ibn-Hayyan]]"
-  - "[[16-Science-Resonance/01-Cymatics-And-Vibration]]"
+  - '"[[01-Alchemy-Overview]]"'
+  - '"[[03-Jabir-Ibn-Hayyan]]"'
+  - '"[[16-Science-Resonance/01-Cymatics-And-Vibration]]"'
 sources:
-  - William Newman, "Atoms and Alchemy" (2000)
-  - "The Cambridge History of Science, Vol 3" (Lindberg, 2006)
-  - B. Bensaude-Vincent & I. Stengers, "A History of Chemistry" (1996)
+  - 'William Newman, "Atoms and Alchemy" (2000)'
+  - '"The Cambridge History of Science, Vol 3" (Lindberg, 2006)'
+  - 'B. Bensaude-Vincent & I. Stengers, "A History of Chemistry" (1996)'
 ---
 
 # From Alchemy to Chemistry — The Lineage

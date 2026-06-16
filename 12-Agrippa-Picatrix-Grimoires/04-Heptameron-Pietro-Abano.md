@@ -1,25 +1,25 @@
 ---
-title: "The Heptameron of Pietro d'Abano — The Real Magical Manual"
+title: 'The Heptameron of Pietro d''Abano — The Real Magical Manual'
 category: 12-Agrippa-Picatrix-Grimoires
 tradition: Western Medieval / Renaissance
-era: 13th century CE (the original), 1567 (the printed edition)
+era: '13th century CE (the original), 1567 (the printed edition)'
 author: Pietro d'Abano (c. 1257-1316 CE) — the attribution is contested; the actual text is likely a 13th-c. pseudo-Apuleian / pseudo-Honorian compilation
 tags: [heptameron, pietro-dabano, apuleius, abramelin, 7-planets, real-source]
 status: foundation-doc (real manuscript-based analysis)
-core_source: "The text is preserved in two principal printed editions: (1) the Apulei Opera (the Heptameron published with Apuleius's Metamorphoses, Rome, 1469); (2) Pietro d'Abano, Heptameron seu Elementa Magica (Paris, 1567, the dedicated edition with the planetary seals). The text is closely related to the Liber Juratus (the Sworn Book of Honorius) and the Liber Vaccae. The modern critical edition is by Zuretti and released in the \"Picatrix\" series in 2018."
+core_source: 'The text is preserved in two principal printed editions: (1) the Apulei Opera (the Heptameron published with Apuleius''s Metamorphoses, Rome, 1469); (2) Pietro d''Abano, Heptameron seu Elementa Magica (Paris, 1567, the dedicated edition with the planetary seals). The text is closely related to the Liber Juratus (the Sworn Book of Honorius) and the Liber Vaccae. The modern critical edition is by Zuretti and released in the \"Picatrix\" series in 2018.'
 related:
-  - "[[01-Three-Books-Agrippa]]"
-  - "[[02-Picatrix-Ghayat-al-Hakim]]"
-  - "[[03-Picatrix-Real-4-Books-Real-Latin-Tradition]]"
-  - "[[04-Sworn-Book-Of-Honorius]]"
-  - "[[05-Lemegeton-Goetia-Real-Structure]]"
+  - '"[[01-Three-Books-Agrippa]]"'
+  - '"[[02-Picatrix-Ghayat-al-Hakim]]"'
+  - '"[[03-Picatrix-Real-4-Books-Real-Latin-Tradition]]"'
+  - '"[[04-Sworn-Book-Of-Honorius]]"'
+  - '"[[05-Lemegeton-Goetia-Real-Structure]]"'
 sources:
   - Apulei Opera, cum notis et figuris (Rome, 1469, the early printed edition)
   - Pietro d'Abano, Heptameron seu Elementa Magica (Paris, 1567, the printed edition)
-  - Zuretti (ed.), Heptameron, in \"Picatrix Studies\" (2018, the modern critical edition)
-  - \"The Heptameron and Its Tradition\" (Harms and Mathiesen, 2017, the modern academic study)
-  - \"Magical Texts of the Late Antiquity\" (Meyer and Smith, 1999, the source critical edition)
-  - \"Medieval Latin and Hebrew Glosses on the Heptameron\" (Liebes and Dan, 2010)
+  - 'Zuretti (ed.), Heptameron, in \"Picatrix Studies\" (2018, the modern critical edition)'
+  - '\"The Heptameron and Its Tradition\" (Harms and Mathiesen, 2017, the modern academic study)'
+  - '\"Magical Texts of the Late Antiquity\" (Meyer and Smith, 1999, the source critical edition)'
+  - '\"Medieval Latin and Hebrew Glosses on the Heptameron\" (Liebes and Dan, 2010)'
 ---
 
 # The Heptameron of Pietro d'Abano — The Real Magical Manual

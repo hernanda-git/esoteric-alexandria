@@ -1,19 +1,19 @@
 ---
-title: "The Angelic Hierarchy — Nine Choirs, Three Triads"
+title: 'The Angelic Hierarchy — Nine Choirs, Three Triads'
 category: 06-Angels-Jinn-Demons
 tradition: Christian Kabbalah / Neoplatonic
-era: Pseudo-Dionysius (5th-6th c.), systematized by Aquinas (13th c.)
-author: Pseudo-Dionysius the Areopagite, systematized by Thomas Aquinas
+era: 'Pseudo-Dionysius (5th-6th c.), systematized by Aquinas (13th c.)'
+author: 'Pseudo-Dionysius the Areopagite, systematized by Thomas Aquinas'
 tags: [angels, hierarchy, nine-choirs, dionysius, pseudo-dionysius, thomas-aquinas]
 status: foundation-doc
-core_source: "De Coelesti Hierarchia (5th-6th c.)"
+core_source: 'De Coelesti Hierarchia (5th-6th c.)'
 related:
-  - "[[02-Goetic-Spirits-72-Shemhamphorash]]"
-  - "[[03-Jinn-Islamic-Spirit-Lore]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
+  - '"[[02-Goetic-Spirits-72-Shemhamphorash]]"'
+  - '"[[03-Jinn-Islamic-Spirit-Lore]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
 sources:
-  - Pseudo-Dionysius, "De Coelesti Hierarchia" (5th-6th c. CE)
-  - Thomas Aquinas, "Summa Theologica" I qq. 50-114 (1265-1274)
+  - 'Pseudo-Dionysius, "De Coelesti Hierarchia" (5th-6th c. CE)'
+  - 'Thomas Aquinas, "Summa Theologica" I qq. 50-114 (1265-1274)'
   - Gregorian chant tradition
   - The Kabbalistic Tree of Life
 ---

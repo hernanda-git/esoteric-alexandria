@@ -1,22 +1,22 @@
 ---
-title: "Position Sizing — The Real Mathematics of Trading"
+title: 'Position Sizing — The Real Mathematics of Trading'
 category: 20-Trading-Risk-Archetypes
 tradition: Modern / Quantitative Trading
 era: 20th-21st century
 author: Van K. Tharp (b. 1946) — the founder of position-sizing theory in modern trading
 tags: [position-sizing, van-tharp, r-multiple, fixed-fractional, kelly-criterion, vol-targeting, fmlm]
 status: foundation-doc
-core_source: "Van K. Tharp, Trade Your Way to Financial Freedom (1998, 2nd ed. 2006) and The Definitive Guide to Position Sizing (2008, the dedicated text). The position-sizing theory is grounded in Ralph Vince's earlier work (The Mathematics of Money Management, 1992) and the original Kelly (1956)."
+core_source: 'Van K. Tharp, Trade Your Way to Financial Freedom (1998, 2nd ed. 2006) and The Definitive Guide to Position Sizing (2008, the dedicated text). The position-sizing theory is grounded in Ralph Vince''s earlier work (The Mathematics of Money Management, 1992) and the original Kelly (1956).'
 related:
-  - "[[01-Trading-And-The-Asketikos]]"
-  - "[[19-Business-Applications/02-Leader-Work-Without-The-Overclaim]]"
+  - '"[[01-Trading-And-The-Asketikos]]"'
+  - '"[[19-Business-Applications/02-Leader-Work-Without-The-Overclaim]]"'
 sources:
-  - Van K. Tharp, \"Trade Your Way to Financial Freedom\" (1998, 2nd ed. 2006)
-  - Van K. Tharp, \"The Definitive Guide to Position Sizing\" (2008, the dedicated text)
-  - Ralph Vince, \"The Mathematics of Money Management\" (1992)
-  - Larry Williams, \"Long-Term Secrets to Short-Term Trading\" (1999)
-  - John L. Kelly, \"A New Interpretation of Information Rate\" (1956, the original Kelly paper in the Bell System Technical Journal)
-  - Ed Thorp, \"The Mathematics of Gambling\" (1984)
+  - 'Van K. Tharp, \"Trade Your Way to Financial Freedom\" (1998, 2nd ed. 2006)'
+  - 'Van K. Tharp, \"The Definitive Guide to Position Sizing\" (2008, the dedicated text)'
+  - 'Ralph Vince, \"The Mathematics of Money Management\" (1992)'
+  - 'Larry Williams, \"Long-Term Secrets to Short-Term Trading\" (1999)'
+  - 'John L. Kelly, \"A New Interpretation of Information Rate\" (1956, the original Kelly paper in the Bell System Technical Journal)'
+  - 'Ed Thorp, \"The Mathematics of Gambling\" (1984)'
 ---
 
 # Position Sizing — The Real Mathematics of Trading

@@ -1,20 +1,20 @@
 ---
-title: "The I Ching — 64 Hexagrams"
+title: 'The I Ching — 64 Hexagrams'
 category: 07-Divination-Geomancy
 tradition: Chinese / Taoist / Confucian
-era: ~1100 BCE to 500 BCE (text), continuous practice since
-author: Attributed to King Wen of Zhou, the Duke of Zhou, and Confucius
+era: '~1100 BCE to 500 BCE (text), continuous practice since'
+author: 'Attributed to King Wen of Zhou, the Duke of Zhou, and Confucius'
 tags: [i-ching, yijing, hexagram, tao, confucian, yarrow, coin]
 status: foundation-doc
-core_source: "I Ching (易經, Book of Changes, ~500 BCE)"
+core_source: 'I Ching (易經, Book of Changes, ~500 BCE)'
 related:
-  - "[[01-Divination-Methods-Overview]]"
-  - "[[02-Geomancy-Earth-Speaks]]"
-  - "[[17-Philosophy-Cosmology/03-Tao-Te-Ching-Laozi]]"
+  - '"[[01-Divination-Methods-Overview]]"'
+  - '"[[02-Geomancy-Earth-Speaks]]"'
+  - '"[[17-Philosophy-Cosmology/03-Tao-Te-Ching-Laozi]]"'
 sources:
-  - Richard Wilhelm / Cary F. Baynes, "The I Ching" (1950) — the standard Western translation
-  - Edward Shaughnessy, "The Composition of the Zhouyi" (1996) — the scholarly standard
-  - Bradford Hatcher, "The Book of Changes and the Unchanging Truth" (2010)
+  - 'Richard Wilhelm / Cary F. Baynes, "The I Ching" (1950) — the standard Western translation'
+  - 'Edward Shaughnessy, "The Composition of the Zhouyi" (1996) — the scholarly standard'
+  - 'Bradford Hatcher, "The Book of Changes and the Unchanging Truth" (2010)'
 ---
 
 # The I Ching — 64 Hexagrams

@@ -1,22 +1,22 @@
 ---
-title: "Music of the Spheres — Pythagoras"
+title: 'Music of the Spheres — Pythagoras'
 category: 16-Science-Resonance
 tradition: Pythagorean / Greek
 era: 6th-4th century BCE
 author: Pythagoras of Samos (c. 570-495 BCE) and the Pythagorean school
 tags: [pythagoras, music-of-spheres, harmony-of-spheres, harmonics, tetractys, philosophy-of-music]
 status: foundation-doc
-core_source: "The Pythagorean tradition as preserved in Plato's Republic, Timaeus, and Aristotle's De Caelo; the surviving fragments of Philolaus, Archytas, and the Pseudo-Pythagorean writings"
+core_source: 'The Pythagorean tradition as preserved in Plato''s Republic, Timaeus, and Aristotle''s De Caelo; the surviving fragments of Philolaus, Archytas, and the Pseudo-Pythagorean writings'
 related:
-  - "[[01-Cymatics-And-Vibration]]"
-  - "[[03-Harmonics-Resonance-Fourier]]"
-  - "[[17-Philosophy-Cosmology/04-Tetraktys-And-Pythagorean-Number]]"
+  - '"[[01-Cymatics-And-Vibration]]"'
+  - '"[[03-Harmonics-Resonance-Fourier]]"'
+  - '"[[17-Philosophy-Cosmology/04-Tetraktys-And-Pythagorean-Number]]"'
 sources:
-  - "The Pythagorean Sourcebook and Library" (Kenneth Guthrie, trans., 1987)
-  - "The Music of the Spheres" (Jamie James, 1993)
-  - "Boethius, "De Institutione Musica"" (c. 500 CE) — the Latin preservation
-  - Carl Huffman, "Archytas of Tarentum" (2005)
-  - "The Pythagorean Tradition" (Peter Kingsley, 1994)
+  - '"The Pythagorean Sourcebook and Library" (Kenneth Guthrie, trans., 1987)'
+  - '"The Music of the Spheres" (Jamie James, 1993)'
+  - '"Boethius, "De Institutione Musica"" (c. 500 CE) — the Latin preservation'
+  - 'Carl Huffman, "Archytas of Tarentum" (2005)'
+  - '"The Pythagorean Tradition" (Peter Kingsley, 1994)'
 ---
 
 # Music of the Spheres — Pythagoras

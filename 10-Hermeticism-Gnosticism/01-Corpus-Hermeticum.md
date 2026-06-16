@@ -1,20 +1,20 @@
 ---
-title: "The Corpus Hermeticum — The Foundational Texts"
+title: 'The Corpus Hermeticum — The Foundational Texts'
 category: 10-Hermeticism-Gnosticism
 tradition: Hermetic / Greco-Egyptian
-era: Compiled 1st-3rd c. CE, rediscovered 1460
-author: Attributed to Hermes Trismegistus ("thrice-greatest")
+era: 'Compiled 1st-3rd c. CE, rediscovered 1460'
+author: 'Attributed to Hermes Trismegistus ("thrice-greatest")'
 tags: [hermetic, hermes-trismegistus, poimandres, corpus-hermeticum, asclepius]
 status: foundation-doc
-core_source: "Corpus Hermeticum (17 treatises, 1st-3rd c. CE), Asclepius (1st-2nd c. CE, surviving in Latin)"
+core_source: 'Corpus Hermeticum (17 treatises, 1st-3rd c. CE), Asclepius (1st-2nd c. CE, surviving in Latin)'
 related:
-  - "[[02-Gnosticism-Overview]]"
-  - "[[03-Poimandres-Vision-Of-Mind]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"
+  - '"[[02-Gnosticism-Overview]]"'
+  - '"[[03-Poimandres-Vision-Of-Mind]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"'
 sources:
-  - Brian P. Copenhaver, "Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius in a New English Translation" (1992)
-  - "The Way of Hermes" (C. Salaman et al., 1999) — translations of the treatises
-  - Frances Yates, "Giordano Bruno and the Hermetic Tradition" (1964)
+  - 'Brian P. Copenhaver, "Hermetica: The Greek Corpus Hermeticum and the Latin Asclepius in a New English Translation" (1992)'
+  - '"The Way of Hermes" (C. Salaman et al., 1999) — translations of the treatises'
+  - 'Frances Yates, "Giordano Bruno and the Hermetic Tradition" (1964)'
 ---
 
 # The Corpus Hermeticum — The Foundational Texts

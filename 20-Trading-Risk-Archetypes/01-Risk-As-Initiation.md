@@ -1,14 +1,14 @@
 ---
-title: "Trading and the Asketikos — Discipline as Initiation"
+title: 'Trading and the Asketikos — Discipline as Initiation'
 category: 20-Trading-Risk-Archetypes
 tradition: Modern / Trading / Comparative
 era: 21st century
 tags: [trading, risk, drawdown, ordeal, discipline, asketikos, hermit-tradition]
-status: critical-doc (a careful, hedged comparison)
+status: 'critical-doc (a careful, hedged comparison)'
 related:
-  - "[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"
-  - "[[18-Psychology-Jungian/02-Shadow-Work-And-The-Dark-Self]]"
-  - "[[09-Sufism-Irfan/03-The-Maqamat-And-Ahwal-Stations-And-States]]"
+  - '"[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"'
+  - '"[[18-Psychology-Jungian/02-Shadow-Work-And-The-Dark-Self]]"'
+  - '"[[09-Sufism-Irfan/03-The-Maqamat-And-Ahwal-Stations-And-States]]"'
 ---
 
 # Trading and the Asketikos — Discipline as Initiation

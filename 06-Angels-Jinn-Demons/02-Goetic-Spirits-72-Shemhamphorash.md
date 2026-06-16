@@ -1,19 +1,19 @@
 ---
-title: "The 72 Goetic Spirits and the Shem ha-Mephorash"
+title: 'The 72 Goetic Spirits and the Shem ha-Mephorash'
 category: 06-Angels-Jinn-Demons
 tradition: Jewish Kabbalah / Solomonic Western
-era: Shem ha-Mephorash: Talmudic; Goetia: medieval, 17th c. compilation
+era: 'Shem ha-Mephorash: Talmudic; Goetia: medieval, 17th c. compilation'
 tags: [shem-hamphorash, 72-angels, goetia, demon, seal, solomon]
 status: foundation-doc
-core_source: "Book of Enoch (3rd c. BCE), Talmud Kiddushin 71a, Shem ha-Mephorash, Lesser Key of Solomon"
+core_source: 'Book of Enoch (3rd c. BCE), Talmud Kiddushin 71a, Shem ha-Mephorash, Lesser Key of Solomon'
 related:
-  - "[[01-Angelic-Hierarchy]]"
-  - "[[05-Talismanic-Magick/03-Goetia-Solomonic-Grimoire]]"
-  - "[[08-Kabbalah-Numerology/01-Gematria-Mapping]]"
+  - '"[[01-Angelic-Hierarchy]]"'
+  - '"[[05-Talismanic-Magick/03-Goetia-Solomonic-Grimoire]]"'
+  - '"[[08-Kabbalah-Numerology/01-Gematria-Mapping]]"'
 sources:
-  - "Sefer ha-Razim" (4th-6th c. CE, earliest shem ha-mephorash text)
+  - '"Sefer ha-Razim" (4th-6th c. CE, earliest shem ha-mephorash text)'
   - 1 Enoch 6-16 (Book of the Watchers, 3rd c. BCE)
-  - "The Lesser Key of Solomon" (Goetia section, 17th c. compilation)
+  - '"The Lesser Key of Solomon" (Goetia section, 17th c. compilation)'
   - 3 Enoch (5th-6th c. CE)
 ---
 

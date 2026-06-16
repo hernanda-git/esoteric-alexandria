@@ -1,23 +1,23 @@
 ---
-title: "Carl Jung and the Alchemical Unconscious"
+title: 'Carl Jung and the Alchemical Unconscious'
 category: 18-Psychology-Jungian
 tradition: Modern / Depth Psychology
 era: 1900-1961
 author: Carl Gustav Jung (1875-1961)
 tags: [jung, analytical-psychology, shadow, anima, animus, self, individuation, alchemy]
 status: foundation-doc
-core_source: "Jung's Collected Works (CW), 20 volumes, published 1957-1979; Psychology of the Transference (1946); Mysterium Coniunctionis (1955)"
+core_source: 'Jung''s Collected Works (CW), 20 volumes, published 1957-1979; Psychology of the Transference (1946); Mysterium Coniunctionis (1955)'
 related:
-  - "[[02-Shadow-Work-And-The-Dark-Self]]"
-  - "[[03-Archetypes-And-Collective-Unconscious]]"
-  - "[[04-Individuation-Process]]"
-  - "[[04-Alchemy-Transmutation/01-Alchemy-Overview]]"
+  - '"[[02-Shadow-Work-And-The-Dark-Self]]"'
+  - '"[[03-Archetypes-And-Collective-Unconscious]]"'
+  - '"[[04-Individuation-Process]]"'
+  - '"[[04-Alchemy-Transmutation/01-Alchemy-Overview]]"'
 sources:
-  - C.G. Jung, "Collected Works" (CW, 20 volumes, Bollingen / Princeton)
-  - "The Portable Jung" (Robert F.C. Hull, ed., 1971)
-  - Marie-Louise von Franz, "Aurora Consurgens" (posthumous, 2002)
-  - Edward Edinger, "Anatomy of the Psyche" (1985)
-  - "Jung's Map of the Soul" (Murray Stein, 1998)
+  - 'C.G. Jung, "Collected Works" (CW, 20 volumes, Bollingen / Princeton)'
+  - '"The Portable Jung" (Robert F.C. Hull, ed., 1971)'
+  - 'Marie-Louise von Franz, "Aurora Consurgens" (posthumous, 2002)'
+  - 'Edward Edinger, "Anatomy of the Psyche" (1985)'
+  - '"Jung''s Map of the Soul" (Murray Stein, 1998)'
 ---
 
 # Carl Jung and the Alchemical Unconscious

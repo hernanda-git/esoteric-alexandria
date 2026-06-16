@@ -1,23 +1,23 @@
 ---
-title: "Plotinus and the Three Hypostases"
+title: 'Plotinus and the Three Hypostases'
 category: 11-NeoPlatonism-Theurgy
 tradition: Neoplatonic
 era: 3rd century CE (204-270 CE)
 author: Plotinus (c. 204-270 CE); arranged by Porphyry into the Enneads
 tags: [plotinus, enneads, one, nous, soul, emanation, hypostasis, the-one, hen]
 status: foundation-doc
-core_source: "Plotinus, Enneads (6 groups of 9 treatises), compiled and arranged by Porphyry c. 270-305 CE. The Enneads are the foundation of Western Neoplatonism."
+core_source: 'Plotinus, Enneads (6 groups of 9 treatises), compiled and arranged by Porphyry c. 270-305 CE. The Enneads are the foundation of Western Neoplatonism.'
 related:
-  - "[[01-Iamblichus-De-Mysteriis]]"
-  - "[[03-Proclus-Elements-Of-Theology]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
-  - "[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"
+  - '"[[01-Iamblichus-De-Mysteriis]]"'
+  - '"[[03-Proclus-Elements-Of-Theology]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
+  - '"[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"'
 sources:
-  - Plotinus, "The Enneads" (Stephen Mackinnon, 1917-1930; the older standard English)
-  - Plotinus, "The Enneads" (A.H. Armstrong, Loeb Classical Library, 7 vols., 1966-1988; the critical modern)
-  - "Plotinus" (Lloyd P. Gerson, 1994, the best modern introduction)
-  - "Plotinus: An Introduction to the Enneads" (O'Daly, 1973)
-  - "Plotinus on the Intellect" (John M. Rist, 1967)
+  - 'Plotinus, "The Enneads" (Stephen Mackinnon, 1917-1930; the older standard English)'
+  - 'Plotinus, "The Enneads" (A.H. Armstrong, Loeb Classical Library, 7 vols., 1966-1988; the critical modern)'
+  - '"Plotinus" (Lloyd P. Gerson, 1994, the best modern introduction)'
+  - '"Plotinus: An Introduction to the Enneads" (O''Daly, 1973)'
+  - '"Plotinus on the Intellect" (John M. Rist, 1967)'
 ---
 
 # Plotinus and the Three Hypostases

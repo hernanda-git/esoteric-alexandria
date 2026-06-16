@@ -1,20 +1,20 @@
 ---
-title: "Tantra — Left-Hand and Right-Hand Paths"
+title: 'Tantra — Left-Hand and Right-Hand Paths'
 category: 14-Indian-Tantric-Chinese
 tradition: Hindu / Buddhist / Jain
 era: 5th-12th century CE (the Tantric period)
 tags: [tantra, vamamarga, dakshinamarga, kundalini, shakti, mantra, yantra, puja]
 status: foundation-doc
-core_source: "Kularnava Tantra, Mahanirvana Tantra, Vijnana-bhairava, Hevajra Tantra, Guhyasamaja Tantra"
+core_source: 'Kularnava Tantra, Mahanirvana Tantra, Vijnana-bhairava, Hevajra Tantra, Guhyasamaja Tantra'
 related:
-  - "[[01-Seven-Chakras]]"
-  - "[[02-Chinese-Alchemy-Neidan-Waidan]]"
+  - '"[[01-Seven-Chakras]]"'
+  - '"[[02-Chinese-Alchemy-Neidan-Waidan]]"'
 sources:
-  - "Tantra: The Supreme Understanding" (Sir John Woodroffe / Arthur Avalon, 1913-1938)
-  - "Tantra: A Brief Insight" (Radhika Shrestha, 2011)
-  - "In Praise of the Great Goddess" (Lakshmi Narayan, 2013)
-  - "Tantra and Tantric Buddhism" (David Gordon White, 2000)
-  - Alexis Sanderson, "The Saiva Age" (2009)
+  - '"Tantra: The Supreme Understanding" (Sir John Woodroffe / Arthur Avalon, 1913-1938)'
+  - '"Tantra: A Brief Insight" (Radhika Shrestha, 2011)'
+  - '"In Praise of the Great Goddess" (Lakshmi Narayan, 2013)'
+  - '"Tantra and Tantric Buddhism" (David Gordon White, 2000)'
+  - 'Alexis Sanderson, "The Saiva Age" (2009)'
 ---
 
 # Tantra — Left-Hand and Right-Hand Paths

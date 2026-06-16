@@ -1,20 +1,20 @@
 ---
-title: "Enuma Anu Enlil — Babylonian Celestial Divination"
+title: 'Enuma Anu Enlil — Babylonian Celestial Divination'
 category: 13-Mesopotamian-Egyptian
 tradition: Babylonian / Mesopotamian
 era: Old Babylonian (c. 1900 BCE) to Neo-Babylonian (c. 540 BCE)
 tags: [enuma-anu-enlil, babylonia, astrology, celestial-omen, divination, omens]
 status: foundation-doc
-core_source: "Enuma Anu Enlil (68 tablets, 70 cuneiform tablets, ~7,000 omens, c. 1900-540 BCE)"
+core_source: 'Enuma Anu Enlil (68 tablets, 70 cuneiform tablets, ~7,000 omens, c. 1900-540 BCE)'
 related:
-  - "[[02-Egypt-Book-Of-The-Dead]]"
-  - "[[03-Sabians-Of-Harran-Last-Babylonians]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"
+  - '"[[02-Egypt-Book-Of-The-Dead]]"'
+  - '"[[03-Sabians-Of-Harran-Last-Babylonians]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"'
 sources:
-  - Erica Reiner, "Astral Magic in Babylonia" (1995, Transactions of the American Philosophical Society)
-  - "Babylonian Planetary Omens" (Reiner & Pingree, multi-volume, 1998-2005)
-  - David Brown, "Astral Divination in the Ancient World" (2000)
-  - Francesca Rochberg, "The Heavenly Writing" (2004)
+  - 'Erica Reiner, "Astral Magic in Babylonia" (1995, Transactions of the American Philosophical Society)'
+  - '"Babylonian Planetary Omens" (Reiner & Pingree, multi-volume, 1998-2005)'
+  - 'David Brown, "Astral Divination in the Ancient World" (2000)'
+  - 'Francesca Rochberg, "The Heavenly Writing" (2004)'
 ---
 
 # Enuma Anu Enlil — Babylonian Celestial Divination

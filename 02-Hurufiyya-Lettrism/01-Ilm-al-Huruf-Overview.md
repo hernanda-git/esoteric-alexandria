@@ -1,21 +1,21 @@
 ---
-title: "'Ilm al-Huruf — The Science of Letters"
+title: '''Ilm al-Huruf — The Science of Letters'
 category: 02-Hurufiyya-Lettrism
 tradition: Islamic esoteric
 era: 8th-13th century CE
 tags: [huruf, lettrism, abjad, shams-al-maarif, al-buni, jafr, simiya]
 status: foundation-doc
-core_source: "[[Shams al-Ma'arif al-Kubra]] by Ahmad al-Buni (d. 622 AH / 1225 CE)"
+core_source: '[[Shams al-Ma''arif al-Kubra]] by Ahmad al-Buni (d. 622 AH / 1225 CE)'
 related:
-  - "[[02-Abjad-Numerals]]"
-  - "[[03-Jafr-Ilm-of-Letters]]"
-  - "[[04-Simiya-Magical-Properties-of-Letters]]"
-  - "[[05-Wafq-Magic-Squares]]"
-  - "[[08-Divine-Names-As-Letters]]"
+  - '"[[02-Abjad-Numerals]]"'
+  - '"[[03-Jafr-Ilm-of-Letters]]"'
+  - '"[[04-Simiya-Magical-Properties-of-Letters]]"'
+  - '"[[05-Wafq-Magic-Squares]]"'
+  - '"[[08-Divine-Names-As-Letters]]"'
 sources:
-  - Ahmad al-Buni, "Shams al-Ma'arif" (4 volumes, 13th c.)
-  - Ibn Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"
-  - Ali ibn Abi Talib, attributed "Jafar al-Sadiq traditions" (8th c.)
+  - 'Ahmad al-Buni, "Shams al-Ma''arif" (4 volumes, 13th c.)'
+  - 'Ibn Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"'
+  - 'Ali ibn Abi Talib, attributed "Jafar al-Sadiq traditions" (8th c.)'
 ---
 
 # 'Ilm al-Huruf — The Science of Letters

@@ -1,19 +1,19 @@
 ---
-title: "Perennial Philosophy — Same River, Different Banks"
+title: 'Perennial Philosophy — Same River, Different Banks'
 category: 01-Origins-Traditions
 tradition: Comparative
 era: 15th century onwards
 tags: [perennialism, prisca-theologia, hermes-trismegistus, unity]
 status: foundation-doc
 related:
-  - "[[01-What-Is-Esotericism]]"
-  - "[[05-Perennial-Philosophy]]"
+  - '"[[01-What-Is-Esotericism]]"'
+  - '"[[05-Perennial-Philosophy]]"'
 sources:
-  - Marsilio Ficino, "De Christiana Religione" (1474)
-  - Agostino Steuco, "De Perenni Philosophia" (1540) — the term originates here
-  - Aldous Huxley, "The Perennial Philosophy" (1945)
-  - René Guénon, "Introduction to the Study of the Hindu Doctrines" (1921)
-  - Ananda Coomaraswamy, "The Bugbear of Literacy" (1947)
+  - 'Marsilio Ficino, "De Christiana Religione" (1474)'
+  - 'Agostino Steuco, "De Perenni Philosophia" (1540) — the term originates here'
+  - 'Aldous Huxley, "The Perennial Philosophy" (1945)'
+  - 'René Guénon, "Introduction to the Study of the Hindu Doctrines" (1921)'
+  - 'Ananda Coomaraswamy, "The Bugbear of Literacy" (1947)'
 ---
 
 # Perennial Philosophy — Same River, Different Banks

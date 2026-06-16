@@ -1,22 +1,22 @@
 ---
-title: "The Tetraktys and the Pythagorean Number-Paradise"
+title: 'The Tetraktys and the Pythagorean Number-Paradise'
 category: 17-Philosophy-Cosmology
 tradition: Pythagorean / Greek
 era: 6th-4th century BCE
 author: Pythagoras and the Pythagorean school
 tags: [tetraktys, pythagorean, number, philosophy, sacred-geometry, tetractys]
 status: foundation-doc
-core_source: "The Pythagorean tradition as preserved in Aristotle's Metaphysics, Theon of Smyrna, Nicomachus of Gerasa, and Iamblichus's De Vita Pythagorica"
+core_source: 'The Pythagorean tradition as preserved in Aristotle''s Metaphysics, Theon of Smyrna, Nicomachus of Gerasa, and Iamblichus''s De Vita Pythagorica'
 related:
-  - "[[01-Emanation-And-Descent]]"
-  - "[[03-Tao-Te-Ching-Laozi]]"
-  - "[[08-Kabbalah-Numerology/01-Tree-Of-Life]]"
-  - "[[16-Science-Resonance/02-Music-Of-The-Spheres-Pythagoras]]"
+  - '"[[01-Emanation-And-Descent]]"'
+  - '"[[03-Tao-Te-Ching-Laozi]]"'
+  - '"[[08-Kabbalah-Numerology/01-Tree-Of-Life]]"'
+  - '"[[16-Science-Resonance/02-Music-Of-The-Spheres-Pythagoras]]"'
 sources:
-  - "The Pythagorean Sourcebook and Library" (Kenneth Guthrie, trans., 1987)
-  - "The Music of the Spheres" (Jamie James, 1993)
-  - "Aristotle, Metaphysics" (Book A, 5-6, on the Pythagoreans)
-  - Peter Kingsley, "Ancient Philosophy, Mystery, and Magic" (1995)
+  - '"The Pythagorean Sourcebook and Library" (Kenneth Guthrie, trans., 1987)'
+  - '"The Music of the Spheres" (Jamie James, 1993)'
+  - '"Aristotle, Metaphysics" (Book A, 5-6, on the Pythagoreans)'
+  - 'Peter Kingsley, "Ancient Philosophy, Mystery, and Magic" (1995)'
 ---
 
 # The Tetraktys and the Pythagorean Number-Paradise

@@ -1,21 +1,21 @@
 ---
-title: "The Goetia — The Lesser Key of Solomon"
+title: 'The Goetia — The Lesser Key of Solomon'
 category: 05-Talismanic-Magick
 tradition: Solomonic / Western Christian Kabbalah
-era: 17th century (current edition), older sources medieval
-author: Anonymous, attributed to King Solomon
+era: '17th century (current edition), older sources medieval'
+author: 'Anonymous, attributed to King Solomon'
 tags: [goetia, solomon, lesser-key, demon, conjuration, grimoire]
 status: foundation-doc
-core_source: "Lemegeton Clavicula Salomonis (17th c. compilation, current form)"
+core_source: 'Lemegeton Clavicula Salomonis (17th c. compilation, current form)'
 related:
-  - "[[01-Squares-And-Sigils]]"
-  - "[[02-Planetary-Talismans]]"
-  - "[[06-Angels-Jinn-Demons/02-Goetic-Spirits-72-Shemhamphorash]]"
+  - '"[[01-Squares-And-Sigils]]"'
+  - '"[[02-Planetary-Talismans]]"'
+  - '"[[06-Angels-Jinn-Demons/02-Goetic-Spirits-72-Shemhamphorash]]"'
 sources:
-  - "The Lesser Key of Solomon" (ed. Joseph Peterson, 2001)
-  - S.L. MacGregor Mathers, "The Book of the Sacred Magic of Abramelin" (1898, English edition)
-  - "The Testament of Solomon" (1st-5th c. CE, earliest source)
-  - "Steganographia" of Trithemius (1499/1606)
+  - '"The Lesser Key of Solomon" (ed. Joseph Peterson, 2001)'
+  - 'S.L. MacGregor Mathers, "The Book of the Sacred Magic of Abramelin" (1898, English edition)'
+  - '"The Testament of Solomon" (1st-5th c. CE, earliest source)'
+  - '"Steganographia" of Trithemius (1499/1606)'
 ---
 
 # The Goetia — The Lesser Key of Solomon

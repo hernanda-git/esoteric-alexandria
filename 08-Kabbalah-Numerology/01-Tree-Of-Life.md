@@ -1,20 +1,20 @@
 ---
-title: "The Tree of Life — 10 Sephirot, 22 Paths"
+title: 'The Tree of Life — 10 Sephirot, 22 Paths'
 category: 08-Kabbalah-Numerology
 tradition: Jewish Kabbalah
-era: Sefer Yetzirah (~3rd-6th c. CE), Zohar (~13th c. CE)
+era: 'Sefer Yetzirah (~3rd-6th c. CE), Zohar (~13th c. CE)'
 tags: [kabbalah, tree-of-life, sephirot, paths, ein-sof, emanation]
 status: foundation-doc
-core_source: "Sefer Yetzirah (Book of Creation, 3rd-6th c. CE), Sefer ha-Zohar (Book of Splendor, 13th c. CE)"
+core_source: 'Sefer Yetzirah (Book of Creation, 3rd-6th c. CE), Sefer ha-Zohar (Book of Splendor, 13th c. CE)'
 related:
-  - "[[02-Gematria-Mapping]]"
-  - "[[03-Christian-Kabbalah-Pico-Reuchlin-Agrippa]]"
-  - "[[06-Angels-Jinn-Demons/01-Angelic-Hierarchy]]"
+  - '"[[02-Gematria-Mapping]]"'
+  - '"[[03-Christian-Kabbalah-Pico-Reuchlin-Agrippa]]"'
+  - '"[[06-Angels-Jinn-Demons/01-Angelic-Hierarchy]]"'
 sources:
   - Sefer Yetzirah, multiple English translations
   - Sefer ha-Zohar, multiple English translations (Sperling, Matt)
-  - Gershom Scholem, "On the Kabbalah and Its Symbolism" (1965)
-  - Daniel Matt, "The Essential Kabbalah" (1995)
+  - 'Gershom Scholem, "On the Kabbalah and Its Symbolism" (1965)'
+  - 'Daniel Matt, "The Essential Kabbalah" (1995)'
 ---
 
 # The Tree of Life — 10 Sephirot, 22 Paths

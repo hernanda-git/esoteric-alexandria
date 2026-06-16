@@ -1,19 +1,19 @@
 ---
-title: "The Four Stages — Nigredo, Albedo, Citrinitas, Rubedo"
+title: 'The Four Stages — Nigredo, Albedo, Citrinitas, Rubedo'
 category: 04-Alchemy-Transmutation
 tradition: Western alchemy
-era: Hellenistic onwards, fully developed by 16th c.
+era: 'Hellenistic onwards, fully developed by 16th c.'
 tags: [nigredo, albedo, citrinitas, rubedo, opus-magnum, stage-operations]
 status: foundation-doc
-core_source: "Rosarium Philosophorum (1550), Aurora Consurgens (14th c.)"
+core_source: 'Rosarium Philosophorum (1550), Aurora Consurgens (14th c.)'
 related:
-  - "[[01-Alchemy-Overview]]"
-  - "[[18-Psychology-Jungian/04-Individuation-Process]]"
+  - '"[[01-Alchemy-Overview]]"'
+  - '"[[18-Psychology-Jungian/04-Individuation-Process]]"'
 sources:
-  - "Rosarium Philosophorum" (1550, facsimile ed. by Carl Jung, 1939)
-  - Carl Jung, "Psychology of the Transference" (1946, CW 16)
-  - Edward Edinger, "Anatomy of the Psyche" (1985)
-  - Stanton Marlan, "The Black Sun" (2005)
+  - '"Rosarium Philosophorum" (1550, facsimile ed. by Carl Jung, 1939)'
+  - 'Carl Jung, "Psychology of the Transference" (1946, CW 16)'
+  - 'Edward Edinger, "Anatomy of the Psyche" (1985)'
+  - 'Stanton Marlan, "The Black Sun" (2005)'
 ---
 
 # The Four Stages — Nigredo, Albedo, Citrinitas, Rubedo

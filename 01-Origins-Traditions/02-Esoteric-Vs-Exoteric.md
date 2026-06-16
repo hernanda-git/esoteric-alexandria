@@ -1,17 +1,17 @@
 ---
-title: "Esoteric vs Exoteric"
+title: 'Esoteric vs Exoteric'
 category: 01-Origins-Traditions
 tradition: Greek
 era: Hellenistic (1st-3rd century CE)
 tags: [terminology, public-vs-hidden, initation]
 status: foundation-doc
 related:
-  - "[[01-What-Is-Esotericism]]"
-  - "[[06-Initiation-And-Veil]]"
+  - '"[[01-What-Is-Esotericism]]"'
+  - '"[[06-Initiation-And-Veil]]"'
 sources:
-  - Plato, "Republic" Book II (the Noble Lie)
-  - Aristotle's lost "exoterikoi logoi" (perfrastic works)
-  - Iamblichus, "De Mysteriis" (On the Mysteries)
+  - 'Plato, "Republic" Book II (the Noble Lie)'
+  - 'Aristotle''s lost "exoterikoi logoi" (perfrastic works)'
+  - 'Iamblichus, "De Mysteriis" (On the Mysteries)'
 ---
 
 # Esoteric vs Exoteric

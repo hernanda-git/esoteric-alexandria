@@ -1,17 +1,17 @@
 ---
-title: "Jafr — Divination by Letters"
+title: 'Jafr — Divination by Letters'
 category: 02-Hurufiyya-Lettrism
 tradition: Shia / Sufi
 era: 8th century onwards
 tags: [jafr, divination, prediction, shia, ismaili, batiniyya]
 status: foundation-doc
 related:
-  - "[[01-Ilm-al-Huruf-Overview]]"
-  - "[[02-Abjad-Numerals]]"
+  - '"[[01-Ilm-al-Huruf-Overview]]"'
+  - '"[[02-Abjad-Numerals]]"'
 sources:
   - Ja'far al-Sadiq, attributed teachings (8th c.)
-  - Ibn al-Mu'allim al-Karajaki, "Kanz al-Fawa'id" (11th c.)
-  - Modern academic study: Sachedina (1981)
+  - 'Ibn al-Mu''allim al-Karajaki, "Kanz al-Fawa''id" (11th c.)'
+  - 'Modern academic study: Sachedina (1981)'
 ---
 
 # Jafr — Divination by Letters

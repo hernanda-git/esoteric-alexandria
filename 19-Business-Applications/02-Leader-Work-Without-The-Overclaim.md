@@ -1,25 +1,25 @@
 ---
-title: "The Leader's Work — A Clean Vocabulary"
+title: 'The Leader''s Work — A Clean Vocabulary'
 category: 19-Business-Applications
 tradition: Modern / Leadership Studies
 era: 20th-21st century
 tags: [leadership, vision, action, accountability, kotter, drucker, kouzes-posner, real-literature]
-status: foundation-doc (uses the actual leadership literature, no esoteric metaphor)
-core_source: "The leadership literature has its own canon: Drucker, The Effective Executive (1967); Kotter, Leading Change (1996); Kouzes & Posner, The Leadership Challenge (1987, revised 2017); Collins, Good to Great (2001) and Built to Last (1996); Heifetz, Leadership Without Easy Answers (1994); Goleman, Emotional Intelligence (1995) and Primal Leadership (2002); Senge, The Fifth Discipline (1990); Welch, Jack: Straight from the Gut (2001); Grove, Only the Paranoid Survive (1996); Charan, et al., The Leadership Pipeline (2011); Bennis, On Becoming a Leader (1989/2009); Greenleaf, Servant Leadership (1977)."
+status: 'foundation-doc (uses the actual leadership literature, no esoteric metaphor)'
+core_source: 'The leadership literature has its own canon: Drucker, The Effective Executive (1967); Kotter, Leading Change (1996); Kouzes & Posner, The Leadership Challenge (1987, revised 2017); Collins, Good to Great (2001) and Built to Last (1996); Heifetz, Leadership Without Easy Answers (1994); Goleman, Emotional Intelligence (1995) and Primal Leadership (2002); Senge, The Fifth Discipline (1990); Welch, Jack: Straight from the Gut (2001); Grove, Only the Paranoid Survive (1996); Charan, et al., The Leadership Pipeline (2011); Bennis, On Becoming a Leader (1989/2009); Greenleaf, Servant Leadership (1977).'
 related:
-  - "[[02-The-Magus-In-The-Western-Esoteric-Tradition]]"
-  - "[[01-Planetary-Hours-Business]]"
-  - "[[03-Org-Culture-As-Culture-Not-Subtle-Body]]"
-  - "[[18-Psychology-Jungian/04-Individuation-Process]]"
+  - '"[[02-The-Magus-In-The-Western-Esoteric-Tradition]]"'
+  - '"[[01-Planetary-Hours-Business]]"'
+  - '"[[03-Org-Culture-As-Culture-Not-Subtle-Body]]"'
+  - '"[[18-Psychology-Jungian/04-Individuation-Process]]"'
 sources:
-  - Drucker, \"The Effective Executive\" (1967, the standard handbook)
-  - Kotter, \"Leading Change\" (1996)
-  - Kouzes & Posner, \"The Leadership Challenge\" (6th ed. 2017, the most-cited leadership text)
-  - Collins, \"Good to Great\" (2001) and \"Built to Last\" (1996)
-  - Heifetz, \"Leadership Without Easy Answers\" (1994, the most-cited critical text)
-  - Goleman, \"Primal Leadership\" (2002, the most-cited emotional intelligence text)
-  - Senge, \"The Fifth Discipline\" (1990)
-  - Charan, et al., \"The Leadership Pipeline\" (2011, the standard HR-side text)
+  - 'Drucker, \"The Effective Executive\" (1967, the standard handbook)'
+  - 'Kotter, \"Leading Change\" (1996)'
+  - 'Kouzes & Posner, \"The Leadership Challenge\" (6th ed. 2017, the most-cited leadership text)'
+  - 'Collins, \"Good to Great\" (2001) and \"Built to Last\" (1996)'
+  - 'Heifetz, \"Leadership Without Easy Answers\" (1994, the most-cited critical text)'
+  - 'Goleman, \"Primal Leadership\" (2002, the most-cited emotional intelligence text)'
+  - 'Senge, \"The Fifth Discipline\" (1990)'
+  - 'Charan, et al., \"The Leadership Pipeline\" (2011, the standard HR-side text)'
 ---
 
 # The Leader's Work — A Clean Vocabulary

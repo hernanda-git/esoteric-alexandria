@@ -1,21 +1,21 @@
 ---
-title: "The Seven Chakras — Mapping the Subtle Body"
+title: 'The Seven Chakras — Mapping the Subtle Body'
 category: 14-Indian-Tantric-Chinese
 tradition: Hindu / Tantric
-era: Upanishadic roots (~800 BCE), systematized in Tantric period (~5th-12th c. CE)
+era: 'Upanishadic roots (~800 BCE), systematized in Tantric period (~5th-12th c. CE)'
 tags: [chakras, kundalini, subtle-body, tantra, prana, nadis, yoga]
 status: foundation-doc
-core_source: "Sat-Cakra-Nirupana (1577), Padaka-Pancaka, Yoga Sutras of Patanjali, Hatha Yoga Pradipika (15th c.)"
+core_source: 'Sat-Cakra-Nirupana (1577), Padaka-Pancaka, Yoga Sutras of Patanjali, Hatha Yoga Pradipika (15th c.)'
 related:
-  - "[[02-Chinese-Alchemy-Neidan-Waidan]]"
-  - "[[03-Tantra-Left-Hand-Right-Hand]]"
-  - "[[08-Kabbalah-Numerology/01-Tree-Of-Life]]"
+  - '"[[02-Chinese-Alchemy-Neidan-Waidan]]"'
+  - '"[[03-Tantra-Left-Hand-Right-Hand]]"'
+  - '"[[08-Kabbalah-Numerology/01-Tree-Of-Life]]"'
 sources:
-  - "Sat-Cakra-Nirupana" (trans. Arthur Avalon, 1913/1969) — the classical text
-  - "The Serpent Power" (Arthur Avalon / John Woodroffe, 1919) — the modern standard
-  - Georg Feuerstein, "The Yoga Tradition" (1996)
-  - "Hatha Yoga Pradipika" (15th c., trans. Pancham Sinh, 1914)
-  - "Chakras: Energy Centers of Transformation" (Harish Johari, 2000)
+  - '"Sat-Cakra-Nirupana" (trans. Arthur Avalon, 1913/1969) — the classical text'
+  - '"The Serpent Power" (Arthur Avalon / John Woodroffe, 1919) — the modern standard'
+  - 'Georg Feuerstein, "The Yoga Tradition" (1996)'
+  - '"Hatha Yoga Pradipika" (15th c., trans. Pancham Sinh, 1914)'
+  - '"Chakras: Energy Centers of Transformation" (Harish Johari, 2000)'
 ---
 
 # The Seven Chakras — Mapping the Subtle Body

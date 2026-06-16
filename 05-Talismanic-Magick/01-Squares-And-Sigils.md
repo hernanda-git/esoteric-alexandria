@@ -1,20 +1,20 @@
 ---
-title: "Squares, Sigils, and Pentacles"
+title: 'Squares, Sigils, and Pentacles'
 category: 05-Talismanic-Magick
 tradition: Cross-tradition
 era: All
 tags: [talisman, sigil, pentacle, seal, square, sigil-magic]
 status: foundation-doc
-core_source: "Shams al-Ma'arif (al-Buni), Picatrix, Three Books of Occult Philosophy (Agrippa)"
+core_source: 'Shams al-Ma''arif (al-Buni), Picatrix, Three Books of Occult Philosophy (Agrippa)'
 related:
-  - "[[02-Planetary-Talismans]]"
-  - "[[03-Goetia-Solomonic-Grimoire]]"
-  - "[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"
+  - '"[[02-Planetary-Talismans]]"'
+  - '"[[03-Goetia-Solomonic-Grimoire]]"'
+  - '"[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"'
 sources:
   - Picatrix Book II (10th c.)
-  - Agrippa, "Three Books of Occult Philosophy" Book II (1533)
-  - al-Buni, "Shams al-Ma'arif" (13th c.)
-  - Austin Osman Spare, "The Book of Pleasure" (1913) — modern sigil magic
+  - 'Agrippa, "Three Books of Occult Philosophy" Book II (1533)'
+  - 'al-Buni, "Shams al-Ma''arif" (13th c.)'
+  - 'Austin Osman Spare, "The Book of Pleasure" (1913) — modern sigil magic'
 ---
 
 # Squares, Sigils, and Pentacles

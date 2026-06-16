@@ -1,16 +1,16 @@
 ---
-title: "The Three Books of Occult Philosophy — Agrippa"
+title: 'The Three Books of Occult Philosophy — Agrippa'
 category: 12-Agrippa-Picatrix-Grimoires
 tradition: Western Christian Kabbalah
 era: 1533 (first published)
 author: Heinrich Cornelius Agrippa von Nettesheim (1486-1535)
 tags: [agrippa, three-books, kabbalah, magic, grimoire, christian-kabbalah]
 status: foundation-doc
-core_source: "De Occulta Philosophia libri tres (1533)"
+core_source: 'De Occulta Philosophia libri tres (1533)'
 sources:
-  - Agrippa, "De Occulta Philosophia" (1533)
-  - "The Three Books of Occult Philosophy" (Llewellyn 1993, ed. Tyson)
-  - "Henry Cornelius Agrippa: His Life, Work, and Influence" (Center for Hermetic Studies, 2019)
+  - 'Agrippa, "De Occulta Philosophia" (1533)'
+  - '"The Three Books of Occult Philosophy" (Llewellyn 1993, ed. Tyson)'
+  - '"Henry Cornelius Agrippa: His Life, Work, and Influence" (Center for Hermetic Studies, 2019)'
 ---
 
 # The Three Books of Occult Philosophy — Agrippa

@@ -1,20 +1,20 @@
 ---
-title: "Alchemy — Inner and Outer"
+title: 'Alchemy — Inner and Outer'
 category: 04-Alchemy-Transmutation
 tradition: Greco-Egyptian / Islamic / European
 era: 1st century BCE — 19th century CE
 tags: [alchemy, transmutation, great-work, opus, chrysopoeia, nigredo, rubedo]
 status: foundation-doc
-core_source: "Corpus alchemicum graecum (1st-3rd c. CE), Jabirian corpus (8-9th c. CE), Rosarium Philosophorum (16th c.)"
+core_source: 'Corpus alchemicum graecum (1st-3rd c. CE), Jabirian corpus (8-9th c. CE), Rosarium Philosophorum (16th c.)'
 related:
-  - "[[02-Stage-Operations-Nigredo-Albedo-Citrinitas-Rubedo]]"
-  - "[[03-Jabir-Ibn-Hayyan-Arabic-Alchemy]]"
-  - "[[04-Modern-Chemistry-From-Alchemy]]"
-  - "[[18-Psychology-Jungian/04-Individuation-Process]]"
+  - '"[[02-Stage-Operations-Nigredo-Albedo-Citrinitas-Rubedo]]"'
+  - '"[[03-Jabir-Ibn-Hayyan-Arabic-Alchemy]]"'
+  - '"[[04-Modern-Chemistry-From-Alchemy]]"'
+  - '"[[18-Psychology-Jungian/04-Individuation-Process]]"'
 sources:
-  - Marie-Louise von Franz, "Aurora Consurgens" (posthumous, 2002)
-  - "The Hermetic Museum" (Artis Auriferae, 1677/1893)
-  - Syed Nomanul Haq, "Names, Natures and Things" (1994)
+  - 'Marie-Louise von Franz, "Aurora Consurgens" (posthumous, 2002)'
+  - '"The Hermetic Museum" (Artis Auriferae, 1677/1893)'
+  - 'Syed Nomanul Haq, "Names, Natures and Things" (1994)'
 ---
 
 # Alchemy — Inner and Outer

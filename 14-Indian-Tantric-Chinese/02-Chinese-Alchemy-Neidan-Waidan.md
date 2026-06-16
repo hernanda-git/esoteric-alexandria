@@ -1,22 +1,22 @@
 ---
-title: "Chinese Alchemy — Neidan and Waidan"
+title: 'Chinese Alchemy — Neidan and Waidan'
 category: 14-Indian-Tantric-Chinese
 tradition: Chinese Taoist
-era: Waidan: Han Dynasty (2nd c. BCE) onwards; Neidan: Tang Dynasty (7th c. CE) onwards
+era: 'Waidan: Han Dynasty (2nd c. BCE) onwards; Neidan: Tang Dynasty (7th c. CE) onwards'
 tags: [neidan, waidan, chinese-alchemy, dan, jing, qi, shen, zhenren, laozi]
 status: foundation-doc
-core_source: "Cantong Qi (~2nd c. CE), Zhouyi Cantong Qi, Taiji Jitu by Zhou Dunyi, Neidan compendia"
+core_source: 'Cantong Qi (~2nd c. CE), Zhouyi Cantong Qi, Taiji Jitu by Zhou Dunyi, Neidan compendia'
 related:
-  - "[[01-Seven-Chakras]]"
-  - "[[03-Tantra-Left-Hand-Right-Hand]]"
-  - "[[04-Alchemy-Transmutation/03-Jabir-Ibn-Hayyan]]"
-  - "[[17-Philosophy-Cosmology/03-Tao-Te-Ching-Laozi]]"
+  - '"[[01-Seven-Chakras]]"'
+  - '"[[03-Tantra-Left-Hand-Right-Hand]]"'
+  - '"[[04-Alchemy-Transmutation/03-Jabir-Ibn-Hayyan]]"'
+  - '"[[17-Philosophy-Cosmology/03-Tao-Te-Ching-Laozi]]"'
 sources:
-  - "The Cantong Qi" (2nd c. CE, trans. Fabrizio Pregadio)
-  - "Taoist Internal Alchemy" (Robinet, 1989)
-  - "Foundations of Internal Alchemy" (Wang Mu, 2011)
-  - Joseph Needham, "Science and Civilisation in China", Vol 5 part 3 (1976)
-  - Livia Kohn, "Early Chinese Mysticism" (1992)
+  - '"The Cantong Qi" (2nd c. CE, trans. Fabrizio Pregadio)'
+  - '"Taoist Internal Alchemy" (Robinet, 1989)'
+  - '"Foundations of Internal Alchemy" (Wang Mu, 2011)'
+  - 'Joseph Needham, "Science and Civilisation in China", Vol 5 part 3 (1976)'
+  - 'Livia Kohn, "Early Chinese Mysticism" (1992)'
 ---
 
 # Chinese Alchemy — Neidan and Waidan

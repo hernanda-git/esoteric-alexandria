@@ -1,25 +1,25 @@
 ---
-title: "The Picatrix — The Real 4 Books, The Real Latin Tradition"
+title: 'The Picatrix — The Real 4 Books, The Real Latin Tradition'
 category: 12-Agrippa-Picatrix-Grimoires
 tradition: Arabic-Islamic Magick / Western Grimoire
-era: 10th-11th c. CE (Arabic original), 1256 (Latin translation at Toledo)
-author: Pseudo-Maslama al-Majriti (the Latin attribution); the actual author is debated; the Arabic title is Ghāyat al-Ḥakīm ("The Goal of the Wise")
+era: '10th-11th c. CE (Arabic original), 1256 (Latin translation at Toledo)'
+author: 'Pseudo-Maslama al-Majriti (the Latin attribution); the actual author is debated; the Arabic title is Ghāyat al-Ḥakīm ("The Goal of the Wise")'
 tags: [picatrix, ghayat-al-hakim, maslama-al-majriti, latin-toledo, john-of-seville, talisman, real-source]
 status: foundation-doc (real manuscript-based analysis)
-core_source: "The Arabic text Ghāyat al-Ḥakīm was edited by Hellmut Ritter (Leipzig, 1933, the critical Arabic edition). The Latin translation (Picatrix) was edited by David Pingree in the Warburg Institute (1986, the critical Latin edition, Liber Picatrix). The modern English translation is by Attrell and Porreca (2020, the first complete English translation from the Arabic, with extensive scholarly apparatus). The book is the most influential single grimoire in the Western tradition, transmitted to Spain in 1256 and translated by Ibn al-Hatim, with corrections by the order of King Alfonso X of Castile."
+core_source: 'The Arabic text Ghāyat al-Ḥakīm was edited by Hellmut Ritter (Leipzig, 1933, the critical Arabic edition). The Latin translation (Picatrix) was edited by David Pingree in the Warburg Institute (1986, the critical Latin edition, Liber Picatrix). The modern English translation is by Attrell and Porreca (2020, the first complete English translation from the Arabic, with extensive scholarly apparatus). The book is the most influential single grimoire in the Western tradition, transmitted to Spain in 1256 and translated by Ibn al-Hatim, with corrections by the order of King Alfonso X of Castile.'
 related:
-  - "[[01-Three-Books-Agrippa]]"
-  - "[[02-Picatrix-Ghayat-al-Hakim]]"
-  - "[[03-Heptameron-Pietro-Abano]]"
-  - "[[04-Sworn-Book-Of-Honorius]]"
-  - "[[05-Lemegeton-Goetia-Real-Structure]]"
-  - "[[05-Talismanic-Magick/01-Squares-And-Sigils]]"
+  - '"[[01-Three-Books-Agrippa]]"'
+  - '"[[02-Picatrix-Ghayat-al-Hakim]]"'
+  - '"[[03-Heptameron-Pietro-Abano]]"'
+  - '"[[04-Sworn-Book-Of-Honorius]]"'
+  - '"[[05-Lemegeton-Goetia-Real-Structure]]"'
+  - '"[[05-Talismanic-Magick/01-Squares-And-Sigils]]"'
 sources:
   - Pseudo-Maslama al-Majriti, Ghāyat al-Ḥakīm, Arabic ed. Hellmut Ritter (Leipzig, 1933)
   - Pseudo-Maslama al-Majriti, Picatrix, Latin ed. David Pingree (Warburg Institute, 1986)
-  - Picatrix: A Medieval Treatise on the Nature of the Talisman and their Use, trans. Attrell and Porreca (2020, the first complete English translation from the Arabic)
-  - \"The Conjuring of the Sacred: The Picatrix in Practice\" (Harms and Clark, 2019, the modern academic study)
-  - \"Magic in the Middle Ages\" (Richard Kieckhefer, 1989, the standard academic text on medieval magic)
+  - 'Picatrix: A Medieval Treatise on the Nature of the Talisman and their Use, trans. Attrell and Porreca (2020, the first complete English translation from the Arabic)'
+  - '\"The Conjuring of the Sacred: The Picatrix in Practice\" (Harms and Clark, 2019, the modern academic study)'
+  - '\"Magic in the Middle Ages\" (Richard Kieckhefer, 1989, the standard academic text on medieval magic)'
 ---
 
 # The Picatrix — The Real 4 Books, The Real Latin Tradition

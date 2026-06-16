@@ -1,24 +1,24 @@
 ---
-title: "The Genetic Code as Wafq — A Critical Mapping"
+title: 'The Genetic Code as Wafq — A Critical Mapping'
 category: 15-Modern-Parallels
 tradition: Modern / Molecular Biology
 era: 1953-present
-author: James Watson (b. 1928), Francis Crick (1916-2004), Rosalind Franklin (1920-1958)
+author: 'James Watson (b. 1928), Francis Crick (1916-2004), Rosalind Franklin (1920-1958)'
 tags: [dna, rna, codon, wafq, magic-square, translation-table, abjad, real]
 status: critical-doc (a careful molecular-biology comparison)
-core_source: "The genetic code was experimentally cracked in 1961-1966 by Marshall Nirenberg, Heinrich Matthaei, Severo Ochoa, and others (Nirenberg's Nobel 1968). The full code was published in 1966 (the famous \"64 codons table\"). The latest extension — the 21st amino acid selenocysteine and the 22nd pyrrolysine — was completed in the 1990s-2000s. The standard reference is Molecular Biology of the Cell (Alberts et al., 7th ed. 2022)."
+core_source: 'The genetic code was experimentally cracked in 1961-1966 by Marshall Nirenberg, Heinrich Matthaei, Severo Ochoa, and others (Nirenberg''s Nobel 1968). The full code was published in 1966 (the famous \"64 codons table\"). The latest extension — the 21st amino acid selenocysteine and the 22nd pyrrolysine — was completed in the 1990s-2000s. The standard reference is Molecular Biology of the Cell (Alberts et al., 7th ed. 2022).'
 related:
-  - "[[01-Cryptanalysis-As-Modern-Jafr]]"
-  - "[[02-Information-Theory-As-Marifa]]"
-  - "[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"
-  - "[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"
+  - '"[[01-Cryptanalysis-As-Modern-Jafr]]"'
+  - '"[[02-Information-Theory-As-Marifa]]"'
+  - '"[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"'
+  - '"[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"'
 sources:
-  - James Watson and Francis Crick, \"Molecular Structure of Nucleic Acids\" (1953, Nature, the foundational paper)
-  - Francis Crick, \"Central Dogma of Molecular Biology\" (1958, the central dogma paper)
-  - Marshall Nirenberg, \"The Genetic Code\" (Nobel lecture 1968, the experimental foundation)
-  - \"Molecular Biology of the Cell\" (Alberts et al., 7th ed. 2022, the standard textbook)
-  - \"Molecular Biology: Principles and Practice\" (Cox et al., 2015, the standard textbook)
-  - \"The Astonishing Hypothesis\" (Francis Crick, 1994, the consciousness book)
+  - 'James Watson and Francis Crick, \"Molecular Structure of Nucleic Acids\" (1953, Nature, the foundational paper)'
+  - 'Francis Crick, \"Central Dogma of Molecular Biology\" (1958, the central dogma paper)'
+  - 'Marshall Nirenberg, \"The Genetic Code\" (Nobel lecture 1968, the experimental foundation)'
+  - '\"Molecular Biology of the Cell\" (Alberts et al., 7th ed. 2022, the standard textbook)'
+  - '\"Molecular Biology: Principles and Practice\" (Cox et al., 2015, the standard textbook)'
+  - '\"The Astonishing Hypothesis\" (Francis Crick, 1994, the consciousness book)'
 ---
 
 # The Genetic Code as Wafq — A Critical Mapping

@@ -1,13 +1,13 @@
 ---
-title: "Cross-Tradition Concordance — Same Concept, Different Names"
+title: 'Cross-Tradition Concordance — Same Concept, Different Names'
 category: 23-Reference-Glossary
 tradition: Cross-tradition
 era: All
 tags: [concordance, comparison, cross-tradition, parallel, mapping]
 status: reference-doc
 related:
-  - "[[01-Esoteric-Glossary]]"
-  - "[[03-Reading-Order-Index-By-Tradition]]"
+  - '"[[01-Esoteric-Glossary]]"'
+  - '"[[03-Reading-Order-Index-By-Tradition]]"'
 ---
 
 # Cross-Tradition Concordance — Same Concept, Different Names

@@ -1,25 +1,25 @@
 ---
-title: "Planetary Hours — The Real Computation"
+title: 'Planetary Hours — The Real Computation'
 category: 03-Planetary-Astrology
 tradition: Hellenistic / Islamic / Western
 era: Hellenistic (c. 1st c. BCE); codified in Arabic-Islamic sources (9th-13th c.); preserved in Western grimoire tradition (15th-17th c.)
 tags: [planetary-hours, horae-planetariae, day-hours, night-hours, chaldean-order, electional, algorithm]
 status: foundation-doc
-core_source: "The primary sources for the planetary hours: Vettius Valens, Anthologiae (2nd c. CE, the earliest preserved Greek treatment); Paul of Alexandria, Introductory Matters (Eisagogika, late 4th c. CE, the canonical late-antique treatment); al-Imrani, al-Tabsiira (the standard medieval Arabic treatment); al-Buni, Shams al-Ma'arif (13th c., the most popular handbook); Cornelius Agrippa, Three Books of Occult Philosophy Book II (1533); John Spencer, The Use of the Planisphere (1647, the standard modern English practical handbook)."
+core_source: 'The primary sources for the planetary hours: Vettius Valens Anthologiae (2nd c. CE); Paul of Alexandria Eisagogika (late 4th c. CE); al-Buni Shams al-Ma''arif (13th c.); Cornelius Agrippa Three Books of Occult Philosophy Book II (1533); John Spencer The Use of the Planisphere (1647).'
 related:
-  - "[[01-Seven-Planets]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"
-  - "[[02-Hurufiyya-Lettrism/05-Shams-al-Maarif-Actual-Structure]]"
+  - '"[[01-Seven-Planets]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"'
+  - '"[[02-Hurufiyya-Lettrism/05-Shams-al-Maarif-Actual-Structure]]"'
 sources:
-  - Vettius Valens, \"Anthologiae\" (Mark Riley trans., partial English; the Greek critical edition by Pingree, 1986)
-  - Paul of Alexandria, \"Eisagogika\" (the canonical late-antique handbook)
-  - al-Buni, \"Shams al-Ma'arif\" (Cairo 1315 AH; for the Islamic treatment)
-  - Cornelius Agrippa, \"Three Books of Occult Philosophy\" (Tyson trans., 1993; Book II, chapters 26-34, for the Western treatment)
-  - John Spencer, \"The Use of the Planisphere\" (1647; for the modern English practical handbook)
-  - William Lilly, \"Christian Astrology\" (1647; the standard textbook of horary and electional astrology)
-  - "Traditional Astrology for Today" (Benjamin Dykes, 2011; the modern traditional revival)
-  - "The Book of Instructions in the Elements of the Art of Astrology" (al-Imrani, c. 13th c. CE; the standard medieval Arabic textbook)
+  - 'Vettius Valens, Anthologiae (Mark Riley trans., partial English; the Greek critical edition by Pingree, 1986)'
+  - 'Paul of Alexandria, Eisagogika (the canonical late-antique handbook)'
+  - 'al-Buni, Shams al-Ma''arif (Cairo 1315 AH; for the Islamic treatment)'
+  - 'Cornelius Agrippa, Three Books of Occult Philosophy (Tyson trans., 1993; Book II, chapters 26-34, for the Western treatment)'
+  - 'John Spencer, The Use of the Planisphere (1647; for the modern English practical handbook)'
+  - 'William Lilly, Christian Astrology (1647; the standard textbook of horary and electional astrology)'
+  - '"Traditional Astrology for Today" (Benjamin Dykes, 2011; the modern traditional revival)'
+  - '"The Book of Instructions in the Elements of the Art of Astrology" (al-Imrani, c. 13th c. CE; the standard medieval Arabic textbook)'
 ---
 
 # Planetary Hours — The Real Computation

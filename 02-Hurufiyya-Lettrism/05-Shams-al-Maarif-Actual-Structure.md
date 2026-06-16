@@ -1,26 +1,26 @@
 ---
-title: "Shams al-Ma'arif — The Actual Structure of the Book"
+title: 'Shams al-Ma''arif — The Actual Structure of the Book'
 category: 02-Hurufiyya-Lettrism
 tradition: Islamic Esoteric / Sufi
 era: Compiled c. 1220-1250 CE (Andalusia → North Africa)
-author: Shihab al-Din Abu al-Abbas Ahmad ibn Ali al-Buni al-Maliki (c. 1184-1225 CE). Al-Buni died in Alexandria where he is buried; his tomb (the *maqam al-Buni*) is a popular *ziyara* site. Born in Buna (now in Morocco's Rif) per Ibn al-Haj; "al-Maliki" indicates he belonged to the Maliki school of *fiqh*. He was a Sunni Sufi of the **Shadhiliyya** order; some later sources misidentify him as Shi'i.
+author: 'Shihab al-Din Abu al-Abbas Ahmad ibn Ali al-Buni al-Maliki (c. 1184-1225 CE). Al-Buni died in Alexandria where he is buried; his tomb (the *maqam al-Buni*) is a popular *ziyara* site. Born in Buna (now in Morocco''s Rif) per Ibn al-Haj; "al-Maliki" indicates he belonged to the Maliki school of *fiqh*. He was a Sunni Sufi of the **Shadhiliyya** order; some later sources misidentify him as Shi''i.'
 tags: [shams-al-maarif, al-buni, wafq, jafr, asm, huruf, abdal, planetary, tahlil, talisman]
 status: foundation-doc
-core_source: "Al-Buni, Shams al-Ma'arif (The Sun of Knowledge / Solar Knowledge of Letters). The standard printed edition (Cairo, 1315 AH / 1897 CE, 4 parts) is the basis for all modern reprints. Al-Buni also wrote: 'Umdat al-Talib fi al-Nujum (on planetary magic, edited by al-Qadi in 2007); Latā'if al-Isharat bi-Funūn al-Jafr wal-Ḥurūf (a shorter companion); Sharh al-Muqaddima al-Jazariyya (on Sufi metaphysics). Note: al-Buni's authorship of Shams al-Ma'arif is not in dispute (the work is cited by name in his own other works), but the *printed* editions contain many later interpolations that al-Buni did not write."
+core_source: 'Al-Buni, Shams al-Ma''arif (The Sun of Knowledge / Solar Knowledge of Letters). The standard printed edition (Cairo, 1315 AH / 1897 CE, 4 parts) is the basis for all modern reprints. Al-Buni also wrote: ''Umdat al-Talib fi al-Nujum (on planetary magic, edited by al-Qadi in 2007); Latā''if al-Isharat bi-Funūn al-Jafr wal-Ḥurūf (a shorter companion); Sharh al-Muqaddima al-Jazariyya (on Sufi metaphysics). Note: al-Buni''s authorship of Shams al-Ma''arif is not in dispute (the work is cited by name in his own other works), but the *printed* editions contain many later interpolations that al-Buni did not write.'
 related:
-  - "[[01-Ilm-al-Huruf-Overview]]"
-  - "[[03-Jafr-Ilm-of-Letters]]"
-  - "[[04-Wafq-Magic-Squares]]"
-  - "[[09-Sufism-Irfan/01-Sufism-Overview]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"
+  - '"[[01-Ilm-al-Huruf-Overview]]"'
+  - '"[[03-Jafr-Ilm-of-Letters]]"'
+  - '"[[04-Wafq-Magic-Squares]]"'
+  - '"[[09-Sufism-Irfan/01-Sufism-Overview]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"'
 sources:
-  - Al-Buni, "Shams al-Ma'arif" (Cairo, 1315 AH; the standard Egyptian print, available in facsimile)
-  - "Al-Buni and His Influence on the Western Esoteric Tradition" (Amina Inloes, 2009)
-  - "Shams al-Ma'arif: Studies in the Arabic Magical Tradition" (multiple, the standard scholarship is by Toufic Fahd and Pierre Lory)
-  - Pierre Lory, "La magie des lettres dans le Shams al-Ma'arif d'al-Buni" (Bulletin d'Études Orientales, 1997); the **standard** scholarly study
-  - "Al-Buni's Shams al-Ma'arif: Critical Edition" (work in progress by multiple scholars; no full critical edition exists)
-  - "Picatrix: A Critical Edition" (Greer/Warnock trans., 2010), for the parallel structure
-  - Ibn al-Haj, "Madkhal al-Shar' al-Karim" (14th c.), the source for al-Buni's biography
+  - 'Al-Buni, "Shams al-Ma''arif" (Cairo, 1315 AH; the standard Egyptian print, available in facsimile)'
+  - '"Al-Buni and His Influence on the Western Esoteric Tradition" (Amina Inloes, 2009)'
+  - '"Shams al-Ma''arif: Studies in the Arabic Magical Tradition" (multiple, the standard scholarship is by Toufic Fahd and Pierre Lory)'
+  - 'Pierre Lory, "La magie des lettres dans le Shams al-Ma''arif d''al-Buni" (Bulletin d''Études Orientales, 1997); the **standard** scholarly study'
+  - '"Al-Buni''s Shams al-Ma''arif: Critical Edition" (work in progress by multiple scholars; no full critical edition exists)'
+  - '"Picatrix: A Critical Edition" (Greer/Warnock trans., 2010), for the parallel structure'
+  - 'Ibn al-Haj, "Madkhal al-Shar'' al-Karim" (14th c.), the source for al-Buni''s biography'
 ---
 
 # Shams al-Ma'arif — The Actual Structure of the Book

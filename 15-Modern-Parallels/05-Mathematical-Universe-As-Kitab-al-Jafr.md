@@ -1,25 +1,25 @@
 ---
-title: "The Mathematical Universe as Kitab al-Jafr — A Critical Mapping"
+title: 'The Mathematical Universe as Kitab al-Jafr — A Critical Mapping'
 category: 15-Modern-Parallels
 tradition: Modern / Mathematical Physics
 era: 21st century
 author: Max Tegmark (b. 1967) — the founder of the Mathematical Universe Hypothesis
 tags: [max-tegmark, mathematical-universe, jafr, critical-mapping, physical-reality]
 status: critical-doc (a careful mathematical-physics comparison)
-core_source: "The Mathematical Universe Hypothesis is from Max Tegmark, \"Our Mathematical Universe\" (2014). The hypothesis is grounded in the work of Eugene Wigner (1960, \"The Unreasonable Effectiveness of Mathematics\"), the physicist who first asked why mathematics is so effective in describing physics. The hypothesis is a specific form of Pythagoreanism. The jafr is from the Islamic esoteric tradition, attributed to the Shia Imams (especially the sixth Imam Ja'far al-Sadiq, 8th c. CE) and codified by al-Buni in the 13th c. CE."
+core_source: 'The Mathematical Universe Hypothesis is from Max Tegmark, \"Our Mathematical Universe\" (2014). The hypothesis is grounded in the work of Eugene Wigner (1960, \"The Unreasonable Effectiveness of Mathematics\"), the physicist who first asked why mathematics is so effective in describing physics. The hypothesis is a specific form of Pythagoreanism. The jafr is from the Islamic esoteric tradition, attributed to the Shia Imams (especially the sixth Imam Ja''far al-Sadiq, 8th c. CE) and codified by al-Buni in the 13th c. CE.'
 related:
-  - "[[01-Cryptanalysis-As-Modern-Jafr]]"
-  - "[[02-Information-Theory-As-Marifa]]"
-  - "[[03-Genetic-Code-As-Wafq]]"
-  - "[[04-Big-Data-As-Akashic-Record-Critical]]"
-  - "[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"
+  - '"[[01-Cryptanalysis-As-Modern-Jafr]]"'
+  - '"[[02-Information-Theory-As-Marifa]]"'
+  - '"[[03-Genetic-Code-As-Wafq]]"'
+  - '"[[04-Big-Data-As-Akashic-Record-Critical]]"'
+  - '"[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"'
 sources:
-  - Max Tegmark, \"Our Mathematical Universe\" (2014, the popular book)
-  - Max Tegmark, \"The Mathematical Universe\" (2008, the foundational paper in Foundations of Physics)
-  - Eugene Wigner, \"The Unreasonable Effectiveness of Mathematics in the Natural Sciences\" (1960, the foundational question)
-  - Max Tegmark, \"Shut up and calculate\" (the physicist's mantra, 2007)
-  - \"Jafr\" (multiple primary sources, including al-Buni's Shams al-Ma'arif)
-  - \"Ja'far al-Sadiq and the Jafr tradition\" (multiple modern academic studies)
+  - 'Max Tegmark, \"Our Mathematical Universe\" (2014, the popular book)'
+  - 'Max Tegmark, \"The Mathematical Universe\" (2008, the foundational paper in Foundations of Physics)'
+  - 'Eugene Wigner, \"The Unreasonable Effectiveness of Mathematics in the Natural Sciences\" (1960, the foundational question)'
+  - 'Max Tegmark, \"Shut up and calculate\" (the physicist''s mantra, 2007)'
+  - '\"Jafr\" (multiple primary sources, including al-Buni''s Shams al-Ma''arif)'
+  - '\"Ja''far al-Sadiq and the Jafr tradition\" (multiple modern academic studies)'
 ---
 
 # The Mathematical Universe as Kitab al-Jafr — A Critical Mapping

@@ -1,13 +1,13 @@
 ---
-title: "Reading Order — Index by Tradition"
+title: 'Reading Order — Index by Tradition'
 category: 23-Reference-Glossary
 tradition: Cross-tradition
 era: All
 tags: [reading-order, index, tradition-by-tradition, beginner-guide]
 status: reference-doc
 related:
-  - "[[01-Esoteric-Glossary]]"
-  - "[[02-Cross-Tradition-Concordance-Table]]"
+  - '"[[01-Esoteric-Glossary]]"'
+  - '"[[02-Cross-Tradition-Concordance-Table]]"'
 ---
 
 # Reading Order — Index by Tradition

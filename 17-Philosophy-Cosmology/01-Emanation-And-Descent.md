@@ -1,19 +1,19 @@
 ---
-title: "Emanation and Descent — The Cosmological Structure"
+title: 'Emanation and Descent — The Cosmological Structure'
 category: 17-Philosophy-Cosmology
 tradition: Neoplatonic / Kabbalistic / Vedic
 era: 3rd-20th century
 tags: [emanation, descent, plotinus, ein-sof, tzimtzum, sat, cit, ananda, ontology]
 status: foundation-doc
-core_source: "Plotinus, Enneads (3rd c. CE), Pseudo-Dionysius, Isaac Luria, Kabbalistic commentaries"
+core_source: 'Plotinus, Enneads (3rd c. CE), Pseudo-Dionysius, Isaac Luria, Kabbalistic commentaries'
 related:
-  - "[[03-Tao-Te-Ching-Laozi]]"
-  - "[[04-Tetraktys-And-Pythagorean-Number]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
+  - '"[[03-Tao-Te-Ching-Laozi]]"'
+  - '"[[04-Tetraktys-And-Pythagorean-Number]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
 sources:
-  - Plotinus, "Enneads" (3rd c. CE, multiple English translations)
-  - "The Kabbalah of Rabbi Isaac Luria" (multiple English translations)
-  - "Causation and Emanation in Early Modern Philosophy" (Schmaltz, 2018)
+  - 'Plotinus, "Enneads" (3rd c. CE, multiple English translations)'
+  - '"The Kabbalah of Rabbi Isaac Luria" (multiple English translations)'
+  - '"Causation and Emanation in Early Modern Philosophy" (Schmaltz, 2018)'
 ---
 
 # Emanation and Descent — The Cosmological Structure

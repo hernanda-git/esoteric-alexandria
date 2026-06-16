@@ -1,21 +1,21 @@
 ---
-title: "Harmonics, Resonance, and the Fourier Universe"
+title: 'Harmonics, Resonance, and the Fourier Universe'
 category: 16-Science-Resonance
 tradition: Modern / Mathematical Physics
 era: 1822 (Fourier) to present
 author: Jean-Baptiste Joseph Fourier (1768-1830) — the founder
 tags: [fourier, harmonics, resonance, fourier-analysis, waveform-decomposition, acoustics]
 status: foundation-doc
-core_source: "Fourier, "Théorie analytique de la chaleur" (1822) — the foundational text"
+core_source: 'Fourier, Théorie analytique de la chaleur (1822) — the foundational text'
 related:
-  - "[[01-Cymatics-And-Vibration]]"
-  - "[[02-Music-Of-The-Spheres-Pythagoras]]"
-  - "[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"
+  - '"[[01-Cymatics-And-Vibration]]"'
+  - '"[[02-Music-Of-The-Spheres-Pythagoras]]"'
+  - '"[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"'
 sources:
-  - Fourier, "Théorie analytique de la chaleur" (1822)
-  - "The Fourier Transform and Its Applications" (Ronald Bracewell, 2000)
-  - "Music, Mathematics, and the Mind" (Andy McCallum, 2012)
-  - "Music: A Mathematical Offering" (Dave Benson, 2006)
+  - 'Fourier, Théorie analytique de la chaleur (1822)'
+  - 'The Fourier Transform and Its Applications (Ronald Bracewell, 2000)'
+  - 'Music, Mathematics, and the Mind (Andy McCallum, 2012)'
+  - 'Music: A Mathematical Offering (Dave Benson, 2006)'
 ---
 
 # Harmonics, Resonance, and the Fourier Universe

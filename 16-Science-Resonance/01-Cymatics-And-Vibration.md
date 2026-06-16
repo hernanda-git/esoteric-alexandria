@@ -1,21 +1,21 @@
 ---
-title: "Cymatics — The Geometry of Vibration"
+title: 'Cymatics — The Geometry of Vibration'
 category: 16-Science-Resonance
 tradition: Modern / Experimental
 era: 1787 (Chladni) to 1967 (Jenny)
 author: Hans Jenny (1904-1972) — modern cymatics; Robert Hooke (1665) — early; Ernst Chladni (1787) — pioneer
 tags: [cymatics, vibration, sound, geometry, chladni, jenny, cymatic-patterns]
 status: foundation-doc
-core_source: "Hans Jenny, "Cymatics: A Study of Wave Phenomena and Vibration" (1967, multi-volume)"
+core_source: 'Hans Jenny, "Cymatics: A Study of Wave Phenomena and Vibration" (1967, multi-volume)'
 related:
-  - "[[02-Music-Of-The-Spheres-Pythagoras]]"
-  - "[[03-Harmonics-Resonance-Fourier]]"
-  - "[[04-Alchemy-Transmutation/02-Stage-Operations]]"
-  - "[[12-History-Of-Science-And-Esoterica]]"
+  - '"[[02-Music-Of-The-Spheres-Pythagoras]]"'
+  - '"[[03-Harmonics-Resonance-Fourier]]"'
+  - '"[[04-Alchemy-Transmutation/02-Stage-Operations]]"'
+  - '"[[12-History-Of-Science-And-Esoterica]]"'
 sources:
-  - Hans Jenny, "Cymatics" (1967, multiple editions)
-  - Lord Rayleigh, "The Theory of Sound" (1877/1945)
-  - "Chladni's Law" — the original cymatic patterns
+  - 'Hans Jenny, "Cymatics" (1967, multiple editions)'
+  - 'Lord Rayleigh, "The Theory of Sound" (1877/1945)'
+  - '"Chladni''s Law" — the original cymatic patterns'
 ---
 
 # Cymatics — The Geometry of Vibration

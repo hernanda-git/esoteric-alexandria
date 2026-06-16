@@ -1,20 +1,20 @@
 ---
-title: "The Sabians of Harran — The Last Babylonians"
+title: 'The Sabians of Harran — The Last Babylonians'
 category: 13-Mesopotamian-Egyptian
 tradition: Sabian (Mandaean-adjacent) / pre-Islamic Babylonian
 era: Pre-Islamic to 11th century CE
 tags: [sabians, harran, mandaean, last-babylonians, hermes-idris, banu-ihn-nadim]
 status: foundation-doc
-core_source: "Ibn al-Nadim, Fihrist (10th c.), al-Majriti/Picatrix (10th-11th c.)"
+core_source: 'Ibn al-Nadim, Fihrist (10th c.), al-Majriti/Picatrix (10th-11th c.)'
 related:
-  - "[[01-Enuma-Anu-Enlil]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"
-  - "[[02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview]]"
+  - '"[[01-Enuma-Anu-Enlil]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"'
+  - '"[[02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview]]"'
 sources:
-  - Ibn al-Nadim, "Fihrist" (10th c. CE) — the major source on the Sabians
-  - D. B. MacDonald, "The Development of the Idea of Ghost in Arabia" (1909)
-  - "The Sabians of Harran" (multiple academic studies)
-  - Tamara Green, "The City of the Moon God" (1992)
+  - 'Ibn al-Nadim, "Fihrist" (10th c. CE) — the major source on the Sabians'
+  - 'D. B. MacDonald, "The Development of the Idea of Ghost in Arabia" (1909)'
+  - '"The Sabians of Harran" (multiple academic studies)'
+  - 'Tamara Green, "The City of the Moon God" (1992)'
 ---
 
 # The Sabians of Harran — The Last Babylonians

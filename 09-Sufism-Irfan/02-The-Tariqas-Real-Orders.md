@@ -1,23 +1,23 @@
 ---
-title: "The Sufi Tariqas — The Real Orders"
+title: 'The Sufi Tariqas — The Real Orders'
 category: 09-Sufism-Irfan
 tradition: Islamic Mystical
 era: 8th century CE to present
 tags: [tariqa, sufi-order, qadiri, naqshbandi, shadhili, mawlawi, chisti, rifai, khalwati, real-orders]
 status: foundation-doc
-core_source: "The principal sources for the Sufi orders are: al-Qushayri, Risala (Treatise on Sufism, 1027 CE, the earliest systematic treatment of the Sufi orders and practices); al-Makki, Qut al-Qulub (c. 1000 CE); al-Hakim al-Tirmidhi, Khatm al-Awliya (c. 880 CE, on sainthood and the abdal); the Hagiographical Tradition (the tabaqat, the biographical dictionaries of the Sufi orders)."
+core_source: 'The principal sources for the Sufi orders are: al-Qushayri, Risala (Treatise on Sufism, 1027 CE, the earliest systematic treatment of the Sufi orders and practices); al-Makki, Qut al-Qulub (c. 1000 CE); al-Hakim al-Tirmidhi, Khatm al-Awliya (c. 880 CE, on sainthood and the abdal); the Hagiographical Tradition (the tabaqat, the biographical dictionaries of the Sufi orders).'
 related:
-  - "[[01-Sufism-Overview]]"
-  - "[[03-The-Maqamat-And-Ahwal-Stations-And-States]]"
-  - "[[04-Ibn-Arabi-And-Fusus-Al-Hikam]]"
-  - "[[02-Hurufiyya-Lettrism/05-Shams-al-Maarif-Actual-Structure]]"
+  - '"[[01-Sufism-Overview]]"'
+  - '"[[03-The-Maqamat-And-Ahwal-Stations-And-States]]"'
+  - '"[[04-Ibn-Arabi-And-Fusus-Al-Hikam]]"'
+  - '"[[02-Hurufiyya-Lettrism/05-Shams-al-Maarif-Actual-Structure]]"'
 sources:
-  - al-Qushayri, "al-Risala al-Qushayriyya" (trans. Alexander Knysh, 2007, as \"Sufi Metaphysics and Quranic Cosmology\")
-  - al-Hakim al-Tirmidhi, \"Khatm al-Awliya\" (ed. O. Yahya, 1986)
-  - The Hagiographical Tradition: \"Tabaqat al-Sufiyya\" of al-Sulami (c. 1000 CE, the standard); \"Hilyat al-Awliya\" of Abu Nu'aym (c. 1000 CE)
-  - \"The Sufi Orders in Islam\" (J. Spencer Trimingham, 1971, the standard modern academic study; comprehensive, dated, indispensable)
-  - \"Sufi Orders of the Modern World: A Survey of the Living Tradition\" (Ahmet Karamustafa, 2011)
-  - \"The Naqshbandiyya: Orthodoxy and Activism in a Worldwide Sufi Tradition\" (Itzchak Weismann, 2007)
+  - 'al-Qushayri, "al-Risala al-Qushayriyya" (trans. Alexander Knysh, 2007, as \"Sufi Metaphysics and Quranic Cosmology\")'
+  - 'al-Hakim al-Tirmidhi, \"Khatm al-Awliya\" (ed. O. Yahya, 1986)'
+  - 'The Hagiographical Tradition: \"Tabaqat al-Sufiyya\" of al-Sulami (c. 1000 CE, the standard); \"Hilyat al-Awliya\" of Abu Nu''aym (c. 1000 CE)'
+  - '\"The Sufi Orders in Islam\" (J. Spencer Trimingham, 1971, the standard modern academic study; comprehensive, dated, indispensable)'
+  - '\"Sufi Orders of the Modern World: A Survey of the Living Tradition\" (Ahmet Karamustafa, 2011)'
+  - '\"The Naqshbandiyya: Orthodoxy and Activism in a Worldwide Sufi Tradition\" (Itzchak Weismann, 2007)'
 ---
 
 # The Sufi Tariqas — The Real Orders

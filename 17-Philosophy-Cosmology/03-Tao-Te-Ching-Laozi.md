@@ -1,23 +1,23 @@
 ---
-title: "Tao Te Ching — Laozi's Way"
+title: 'Tao Te Ching — Laozi''s Way'
 category: 17-Philosophy-Cosmology
 tradition: Chinese Taoism
 era: Compiled 4th-3rd c. BCE
-author: Attributed to Laozi (Lao Tzu, 6th c. BCE per legend; the historical text is later)
+author: 'Attributed to Laozi (Lao Tzu, 6th c. BCE per legend; the historical text is later)'
 tags: [tao, laozi, wu-wei, te, yin-yang, taoism, philosophy]
 status: foundation-doc
-core_source: "Tao Te Ching (道德經), 81 chapters, ~5,000 characters"
+core_source: 'Tao Te Ching (道德經), 81 chapters, ~5,000 characters'
 related:
-  - "[[01-Emanation-And-Descent]]"
-  - "[[04-Tetraktys-And-Pythagorean-Number]]"
-  - "[[14-Indian-Tantric-Chinese/02-Chinese-Alchemy-Neidan-Waidan]]"
-  - "[[07-Divination-Geomancy/03-I-Ching-64-Hexagrams]]"
+  - '"[[01-Emanation-And-Descent]]"'
+  - '"[[04-Tetraktys-And-Pythagorean-Number]]"'
+  - '"[[14-Indian-Tantric-Chinese/02-Chinese-Alchemy-Neidan-Waidan]]"'
+  - '"[[07-Divination-Geomancy/03-I-Ching-64-Hexagrams]]"'
 sources:
-  - "Tao Te Ching" (multiple English translations: Mitchell, Feng, English, Merton, Watts)
-  - "Tao Te Ching: A New English Version" (Ursula K. Le Guin, 2009)
-  - Alan Watts, "Tao: The Watercourse Way" (1975)
-  - "Lao Tzu: Text, Notes, and Comments" (Alan Watts, 1994)
-  - "The Tao Te Ching" (H.G. Creel, 1982)
+  - '"Tao Te Ching" (multiple English translations: Mitchell, Feng, English, Merton, Watts)'
+  - '"Tao Te Ching: A New English Version" (Ursula K. Le Guin, 2009)'
+  - 'Alan Watts, "Tao: The Watercourse Way" (1975)'
+  - '"Lao Tzu: Text, Notes, and Comments" (Alan Watts, 1994)'
+  - '"The Tao Te Ching" (H.G. Creel, 1982)'
 ---
 
 # Tao Te Ching — Laozi's Way

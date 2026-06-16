@@ -1,20 +1,20 @@
 ---
-title: "The Poimandres — The Vision of the Mind"
+title: 'The Poimandres — The Vision of the Mind'
 category: 10-Hermeticism-Gnosticism
 tradition: Hermetic / Greco-Egyptian
 era: 1st-2nd century CE
 author: Attributed to Hermes Trismegistus
 tags: [poimandres, hermes-trismegistus, vision, mind, nous, cosmogony, rebirth]
 status: foundation-doc
-core_source: "Corpus Hermeticum, Treatise I (Poimandres, 1st-2nd c. CE)"
+core_source: 'Corpus Hermeticum, Treatise I (Poimandres, 1st-2nd c. CE)'
 related:
-  - "[[01-Corpus-Hermeticum]]"
-  - "[[02-Gnosticism-Overview]]"
-  - "[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"
+  - '"[[01-Corpus-Hermeticum]]"'
+  - '"[[02-Gnosticism-Overview]]"'
+  - '"[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"'
 sources:
-  - Brian P. Copenhaver, "Hermetica" (1992)
-  - C. Salaman et al., "The Way of Hermes" (1999)
-  - W. Scott & A. S. Ferguson, "Hermetica" (1924)
+  - 'Brian P. Copenhaver, "Hermetica" (1992)'
+  - 'C. Salaman et al., "The Way of Hermes" (1999)'
+  - 'W. Scott & A. S. Ferguson, "Hermetica" (1924)'
 ---
 
 # The Poimandres — The Vision of the Mind

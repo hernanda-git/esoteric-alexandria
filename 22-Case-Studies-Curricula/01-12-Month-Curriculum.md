@@ -1,19 +1,19 @@
 ---
-title: "The 12-Month Esoteric Self-Study Curriculum"
+title: 'The 12-Month Esoteric Self-Study Curriculum'
 category: 22-Case-Studies-Curricula
 tradition: Cross-tradition / Self-Study
 era: 21st century
 tags: [curriculum, self-study, 12-month, reading-list, hermetic-education]
 status: curriculum-doc
 related:
-  - "[[02-3-Month-Foundations-Quick-Curriculum]]"
-  - "[[03-Deep-Dive-Alchemy-2-Year-Curriculum]]"
+  - '"[[02-3-Month-Foundations-Quick-Curriculum]]"'
+  - '"[[03-Deep-Dive-Alchemy-2-Year-Curriculum]]"'
 sources:
   - Personal practice notes (this author)
-  - "The Esoteric Curriculum" (multiple authors, 19th-20th c.)
-  - The Golden Dawn curriculum (1888-1903)
-  - The Theosophical Society curriculum (1875-)
-  - "Hermetic Philosophy and Practice" (multiple sources)
+  - '"The Esoteric Curriculum" (multiple authors, 19th-20th c.)'
+  - 'The Golden Dawn curriculum (1888-1903)'
+  - 'The Theosophical Society curriculum (1875-)'
+  - '"Hermetic Philosophy and Practice" (multiple sources)'
 ---
 
 # The 12-Month Esoteric Self-Study Curriculum

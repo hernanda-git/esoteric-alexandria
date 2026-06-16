@@ -1,23 +1,23 @@
 ---
-title: "The Individuation Process — The Modern Opus Magnum"
+title: 'The Individuation Process — The Modern Opus Magnum'
 category: 18-Psychology-Jungian
 tradition: Modern / Depth Psychology
 era: 1921-1961
 author: Carl Gustav Jung
 tags: [individuation, self, integration, opus-magnum, coniunctio-oppositorum, the-soul, the-spirit]
 status: foundation-doc
-core_source: "Jung, "Psychology of the Transference" (CW 16, 1946); "Aion" (CW 9ii, 1951); "Mysterium Coniunctionis" (CW 14, 1955)"
+core_source: 'Jung, "Psychology of the Transference" (CW 16, 1946); "Aion" (CW 9ii, 1951); "Mysterium Coniunctionis" (CW 14, 1955)'
 related:
-  - "[[01-Jung-And-Alchemy]]"
-  - "[[02-Shadow-Work-And-The-Dark-Self]]"
-  - "[[03-Archetypes-And-Collective-Unconscious]]"
-  - "[[04-Alchemy-Transmutation/02-Stage-Operations]]"
+  - '"[[01-Jung-And-Alchemy]]"'
+  - '"[[02-Shadow-Work-And-The-Dark-Self]]"'
+  - '"[[03-Archetypes-And-Collective-Unconscious]]"'
+  - '"[[04-Alchemy-Transmutation/02-Stage-Operations]]"'
 sources:
   - Jung, CW 16, 9ii, 14 (the major works)
-  - Edward Edinger, "Anatomy of the Psyche" (1985)
-  - "The Mysterious Conjunction: A Psychology of the Self" (Edward Whitmont, 1969)
-  - "Jung and Christianity" (Edward Edinger, 1972)
-  - "Transformation of the Self" (James Hollis, 1996)
+  - 'Edward Edinger, "Anatomy of the Psyche" (1985)'
+  - '"The Mysterious Conjunction: A Psychology of the Self" (Edward Whitmont, 1969)'
+  - '"Jung and Christianity" (Edward Edinger, 1972)'
+  - '"Transformation of the Self" (James Hollis, 1996)'
 ---
 
 # The Individuation Process — The Modern Opus Magnum

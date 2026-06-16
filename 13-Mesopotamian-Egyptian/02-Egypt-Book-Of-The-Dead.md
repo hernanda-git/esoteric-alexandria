@@ -1,21 +1,21 @@
 ---
-title: "The Egyptian Book of the Dead"
+title: 'The Egyptian Book of the Dead'
 category: 13-Mesopotamian-Egyptian
 tradition: Ancient Egyptian
 era: Old Kingdom (c. 2400 BCE) to Roman Period (1st c. CE)
 tags: [egypt, book-of-the-dead, pyramid-texts, amduat, funerary, papyrus, anubis, osiris, maat]
 status: foundation-doc
-core_source: "Multiple papyri of the Book of the Dead (Papyrus of Ani, Papyrus of Hunefer, Papyrus of Nu, etc.)"
+core_source: 'Multiple papyri of the Book of the Dead (Papyrus of Ani, Papyrus of Hunefer, Papyrus of Nu, etc.)'
 related:
-  - "[[01-Enuma-Anu-Enlil]]"
-  - "[[03-Sabians-Of-Harran-Last-Babylonians]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
+  - '"[[01-Enuma-Anu-Enlil]]"'
+  - '"[[03-Sabians-Of-Harran-Last-Babylonians]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
 sources:
-  - "The Egyptian Book of the Dead" (E.A. Wallis Budge translation, 1895/1967) — the standard English translation
-  - "The Book of the Dead: The Hieroglyphic Transcript of the Papyrus of Ani" (Faucher Allan, 2010)
-  - Jan Assmann, "Death and Salvation in Ancient Egypt" (2001)
-  - "The Ancient Egyptian Pyramid Texts" (R.O. Faulkner, 1969)
-  - Erik Hornung, "The Ancient Egyptian Books of the Afterlife" (1999)
+  - '"The Egyptian Book of the Dead" (E.A. Wallis Budge translation, 1895/1967) — the standard English translation'
+  - '"The Book of the Dead: The Hieroglyphic Transcript of the Papyrus of Ani" (Faucher Allan, 2010)'
+  - 'Jan Assmann, "Death and Salvation in Ancient Egypt" (2001)'
+  - '"The Ancient Egyptian Pyramid Texts" (R.O. Faulkner, 1969)'
+  - 'Erik Hornung, "The Ancient Egyptian Books of the Afterlife" (1999)'
 ---
 
 # The Egyptian Book of the Dead

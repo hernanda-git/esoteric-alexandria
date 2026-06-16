@@ -1,23 +1,23 @@
 ---
-title: "The Organization as Culture — Not as Subtle Body"
+title: 'The Organization as Culture — Not as Subtle Body'
 category: 19-Business-Applications
 tradition: Modern / Organizational Studies
 era: 20th-21st century
 tags: [organizational-culture, edgar-schein, charles-handy, geert-hofstede, real-literature, no-esoteric-overlay]
-status: foundation-doc (uses the actual organizational studies literature, no esoteric metaphor)
-core_source: "The organizational culture literature has its own canon: Schein, Organizational Culture and Leadership (1985, the foundational text); Schein, The Corporate Culture Survival Guide (2009, the practical handbook); Handy, Understanding Organizations (1976, the popular British text); Hofstede, Culture's Consequences (1980, the cross-cultural text); Cameron & Quinn, Diagnosing and Changing Organizational Culture (1999, the Competing Values Framework); Collins & Porras, Built to Last (1996); Laloux, Reinventing Organizations (2014, the post-post-bureaucratic text)."
+status: 'foundation-doc (uses the actual organizational studies literature, no esoteric metaphor)'
+core_source: 'The organizational culture literature has its own canon: Schein, Organizational Culture and Leadership (1985, the foundational text); Schein, The Corporate Culture Survival Guide (2009, the practical handbook); Handy, Understanding Organizations (1976, the popular British text); Hofstede, Culture''s Consequences (1980, the cross-cultural text); Cameron & Quinn, Diagnosing and Changing Organizational Culture (1999, the Competing Values Framework); Collins & Porras, Built to Last (1996); Laloux, Reinventing Organizations (2014, the post-post-bureaucratic text).'
 related:
-  - "[[02-Leader-Work-Without-The-Overclaim]]"
-  - "[[01-Planetary-Hours-Business]]"
-  - "[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]"
+  - '"[[02-Leader-Work-Without-The-Overclaim]]"'
+  - '"[[01-Planetary-Hours-Business]]"'
+  - '"[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]"'
 sources:
-  - Schein, \"Organizational Culture and Leadership\" (1985, the foundational text, 4th ed. 2010)
-  - Schein, \"The Corporate Culture Survival Guide\" (2009, the practical handbook)
-  - Handy, \"Understanding Organizations\" (1976, the popular British text)
-  - Hofstede, \"Culture's Consequences\" (1980, the cross-cultural text, 2nd ed. 2001)
-  - Cameron & Quinn, \"Diagnosing and Changing Organizational Culture\" (1999, 3rd ed. 2011, the Competing Values Framework)
-  - Laloux, \"Reinventing Organizations\" (2014)
-  - Collins & Porras, \"Built to Last\" (1996)
+  - 'Schein, \"Organizational Culture and Leadership\" (1985, the foundational text, 4th ed. 2010)'
+  - 'Schein, \"The Corporate Culture Survival Guide\" (2009, the practical handbook)'
+  - 'Handy, \"Understanding Organizations\" (1976, the popular British text)'
+  - 'Hofstede, \"Culture''s Consequences\" (1980, the cross-cultural text, 2nd ed. 2001)'
+  - 'Cameron & Quinn, \"Diagnosing and Changing Organizational Culture\" (1999, 3rd ed. 2011, the Competing Values Framework)'
+  - 'Laloux, \"Reinventing Organizations\" (2014)'
+  - 'Collins & Porras, \"Built to Last\" (1996)'
 ---
 
 # The Organization as Culture — Not as Subtle Body

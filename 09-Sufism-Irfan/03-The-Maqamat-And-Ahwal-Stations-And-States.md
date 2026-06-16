@@ -1,25 +1,25 @@
 ---
-title: "The Maqamat and the Ahwal — Stations and States"
+title: 'The Maqamat and the Ahwal — Stations and States'
 category: 09-Sufism-Irfan
 tradition: Islamic Mystical
 era: 8th-11th century CE (formulated); 9th-12th c. (systematized)
-author: al-Qushayri, al-Makki, al-Sarraj, al-Kalabadhi, al-Hakim al-Tirmidhi, al-Sulami
+author: 'al-Qushayri, al-Makki, al-Sarraj, al-Kalabadhi, al-Hakim al-Tirmidhi, al-Sulami'
 tags: [maqam, hal, station, state, tawba, zuhd, sabr, faqr, tawakkul, rida, qushayri]
 status: foundation-doc
-core_source: "The standard treatment of the maqamat is al-Qushayri, al-Risala al-Qushayriyya (written 1027 CE, the most quoted Sufi manual). Earlier: al-Makki, Qut al-Qulub (c. 1000 CE). The classical formulations: al-Sarraj, al-Luma' (c. 950 CE); al-Kalabadhi, al-Ta'arruf li-Madhhab ahl al-Tasawwuf (c. 990 CE); al-Hakim al-Tirmidhi, Khatm al-Awliya' (c. 880 CE, the first systematic treatment). Modern: Alexander Knysh, Islamic Mysticism: A Short History (2000); William Chittick, The Sufi Path of Knowledge (1989, the standard on Ibn Arabi's maqamat)."
+core_source: 'The standard treatment of the maqamat is al-Qushayri, al-Risala al-Qushayriyya (written 1027 CE, the most quoted Sufi manual). Earlier: al-Makki, Qut al-Qulub (c. 1000 CE). The classical formulations: al-Sarraj, al-Luma'' (c. 950 CE); al-Kalabadhi, al-Ta''arruf li-Madhhab ahl al-Tasawwuf (c. 990 CE); al-Hakim al-Tirmidhi, Khatm al-Awliya'' (c. 880 CE, the first systematic treatment). Modern: Alexander Knysh, Islamic Mysticism: A Short History (2000); William Chittick, The Sufi Path of Knowledge (1989, the standard on Ibn Arabi''s maqamat).'
 related:
-  - "[[01-Sufism-Overview]]"
-  - "[[02-The-Tariqas-Real-Orders]]"
-  - "[[04-Ibn-Arabi-And-Fusus-Al-Hikam]]"
+  - '"[[01-Sufism-Overview]]"'
+  - '"[[02-The-Tariqas-Real-Orders]]"'
+  - '"[[04-Ibn-Arabi-And-Fusus-Al-Hikam]]"'
 sources:
-  - al-Qushayri, \"Al-Risala al-Qushayriyya\" (Alexander Knysh trans., 2007, as \"Sufi Metaphysics and Quranic Cosmology\")
-  - al-Makki, \"Qut al-Qulub fi Mu'amalat al-Mahbub\" (the most quoted pre-Qushayri treatment)
-  - al-Sarraj, \"Al-Luma' fi'l-Tasawwuf\" (c. 950 CE; Nicholson trans., 1914)
-  - al-Kalabadhi, \"Al-Ta'arruf li-Madhhab ahl al-Tasawwuf\" (A.J. Arberry trans., 1935, as \"The Doctrine of the Sufis\")
-  - al-Hakim al-Tirmidhi, \"Khatm al-Awliya\" (the first treatment of the maqamat as such)
-  - al-Sulami, \"Tabaqat al-Sufiyya\" (the standard hagiography)
-  - Alexander Knysh, \"Islamic Mysticism: A Short History\" (2000, Brill, the standard modern treatment)
-  - William Chittick, \"The Sufi Path of Knowledge: Ibn al-Arabi's Metaphysics of Imagination\" (1989, SUNY)
+  - 'al-Qushayri, \"Al-Risala al-Qushayriyya\" (Alexander Knysh trans., 2007, as \"Sufi Metaphysics and Quranic Cosmology\")'
+  - 'al-Makki, \"Qut al-Qulub fi Mu''amalat al-Mahbub\" (the most quoted pre-Qushayri treatment)'
+  - 'al-Sarraj, \"Al-Luma'' fi''l-Tasawwuf\" (c. 950 CE; Nicholson trans., 1914)'
+  - 'al-Kalabadhi, \"Al-Ta''arruf li-Madhhab ahl al-Tasawwuf\" (A.J. Arberry trans., 1935, as \"The Doctrine of the Sufis\")'
+  - 'al-Hakim al-Tirmidhi, \"Khatm al-Awliya\" (the first treatment of the maqamat as such)'
+  - 'al-Sulami, \"Tabaqat al-Sufiyya\" (the standard hagiography)'
+  - 'Alexander Knysh, \"Islamic Mysticism: A Short History\" (2000, Brill, the standard modern treatment)'
+  - 'William Chittick, \"The Sufi Path of Knowledge: Ibn al-Arabi''s Metaphysics of Imagination\" (1989, SUNY)'
 ---
 
 # The Maqamat and the Ahwal — Stations and States

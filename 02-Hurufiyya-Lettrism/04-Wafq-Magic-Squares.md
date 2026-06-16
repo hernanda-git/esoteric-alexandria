@@ -1,14 +1,14 @@
 ---
-title: "Wafq — Magic Squares and Their Power"
+title: 'Wafq — Magic Squares and Their Power'
 category: 02-Hurufiyya-Lettrism
 tradition: Islamic / Hermetic
 era: 8th century onwards
 tags: [wafq, magic-square, planetary, talisman]
 status: foundation-doc
 related:
-  - "[[01-Ilm-al-Huruf-Overview]]"
-  - "[[02-Abjad-Numerals]]"
-  - "[[05-Talismanic-Magick/01-Squares-And-Sigils]]"
+  - '"[[01-Ilm-al-Huruf-Overview]]"'
+  - '"[[02-Abjad-Numerals]]"'
+  - '"[[05-Talismanic-Magick/01-Squares-And-Sigils]]"'
 ---
 
 # Wafq — Magic Squares

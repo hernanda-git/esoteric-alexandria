@@ -1,18 +1,18 @@
 ---
-title: "Initiation, Veil, and Unveiling"
+title: 'Initiation, Veil, and Unveiling'
 category: 01-Origins-Traditions
 tradition: Cross-tradition
 era: All
 tags: [initiation, veil, unveiling, transmission, anamnesis]
 status: foundation-doc
 related:
-  - "[[01-What-Is-Esotericism]]"
-  - "[[02-Esoteric-Vs-Exoteric]]"
-  - "[[03-Oral-Transmission-Chains]]"
+  - '"[[01-What-Is-Esotericism]]"'
+  - '"[[02-Esoteric-Vs-Exoteric]]"'
+  - '"[[03-Oral-Transmission-Chains]]"'
 sources:
-  - Mircea Eliade, "Rites and Symbols of Initiation" (1958)
-  - Julius Evola, "The Mystery of the Grail" (1935/1967)
-  - René Guénon, "Perspectives on Initiation" (1946)
+  - 'Mircea Eliade, "Rites and Symbols of Initiation" (1958)'
+  - 'Julius Evola, "The Mystery of the Grail" (1935/1967)'
+  - 'René Guénon, "Perspectives on Initiation" (1946)'
 ---
 
 # Initiation, Veil, and Unveiling

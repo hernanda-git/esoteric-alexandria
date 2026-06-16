@@ -1,19 +1,19 @@
 ---
-title: "The Consciousness Question — Is Esotericism Mappable?"
+title: 'The Consciousness Question — Is Esotericism Mappable?'
 category: 24-Frontier-Open-Questions
 tradition: Cross-tradition / Philosophy of Mind
 era: 21st century
 tags: [consciousness, hard-problem, mapping, integration, philosophy-of-mind]
 status: frontier-doc
 related:
-  - "[[01-Open-Questions-Unresolved-Mysteries]]"
-  - "[[03-Future-Research-Directions]]"
+  - '"[[01-Open-Questions-Unresolved-Mysteries]]"'
+  - '"[[03-Future-Research-Directions]]"'
 sources:
-  - David Chalmers, "The Conscious Mind" (1996) — the "hard problem" of consciousness
-  - "Integrated Information Theory" (Giulio Tononi, 2004-present)
-  - "Global Workspace Theory" (Bernard Baars, 1988-present)
-  - "Panpsychism" (the revived modern position, Goff, Strawson, Chalmers)
-  - "The Esoteric Library as Multi-Agent System" (this library)
+  - 'David Chalmers, "The Conscious Mind" (1996) — the "hard problem" of consciousness'
+  - '"Integrated Information Theory" (Giulio Tononi, 2004-present)'
+  - '"Global Workspace Theory" (Bernard Baars, 1988-present)'
+  - '"Panpsychism" (the revived modern position, Goff, Strawson, Chalmers)'
+  - '"The Esoteric Library as Multi-Agent System" (this library)'
 ---
 
 # The Consciousness Question — Is Esotericism Mappable?

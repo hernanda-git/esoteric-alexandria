@@ -1,23 +1,23 @@
 ---
-title: "Proclus — The Systematization of Neoplatonism"
+title: 'Proclus — The Systematization of Neoplatonism'
 category: 11-NeoPlatonism-Theurgy
 tradition: Neoplatonic (Athenian School)
 era: 5th century CE (412-485 CE)
-author: Proclus Lycaeus (412-485 CE); "the Successor" (Diadochos) of the Platonic Academy
+author: 'Proclus Lycaeus (412-485 CE); "the Successor" (Diadochos) of the Platonic Academy'
 tags: [proclus, elements-of-theology, platonic-theology, henads, system, scholarch]
 status: foundation-doc
-core_source: "Proclus, Stoicheiōsis Theologikē (Elements of Theology), 211 propositions, c. 450 CE. Critical edition: Dodds (1963, 2nd ed. 1977); English: Dodds (1963). Proclus, Platonic Theology, 6 books, c. 470-485 CE. Critical edition: Saffrey/Westerink (6 vols., 1968-1997); English: aft. 2010 (partial)."
+core_source: 'Proclus, Stoicheiōsis Theologikē (Elements of Theology), 211 propositions, c. 450 CE. Critical edition: Dodds (1963, 2nd ed. 1977); English: Dodds (1963). Proclus, Platonic Theology, 6 books, c. 470-485 CE. Critical edition: Saffrey/Westerink (6 vols., 1968-1997); English: aft. 2010 (partial).'
 related:
-  - "[[01-Iamblichus-De-Mysteriis]]"
-  - "[[02-Plotinus-Enneads-One-Mind-Soul]]"
-  - "[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"
+  - '"[[01-Iamblichus-De-Mysteriis]]"'
+  - '"[[02-Plotinus-Enneads-One-Mind-Soul]]"'
+  - '"[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"'
 sources:
-  - Proclus, "The Elements of Theology" (E.R. Dodds, 2nd ed. 1977, Oxford); the critical edition with English translation and commentary
-  - Proclus, "A Commentary on the First Book of Euclid's Elements" (Glenn R. Morrow, 1970)
-  - Proclus, "Platonic Theology" (partial translations)
-  - "Proclus: An Introduction" (Radek Chlup, 2012, Cambridge)
-  - "The Cambridge Companion to Plotinus" (Lloyd P. Gerson, ed., 1996, includes chapter on Proclus)
-  - "Proclus' Commentary on Plato's Parmenides" (G.R. Morrow, J.M. Dillon, trans., 1987)
+  - 'Proclus, "The Elements of Theology" (E.R. Dodds, 2nd ed. 1977, Oxford); the critical edition with English translation and commentary'
+  - 'Proclus, "A Commentary on the First Book of Euclid''s Elements" (Glenn R. Morrow, 1970)'
+  - 'Proclus, "Platonic Theology" (partial translations)'
+  - '"Proclus: An Introduction" (Radek Chlup, 2012, Cambridge)'
+  - '"The Cambridge Companion to Plotinus" (Lloyd P. Gerson, ed., 1996, includes chapter on Proclus)'
+  - '"Proclus'' Commentary on Plato''s Parmenides" (G.R. Morrow, J.M. Dillon, trans., 1987)'
 ---
 
 # Proclus — The Systematization of Neoplatonism

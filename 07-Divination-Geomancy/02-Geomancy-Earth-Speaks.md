@@ -1,20 +1,20 @@
 ---
-title: "Geomancy — When the Earth Speaks"
+title: 'Geomancy — When the Earth Speaks'
 category: 07-Divination-Geomancy
 tradition: Arabic-Islamic / Western Medieval
-era: Pre-Islamic, systematized 9th-12th c.
+era: 'Pre-Islamic, systematized 9th-12th c.'
 tags: [geomancy, raml, ilm al-raml, sand-divination, khatim, yarrow, ifa, opele]
 status: foundation-doc
-core_source: "Ghayat al-Hakim (Picatrix, 10th-11th c.), Kitab al-Fusul al-Muhimma (al-Imrani, 13th c.)"
+core_source: 'Ghayat al-Hakim (Picatrix, 10th-11th c.), Kitab al-Fusul al-Muhimma (al-Imrani, 13th c.)'
 related:
-  - "[[01-Divination-Methods-Overview]]"
-  - "[[03-I-Ching-64-Hexagrams]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"
+  - '"[[01-Divination-Methods-Overview]]"'
+  - '"[[03-I-Ching-64-Hexagrams]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/02-Picatrix-Ghayat-al-Hakim]]"'
 sources:
-  - al-Imrani, "Kitab al-Fusul al-Muhimma fi Usul al-'Ilm al-Raml" (13th c., the foundational text)
-  - Eng. trans. "The Principles of the Art of Geomancy" (2012)
-  - al-Buni, "Shams al-Ma'arif" (13th c.) — the most copied geomancy text
-  - The Latin "Ars Geomantica" (12th c., translated from Arabic in Toledo)
+  - 'al-Imrani, "Kitab al-Fusul al-Muhimma fi Usul al-''Ilm al-Raml" (13th c., the foundational text)'
+  - 'Eng. trans. "The Principles of the Art of Geomancy" (2012)'
+  - 'al-Buni, "Shams al-Ma''arif" (13th c.) — the most copied geomancy text'
+  - 'The Latin "Ars Geomantica" (12th c., translated from Arabic in Toledo)'
   - The West African Ifa tradition (parallel)
 ---
 

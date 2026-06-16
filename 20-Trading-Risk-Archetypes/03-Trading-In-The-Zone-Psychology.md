@@ -1,24 +1,24 @@
 ---
-title: "Trading in the Zone — The Psychology of the Market"
+title: 'Trading in the Zone — The Psychology of the Market'
 category: 20-Trading-Risk-Archetypes
 tradition: Modern / Trading Psychology
 era: 20th-21st century
 author: Mark Douglas (1948-2015) — the founder of modern trading psychology
 tags: [trading-psychology, mark-douglas, market-ontology, beliefs, random-distribution, probabilities]
 status: foundation-doc
-core_source: "Mark Douglas, Trading in the Zone (2000, the foundational text on trading psychology) and The Disciplined Trader (1990, the earlier text). The psychology is grounded in the academic literature on cognitive biases (Kahneman, Tversky), the work of the W.D. Gann (the early 20th c. trader), and the modern behavioral finance (Thaler, Shiller)."
+core_source: 'Mark Douglas, Trading in the Zone (2000, the foundational text on trading psychology) and The Disciplined Trader (1990, the earlier text). The psychology is grounded in the academic literature on cognitive biases (Kahneman, Tversky), the work of the W.D. Gann (the early 20th c. trader), and the modern behavioral finance (Thaler, Shiller).'
 related:
-  - "[[01-Trading-And-The-Asketikos]]"
-  - "[[02-Position-Sizing-Real-Mathematics]]"
-  - "[[18-Psychology-Jungian/04-Individuation-Process]]"
+  - '"[[01-Trading-And-The-Asketikos]]"'
+  - '"[[02-Position-Sizing-Real-Mathematics]]"'
+  - '"[[18-Psychology-Jungian/04-Individuation-Process]]"'
 sources:
-  - Mark Douglas, \"Trading in the Zone\" (2000, the foundational text)
-  - Mark Douglas, \"The Disciplined Trader\" (1990, the earlier text)
-  - Daniel Kahneman, \"Thinking, Fast and Slow\" (2011, the modern cognitive bias text)
-  - Amos Tversky and Daniel Kahneman, \"Judgment Under Uncertainty: Heuristics and Biases\" (1974, the foundational paper)
-  - Richard Thaler, \"Misbehaving\" (2015, the modern behavioral finance text)
-  - Robert Shiller, \"Irrational Exuberance\" (2000, the modern behavioral finance text on markets)
-  - Brett Steenbarger, \"The Psychology of Trading\" (2003, the modern academic text on trading psychology)
+  - 'Mark Douglas, \"Trading in the Zone\" (2000, the foundational text)'
+  - 'Mark Douglas, \"The Disciplined Trader\" (1990, the earlier text)'
+  - 'Daniel Kahneman, \"Thinking, Fast and Slow\" (2011, the modern cognitive bias text)'
+  - 'Amos Tversky and Daniel Kahneman, \"Judgment Under Uncertainty: Heuristics and Biases\" (1974, the foundational paper)'
+  - 'Richard Thaler, \"Misbehaving\" (2015, the modern behavioral finance text)'
+  - 'Robert Shiller, \"Irrational Exuberance\" (2000, the modern behavioral finance text on markets)'
+  - 'Brett Steenbarger, \"The Psychology of Trading\" (2003, the modern academic text on trading psychology)'
 ---
 
 # Trading in the Zone — The Psychology of the Market

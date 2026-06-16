@@ -1,27 +1,27 @@
 ---
-title: "Ibn Arabi and the Fusus al-Hikam"
+title: 'Ibn Arabi and the Fusus al-Hikam'
 category: 09-Sufism-Irfan
 tradition: Islamic Mystical / Sufi Metaphysics
 era: 12th-13th century CE (1165-1240)
-author: Muhyi al-Din Abu 'Abdallah Muhammad ibn 'Ali ibn Muhammad ibn al-'Arabi al-Hatimi al-Ta'i (c. 1165-1240 CE). Known as al-Sheikh al-Akbar ("The Greatest Master"); a much-debated figure in Islamic history, considered by some the most profound Sufi metaphysician, by others a heretic.
+author: 'Muhyi al-Din Abu ''Abdallah Muhammad ibn ''Ali ibn Muhammad ibn al-''Arabi al-Hatimi al-Ta''i (c. 1165-1240 CE). Known as al-Sheikh al-Akbar ("The Greatest Master"); a much-debated figure in Islamic history, considered by some the most profound Sufi metaphysician, by others a heretic.'
 tags: [ibn-arabi, fusus-al-hikam, wahdat-al-wujud, perfect-man, oneness-of-being, mystical, sheikh-akbar, akbarian]
 status: foundation-doc
-core_source: "Ibn Arabi's major works: al-Futuhat al-Makkiyya (The Meccan Illuminations / The Meccan Conquests, 560 chapters across ~12,000 pages, written 1202-1240 CE, the magnum opus); Fusus al-Hikam (The Bezels of Wisdom, written 1229-1230, 27 chapters — one for each prophet named in the Quran); al-Durra al-Fakhira (The Precious Pearl, on the divine names); al-Tadbirat al-Ilahiyya (The Divine Directives); Tarjuman al-Ashwaq (The Interpreter of Desires, the Diwan of poetry); Mashahid al-Asrar (The Sealing of the Spiritual Witnesses); Kitab al-Ajwiba (a Q&A work)."
+core_source: 'Ibn Arabi''s major works: al-Futuhat al-Makkiyya (The Meccan Illuminations / The Meccan Conquests, 560 chapters across ~12,000 pages, written 1202-1240 CE, the magnum opus); Fusus al-Hikam (The Bezels of Wisdom, written 1229-1230, 27 chapters — one for each prophet named in the Quran); al-Durra al-Fakhira (The Precious Pearl, on the divine names); al-Tadbirat al-Ilahiyya (The Divine Directives); Tarjuman al-Ashwaq (The Interpreter of Desires, the Diwan of poetry); Mashahid al-Asrar (The Sealing of the Spiritual Witnesses); Kitab al-Ajwiba (a Q&A work).'
 related:
-  - "[[01-Sufism-Overview]]"
-  - "[[02-The-Tariqas-Real-Orders]]"
-  - "[[03-The-Maqamat-And-Ahwal-Stations-And-States]]"
-  - "[[11-NeoPlatonism-Theurgy/02-Plotinus-Enneads-One-Mind-Soul]]"
-  - "[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"
+  - '"[[01-Sufism-Overview]]"'
+  - '"[[02-The-Tariqas-Real-Orders]]"'
+  - '"[[03-The-Maqamat-And-Ahwal-Stations-And-States]]"'
+  - '"[[11-NeoPlatonism-Theurgy/02-Plotinus-Enneads-One-Mind-Soul]]"'
+  - '"[[17-Philosophy-Cosmology/01-Emanation-And-Descent]]"'
 sources:
-  - Ibn Arabi, \"The Bezels of Wisdom\" (R.W.J. Austin trans., 1980; the standard English)
-  - Ibn Arabi, \"The Meccan Illuminations\" (partial English translations: Chittick, 'Tawil' and 'al-'Inayah; 'al-Kamil'; the recent \"Divine Governance of the Human Kingdom\" (Chittick 2017))
-  - William Chittick, \"The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination\" (1989, SUNY, the standard modern treatment)
-  - William Chittick, \"Imaginal Worlds: Ibn al-'Arabi and the Problem of Religious Diversity\" (1994)
-  - William Chittick, \"Ibn al-'Arabi: Heir to the Prophets\" (2005, the Oneworld introduction, accessible)
-  - Titus Burckhardt, \"Mystical Astrology According to Ibn 'Arabi\" (1977, the Beshara edition)
-  - Henry Corbin, \"Creative Imagination in the Sufism of Ibn 'Arabi\" (1969, the Bollingen edition, English 1969, French original 1958)
-  - Claude Addas, \"Ibn 'Arabi: The Voyage of No Return\" (the most recent major biography, French 1989, English 2000)
+  - 'Ibn Arabi, \"The Bezels of Wisdom\" (R.W.J. Austin trans., 1980; the standard English)'
+  - 'Ibn Arabi, \"The Meccan Illuminations\" (partial English translations: Chittick, ''Tawil'' and ''al-''Inayah; ''al-Kamil''; the recent \"Divine Governance of the Human Kingdom\" (Chittick 2017))'
+  - 'William Chittick, \"The Sufi Path of Knowledge: Ibn al-''Arabi''s Metaphysics of Imagination\" (1989, SUNY, the standard modern treatment)'
+  - 'William Chittick, \"Imaginal Worlds: Ibn al-''Arabi and the Problem of Religious Diversity\" (1994)'
+  - 'William Chittick, \"Ibn al-''Arabi: Heir to the Prophets\" (2005, the Oneworld introduction, accessible)'
+  - 'Titus Burckhardt, \"Mystical Astrology According to Ibn ''Arabi\" (1977, the Beshara edition)'
+  - 'Henry Corbin, \"Creative Imagination in the Sufism of Ibn ''Arabi\" (1969, the Bollingen edition, English 1969, French original 1958)'
+  - 'Claude Addas, \"Ibn ''Arabi: The Voyage of No Return\" (the most recent major biography, French 1989, English 2000)'
 ---
 
 # Ibn Arabi and the Fusus al-Hikam

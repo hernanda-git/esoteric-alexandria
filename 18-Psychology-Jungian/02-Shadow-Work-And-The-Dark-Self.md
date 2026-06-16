@@ -1,22 +1,22 @@
 ---
-title: "Shadow Work and the Dark Self"
+title: 'Shadow Work and the Dark Self'
 category: 18-Psychology-Jungian
 tradition: Modern / Depth Psychology
 era: 1917-1961
-author: Carl Gustav Jung (with Marie-Louise von Franz, Robert Johnson, and modern descendants)
+author: 'Carl Gustav Jung (with Marie-Louise von Franz, Robert Johnson, and modern descendants)'
 tags: [shadow, dark-self, projection, golden-shadow, integration, abraxas]
 status: foundation-doc
-core_source: "Jung, "Aion" (CW 9ii, 1951); Robert Johnson, "Owning Your Own Shadow" (1991); Debbie Ford, "The Dark Side of the Light Chasers" (1998); Connie Zweig, "Meeting the Shadow" (1991)"
+core_source: 'Jung, "Aion" (CW 9ii, 1951); Robert Johnson, "Owning Your Own Shadow" (1991); Debbie Ford, "The Dark Side of the Light Chasers" (1998); Connie Zweig, "Meeting the Shadow" (1991)'
 related:
-  - "[[01-Jung-And-Alchemy]]"
-  - "[[03-Archetypes-And-Collective-Unconscious]]"
-  - "[[04-Individuation-Process]]"
+  - '"[[01-Jung-And-Alchemy]]"'
+  - '"[[03-Archetypes-And-Collective-Unconscious]]"'
+  - '"[[04-Individuation-Process]]"'
 sources:
-  - Jung, "Aion" (CW 9ii)
-  - "Owning Your Own Shadow" (Robert Johnson, 1991)
-  - "Meeting the Shadow" (Connie Zweig, ed., 1991)
-  - "The Dark Side of the Light Chasers" (Debbie Ford, 1998)
-  - "Romancing the Shadow" (Connie Zweig & Jeremiah Abrams, 1997)
+  - 'Jung, "Aion" (CW 9ii)'
+  - '"Owning Your Own Shadow" (Robert Johnson, 1991)'
+  - '"Meeting the Shadow" (Connie Zweig, ed., 1991)'
+  - '"The Dark Side of the Light Chasers" (Debbie Ford, 1998)'
+  - '"Romancing the Shadow" (Connie Zweig & Jeremiah Abrams, 1997)'
 ---
 
 # Shadow Work and the Dark Self

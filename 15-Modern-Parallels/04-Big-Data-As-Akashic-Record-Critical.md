@@ -1,27 +1,27 @@
 ---
-title: "Big Data as Akashic Record — A Critical Refusal"
+title: 'Big Data as Akashic Record — A Critical Refusal'
 category: 15-Modern-Parallels
 tradition: Modern / Critical
 era: 21st century
-author: Various (the popular "akashic record" trope is propagated by new-age media, not by the Theosophical tradition; the modern critical perspective is from Luciano Floridi, the philosophy of information)
+author: 'Various (the popular "akashic record" trope is propagated by new-age media, not by the Theosophical tradition; the modern critical perspective is from Luciano Floridi, the philosophy of information)'
 tags: [big-data, akashic-record, theosophy, blavatsky, critical, refusal, philosophy-of-information]
 status: critical-doc (an explicit refusal of a popular but unsupported claim)
-core_source: "The akashic record was introduced in the Theosophical tradition (Helena Blavatsky, The Secret Doctrine, 1888), not in the Hindu or Buddhist tradition per se. The akashic record is a Theosophical invention that has been adopted by the new-age community. The modern \"big data\" claim is the assertion that the internet + all digital storage constitutes a kind of \"akashic record\" of all human knowledge. The critical perspective is from Luciano Floridi (The Fourth Revolution, 2014) and from the philosophy of information."
+core_source: 'The akashic record was introduced in the Theosophical tradition (Helena Blavatsky, The Secret Doctrine, 1888), not in the Hindu or Buddhist tradition per se. The akashic record is a Theosophical invention that has been adopted by the new-age community. The modern \"big data\" claim is the assertion that the internet + all digital storage constitutes a kind of \"akashic record\" of all human knowledge. The critical perspective is from Luciano Floridi (The Fourth Revolution, 2014) and from the philosophy of information.'
 related:
-  - "[[01-Cryptanalysis-As-Modern-Jafr]]"
-  - "[[02-Information-Theory-As-Marifa]]"
-  - "[[03-Genetic-Code-As-Wafq]]"
-  - "[[24-Frontier-Open-Questions/01-Open-Questions-Unresolved-Mysteries]]"
+  - '"[[01-Cryptanalysis-As-Modern-Jafr]]"'
+  - '"[[02-Information-Theory-As-Marifa]]"'
+  - '"[[03-Genetic-Code-As-Wafq]]"'
+  - '"[[24-Frontier-Open-Questions/01-Open-Questions-Unresolved-Mysteries]]"'
 sources:
-  - Helena Blavatsky, \"The Secret Doctrine\" (1888, the Theosophical invention of the akashic record)
-  - A.P. Sinnett, \"Esoteric Buddhism\" (1883, the Theosophical precursor)
-  - C.W. Leadbeater, \"The Astral Plane\" (1895, the Theosophical astral doctrine)
-  - Annie Besant and C.W. Leadbeater, \"Thought-Forms\" (1901, the Theosophical thought-form doctrine)
-  - Alice Bailey, \"A Treatise on the Seven Rays\" (1936, the Theosophical re-derivation)
-  - Luciano Floridi, \"The Fourth Revolution: How the Infosphere is Reshaping Human Reality\" (2014, the modern philosophy of information)
-  - Luciano Floridi, \"Information: A Very Short Introduction\" (2010)
-  - Viktor Mayer-Schönberger and Kenneth Cukier, \"Big Data\" (2013, the popular introduction)
-  - \"The Age of Surveillance Capitalism\" (Shoshana Zuboff, 2019, the critical political-economy text)
+  - 'Helena Blavatsky, \"The Secret Doctrine\" (1888, the Theosophical invention of the akashic record)'
+  - 'A.P. Sinnett, \"Esoteric Buddhism\" (1883, the Theosophical precursor)'
+  - 'C.W. Leadbeater, \"The Astral Plane\" (1895, the Theosophical astral doctrine)'
+  - 'Annie Besant and C.W. Leadbeater, \"Thought-Forms\" (1901, the Theosophical thought-form doctrine)'
+  - 'Alice Bailey, \"A Treatise on the Seven Rays\" (1936, the Theosophical re-derivation)'
+  - 'Luciano Floridi, \"The Fourth Revolution: How the Infosphere is Reshaping Human Reality\" (2014, the modern philosophy of information)'
+  - 'Luciano Floridi, \"Information: A Very Short Introduction\" (2010)'
+  - 'Viktor Mayer-Schönberger and Kenneth Cukier, \"Big Data\" (2013, the popular introduction)'
+  - '\"The Age of Surveillance Capitalism\" (Shoshana Zuboff, 2019, the critical political-economy text)'
 ---
 
 # Big Data as Akashic Record — A Critical Refusal

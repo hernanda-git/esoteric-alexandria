@@ -1,25 +1,25 @@
 ---
-title: "Information Theory as Ma'rifa — A Critical Mapping"
+title: 'Information Theory as Ma''rifa — A Critical Mapping'
 category: 15-Modern-Parallels
 tradition: Modern / Mathematical Theory
 era: 1948-present
 author: Claude Shannon (1916-2001) — the founder of information theory
 tags: [shannon, information-theory, entropy, channel-capacity, sufism, marifat, real]
 status: critical-doc (a careful historical and mathematical comparison)
-core_source: "Claude Shannon, \"A Mathematical Theory of Communication\" (1948, the foundational paper, published in the Bell System Technical Journal). The information theory is grounded in the earlier work of Hartley (1928) and Nyquist (1924), and the contemporary work of Wiener (1948, Cybernetics) and Kolmogorov (1956, the modern measure of complexity)."
+core_source: 'Claude Shannon, \"A Mathematical Theory of Communication\" (1948, the foundational paper, published in the Bell System Technical Journal). The information theory is grounded in the earlier work of Hartley (1928) and Nyquist (1924), and the contemporary work of Wiener (1948, Cybernetics) and Kolmogorov (1956, the modern measure of complexity).'
 related:
-  - "[[02-Genetic-Code-As-Wafq]]"
-  - "[[03-Big-Data-As-Akashic-Record-Critical]]"
-  - "[[04-Mathematical-Universe-As-Kitab-al-Jafr]]"
-  - "[[09-Sufism-Irfan/04-Ibn-Arabi-And-Fusus-Al-Hikam]]"
+  - '"[[02-Genetic-Code-As-Wafq]]"'
+  - '"[[03-Big-Data-As-Akashic-Record-Critical]]"'
+  - '"[[04-Mathematical-Universe-As-Kitab-al-Jafr]]"'
+  - '"[[09-Sufism-Irfan/04-Ibn-Arabi-And-Fusus-Al-Hikam]]"'
 sources:
-  - Claude Shannon, \"A Mathematical Theory of Communication\" (1948, Bell System Technical Journal)
-  - Claude Shannon and Warren Weaver, \"The Mathematical Theory of Communication\" (1949, the book version with Weaver's introduction)
-  - Norbert Wiener, \"Cybernetics\" (1948, the cybernetic parallel)
-  - Andrei Kolmogorov, \"Three Approaches to the Quantitative Definition of Information\" (1956, the modern complexity measure)
-  - Cover and Thomas, \"Elements of Information Theory\" (1991, 2nd ed. 2006, the standard textbook)
-  - \"The Information: A History, a Theory, a Flood\" (James Gleick, 2011, the popular history)
-  - William Chittick, \"The Sufi Path of Knowledge\" (1989, the standard Sufi epistemology text)
+  - 'Claude Shannon, \"A Mathematical Theory of Communication\" (1948, Bell System Technical Journal)'
+  - 'Claude Shannon and Warren Weaver, \"The Mathematical Theory of Communication\" (1949, the book version with Weaver''s introduction)'
+  - 'Norbert Wiener, \"Cybernetics\" (1948, the cybernetic parallel)'
+  - 'Andrei Kolmogorov, \"Three Approaches to the Quantitative Definition of Information\" (1956, the modern complexity measure)'
+  - 'Cover and Thomas, \"Elements of Information Theory\" (1991, 2nd ed. 2006, the standard textbook)'
+  - '\"The Information: A History, a Theory, a Flood\" (James Gleick, 2011, the popular history)'
+  - 'William Chittick, \"The Sufi Path of Knowledge\" (1989, the standard Sufi epistemology text)'
 ---
 
 # Information Theory as Ma'rifa — A Critical Mapping

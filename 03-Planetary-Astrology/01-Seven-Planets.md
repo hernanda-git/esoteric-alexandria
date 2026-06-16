@@ -1,15 +1,15 @@
 ---
-title: "The Seven Classical Planets"
+title: 'The Seven Classical Planets'
 category: 03-Planetary-Astrology
 tradition: Hellenistic / Islamic / Western
 era: 1st century BCE onwards
 tags: [planets, astrology, classical, sapphires, talismanic]
 status: foundation-doc
 related:
-  - "[[02-Planetary-Dignities]]"
-  - "[[03-Aspects-And-Configuration]]"
-  - "[[04-Lunar-Mansions]]"
-  - "[[05-Planetary-Hours]]"
+  - '"[[02-Planetary-Dignities]]"'
+  - '"[[03-Aspects-And-Configuration]]"'
+  - '"[[04-Lunar-Mansions]]"'
+  - '"[[05-Planetary-Hours]]"'
 ---
 
 # The Seven Classical Planets

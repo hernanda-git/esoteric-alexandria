@@ -1,22 +1,22 @@
 ---
-title: "Archetypes and the Collective Unconscious"
+title: 'Archetypes and the Collective Unconscious'
 category: 18-Psychology-Jungian
 tradition: Modern / Depth Psychology
 era: 1917-1961
 author: Carl Gustav Jung
 tags: [archetype, collective-unconscious, universal-symbols, mandala, numinous, instincts]
 status: foundation-doc
-core_source: "Jung, "The Archetypes and the Collective Unconscious" (CW 9i, 1953/1959)"
+core_source: 'Jung, "The Archetypes and the Collective Unconscious" (CW 9i, 1953/1959)'
 related:
-  - "[[01-Jung-And-Alchemy]]"
-  - "[[04-Individuation-Process]]"
-  - "[[02-Shadow-Work-And-The-Dark-Self]]"
+  - '"[[01-Jung-And-Alchemy]]"'
+  - '"[[04-Individuation-Process]]"'
+  - '"[[02-Shadow-Work-And-The-Dark-Self]]"'
 sources:
   - Jung, CW 9i (The Archetypes and the Collective Unconscious)
-  - Jung, "The Red Book: Liber Novus" (2009, ed. Sonu Shamdasani)
-  - "Archetypal Patterns in Fairy Tales" (Marie-Louise von Franz, 1997)
-  - "The Archetypes of the Collective Unconscious" (Edward Edinger, 1972)
-  - "Archetypes: A Natural History of the Self" (Anthony Stevens, 1982)
+  - 'Jung, "The Red Book: Liber Novus" (2009, ed. Sonu Shamdasani)'
+  - '"Archetypal Patterns in Fairy Tales" (Marie-Louise von Franz, 1997)'
+  - '"The Archetypes of the Collective Unconscious" (Edward Edinger, 1972)'
+  - '"Archetypes: A Natural History of the Self" (Anthony Stevens, 1982)'
 ---
 
 # Archetypes and the Collective Unconscious

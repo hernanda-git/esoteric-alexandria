@@ -1,13 +1,13 @@
 ---
-title: "The Master-Disciple Chain in 12 Traditions"
+title: 'The Master-Disciple Chain in 12 Traditions'
 category: 01-Origins-Traditions
 tradition: Cross-tradition
 era: All
 tags: [transmission, lineage, master, disciple, isnad, silsila, parampara]
 status: foundation-doc
 related:
-  - "[[03-Oral-Transmission-Chains]]"
-  - "[[06-Initiation-And-Veil]]"
+  - '"[[03-Oral-Transmission-Chains]]"'
+  - '"[[06-Initiation-And-Veil]]"'
 ---
 
 # The Master-Disciple Chain in 12 Traditions

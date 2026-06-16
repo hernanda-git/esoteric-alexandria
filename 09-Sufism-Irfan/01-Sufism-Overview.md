@@ -1,19 +1,19 @@
 ---
-title: "Sufism & 'Irfan — The Inner Path"
+title: 'Sufism & ''Irfan — The Inner Path'
 category: 09-Sufism-Irfan
 tradition: Islamic mysticism
 era: 8th century onwards
 tags: [sufism, irfan, tasawwuf, dhikr, wahdat, fana, maqamat]
 status: foundation-doc
 related:
-  - "[[02-Whirling-Dervishes-Mevlevi]]"
-  - "[[03-Dhikr-Science]]"
-  - "[[04-Ibn-Arabi-Wahdat-al-Wujud]]"
+  - '"[[02-Whirling-Dervishes-Mevlevi]]"'
+  - '"[[03-Dhikr-Science]]"'
+  - '"[[04-Ibn-Arabi-Wahdat-al-Wujud]]"'
 sources:
-  - al-Qushayri, "Risala" (Treatise on Sufism, 1040 CE)
-  - al-Ghazali, "Ihya Ulum al-Din" (Revival of the Religious Sciences, 1095-1100)
-  - Ibn Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"
-  - Rumi, "Masnavi"
+  - 'al-Qushayri, "Risala" (Treatise on Sufism, 1040 CE)'
+  - 'al-Ghazali, "Ihya Ulum al-Din" (Revival of the Religious Sciences, 1095-1100)'
+  - 'Ibn Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"'
+  - 'Rumi, "Masnavi"'
 ---
 
 # Sufism & 'Irfan — The Inner Path

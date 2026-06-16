@@ -1,19 +1,19 @@
 ---
-title: "Planetary Talismans — The Seven Operations"
+title: 'Planetary Talismans — The Seven Operations'
 category: 05-Talismanic-Magick
 tradition: Greco-Egyptian / Islamic / Western
 era: All
 tags: [planetary, talisman, operation, election, consecration]
 status: foundation-doc
-core_source: "Picatrix Book II, al-Buni Shams al-Ma'arif, Agrippa Book II"
+core_source: 'Picatrix Book II, al-Buni Shams al-Ma''arif, Agrippa Book II'
 related:
-  - "[[01-Squares-And-Sigils]]"
-  - "[[03-Planetary-Astrology/01-Seven-Planets]]"
-  - "[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"
+  - '"[[01-Squares-And-Sigils]]"'
+  - '"[[03-Planetary-Astrology/01-Seven-Planets]]"'
+  - '"[[02-Hurufiyya-Lettrism/04-Wafq-Magic-Squares]]"'
 sources:
   - Picatrix Book II
   - Three Books of Occult Philosophy Book II chapter 22
-  - al-Buni, "Shams al-Ma'arif" vol 1
+  - 'al-Buni, "Shams al-Ma''arif" vol 1'
 ---
 
 # Planetary Talismans — The Seven Operations

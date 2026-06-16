@@ -1,17 +1,17 @@
 ---
-title: "Oral Transmission Chains (Isnad)"
+title: 'Oral Transmission Chains (Isnad)'
 category: 01-Origins-Traditions
 tradition: Islamic / Hermetic
 era: 8th-13th century CE
 tags: [transmission, lineage, isnad, sampradaya, gnosis]
 status: foundation-doc
 related:
-  - "[[07-Master-Disciple-Chains]]"
-  - "[[06-Initiation-And-Veil]]"
+  - '"[[07-Master-Disciple-Chains]]"'
+  - '"[[06-Initiation-And-Veil]]"'
 sources:
-  - al-Bukhari, "Sahih" — science of isnad
-  - Ibn al-Nadim, "Fihrist" (Index of Sciences, 988 CE)
-  - Gregory Nagy, "The Best of the Achaeans" (1979)
+  - 'al-Bukhari, "Sahih" — science of isnad'
+  - 'Ibn al-Nadim, "Fihrist" (Index of Sciences, 988 CE)'
+  - 'Gregory Nagy, "The Best of the Achaeans" (1979)'
 ---
 
 # Oral Transmission Chains (Isnad)

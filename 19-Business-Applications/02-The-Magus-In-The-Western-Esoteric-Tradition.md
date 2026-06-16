@@ -1,22 +1,22 @@
 ---
-title: "The Magus in the Western Esoteric Tradition"
+title: 'The Magus in the Western Esoteric Tradition'
 category: 19-Business-Applications
 tradition: Western Esoteric
 era: 16th-20th century
-author: Heinrich Cornelius Agrippa (1486-1535), Aleister Crowley (1875-1947), the Hermetic Order of the Golden Dawn (1888-1903)
+author: 'Heinrich Cornelius Agrippa (1486-1535), Aleister Crowley (1875-1947), the Hermetic Order of the Golden Dawn (1888-1903)'
 tags: [magus, golden-dawn, crowley, thelemic, thelema, 0=2, agrippa, real-history]
-status: foundation-doc (history of the actual term, not a metaphor for leadership)
-core_source: "Agrippa, De Occulta Philosophia libri tres (1533, the first published system of the Western esoteric magus); the Mathers' Golden Dawn rituals (1888-1903, the codified system of the magus grade); Crowley's Book of the Law (Liber AL vel Legis, 1904) and Liber 418 (Liber ABA, the chapter on the A∴A∴ and the grade of Magus); Regardie's The Golden Dawn (1937-1940, the standard modern summary)."
+status: 'foundation-doc (history of the actual term, not a metaphor for leadership)'
+core_source: 'Agrippa, De Occulta Philosophia libri tres (1533, the first published system of the Western esoteric magus); the Mathers'' Golden Dawn rituals (1888-1903, the codified system of the magus grade); Crowley''s Book of the Law (Liber AL vel Legis, 1904) and Liber 418 (Liber ABA, the chapter on the A∴A∴ and the grade of Magus); Regardie''s The Golden Dawn (1937-1940, the standard modern summary).'
 related:
-  - "[[02-Leader-Work-Without-The-Overclaim]]"
-  - "[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"
+  - '"[[02-Leader-Work-Without-The-Overclaim]]"'
+  - '"[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"'
 sources:
-  - Agrippa, \"Three Books of Occult Philosophy\" (Tyson trans., 1993)
-  - Crowley, \"The Book of the Law\" (Liber AL vel Legis, 1904; the standard edition is the 96-page Weiser paperback, 1976)
-  - Regardie, \"The Golden Dawn\" (1937-1940, the 6th edition ed. by Christopher Hyatt, 1989, is the standard)
-  - \"The Golden Dawn Sourcebook\" (ed. Darcy Kuntz, 1998, the standard scholarly edition)
-  - Keith Sheridan, \"The Magical Order of the Golden Dawn\" (2011, the standard modern academic study)
+  - 'Agrippa, \"Three Books of Occult Philosophy\" (Tyson trans., 1993)'
+  - 'Crowley, \"The Book of the Law\" (Liber AL vel Legis, 1904; the standard edition is the 96-page Weiser paperback, 1976)'
+  - 'Regardie, \"The Golden Dawn\" (1937-1940, the 6th edition ed. by Christopher Hyatt, 1989, is the standard)'
+  - '\"The Golden Dawn Sourcebook\" (ed. Darcy Kuntz, 1998, the standard scholarly edition)'
+  - 'Keith Sheridan, \"The Magical Order of the Golden Dawn\" (2011, the standard modern academic study)'
 ---
 
 # The Magus in the Western Esoteric Tradition

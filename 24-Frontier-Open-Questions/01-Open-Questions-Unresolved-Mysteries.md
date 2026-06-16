@@ -1,13 +1,13 @@
 ---
-title: "Open Questions — The Unresolved Mysteries"
+title: 'Open Questions — The Unresolved Mysteries'
 category: 24-Frontier-Open-Questions
 tradition: Cross-tradition / Critical
 era: 21st century
 tags: [open-questions, mysteries, unresolved, frontier, research-directions]
 status: frontier-doc
 related:
-  - "[[02-The-Consciousness-Question-Is-Esotericism-Mappable]]"
-  - "[[03-Future-Research-Directions]]"
+  - '"[[02-The-Consciousness-Question-Is-Esotericism-Mappable]]"'
+  - '"[[03-Future-Research-Directions]]"'
 ---
 
 # Open Questions — The Unresolved Mysteries

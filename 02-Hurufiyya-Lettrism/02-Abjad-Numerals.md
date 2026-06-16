@@ -1,13 +1,13 @@
 ---
-title: "Abjad Numerals — The Number-Letter System"
+title: 'Abjad Numerals — The Number-Letter System'
 category: 02-Hurufiyya-Lettrism
 tradition: Semitic / Islamic
 era: Pre-Islamic to 8th century
 tags: [numerology, gematria, abjad, calculation]
 status: foundation-doc
 related:
-  - "[[01-Ilm-al-Huruf-Overview]]"
-  - "[[08-Kabbalah-Numerology/01-Gematria-Mapping]]"
+  - '"[[01-Ilm-al-Huruf-Overview]]"'
+  - '"[[08-Kabbalah-Numerology/01-Gematria-Mapping]]"'
 ---
 
 # Abjad Numerals — The Number-Letter System

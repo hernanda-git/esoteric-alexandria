@@ -1,19 +1,19 @@
 ---
-title: "Jabir ibn Hayyan — Arabic Alchemy"
+title: 'Jabir ibn Hayyan — Arabic Alchemy'
 category: 04-Alchemy-Transmutation
 tradition: Islamic Golden Age
 era: c. 721-815 CE
-author: Abu Musa Jabir ibn Hayyan al-Azdi (Latin: "Geber")
+author: 'Abu Musa Jabir ibn Hayyan al-Azdi (Latin: "Geber")'
 tags: [jabir, geber, arabic-alchemy, mercury-sulfur, balanace, jabirian-corpus]
 status: foundation-doc
-core_source: "Jabirian Corpus (~3000 pages, 8th-9th c. CE)"
+core_source: 'Jabirian Corpus (~3000 pages, 8th-9th c. CE)'
 related:
-  - "[[01-Alchemy-Overview]]"
-  - "[[04-Modern-Chemistry-From-Alchemy]]"
+  - '"[[01-Alchemy-Overview]]"'
+  - '"[[04-Modern-Chemistry-From-Alchemy]]"'
 sources:
-  - Syed Nomanul Haq, "Names, Natures and Things" (1994)
-  - William Newman, "The 'Summa Perfectionis' and the Corpus Alchemicum" (1991)
-  - Pierre Lory, "Alchimie et mystique en terre d'Islam" (1989)
+  - 'Syed Nomanul Haq, "Names, Natures and Things" (1994)'
+  - 'William Newman, "The ''Summa Perfectionis'' and the Corpus Alchemicum" (1991)'
+  - 'Pierre Lory, "Alchimie et mystique en terre d''Islam" (1989)'
 ---
 
 # Jabir ibn Hayyan — Arabic Alchemy

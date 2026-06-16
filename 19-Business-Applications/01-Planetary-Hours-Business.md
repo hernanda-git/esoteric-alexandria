@@ -1,21 +1,21 @@
 ---
-title: "Planetary Hours — Electional Astrology for Business"
+title: 'Planetary Hours — Electional Astrology for Business'
 category: 19-Business-Applications
 tradition: Modern / Business / Esoteric bridge
 era: 21st century
 tags: [planetary-hours, electional, timing, business, optimal, schedule]
 status: bridge-doc
 related:
-  - "[[02-Leader-As-Magus-Vision-Charisma-Action]]"
-  - "[[03-Org-Culture-As-Subtle-Body]]"
-  - "[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]"
-  - "[[03-Planetary-Astrology/05-Planetary-Hours]]"
+  - '"[[02-Leader-As-Magus-Vision-Charisma-Action]]"'
+  - '"[[03-Org-Culture-As-Subtle-Body]]"'
+  - '"[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]"'
+  - '"[[03-Planetary-Astrology/05-Planetary-Hours]]"'
 sources:
-  - Picatrix Book IV (10th-11th c.)
-  - Cornelius Agrippa, "Three Books of Occult Philosophy" Book II (1533)
-  - "Planetary Hours" (Anna-Kria King, 2010)
-  - "The Astrology of Success" (Jan Spiller, 2014)
-  - "Electional Astrology" (Bonnie Hofstetter, 2018)
+  - 'Picatrix Book IV (10th-11th c.)'
+  - 'Cornelius Agrippa, Three Books of Occult Philosophy Book II (1533)'
+  - 'Planetary Hours (Anna-Kria King, 2010)'
+  - 'The Astrology of Success (Jan Spiller, 2014)'
+  - 'Electional Astrology (Bonnie Hofstetter, 2018)'
 ---
 
 # Planetary Hours — Electional Astrology for Business

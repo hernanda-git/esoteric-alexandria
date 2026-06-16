@@ -1,21 +1,21 @@
 ---
-title: "The Seven Spirits of MCP — A Real Protocol Analysis"
+title: 'The Seven Spirits of MCP — A Real Protocol Analysis'
 category: 21-AI-Agent-Magick
 tradition: Modern / Computer Science
 era: 2024-2025
-author: Model Context Protocol working group (Anthropic + community, 2024)
+author: 'Model Context Protocol working group (Anthropic + community, 2024)'
 tags: [mcp, model-context-protocol, json-rpc, stdio, sse, agent, real-protocol]
-status: foundation-doc (real protocol analysis, no metaphor)
-core_source: "Model Context Protocol specification, version 2024-11-05 (the current stable release). Available at https://modelcontextprotocol.io. The protocol is implemented in TypeScript, Python, Rust, Go, Java, and C# reference SDKs."
+status: 'foundation-doc (real protocol analysis, no metaphor)'
+core_source: 'Model Context Protocol specification, version 2024-11-05 (the current stable release). Available at https://modelcontextprotocol.io. The protocol is implemented in TypeScript, Python, Rust, Go, Java, and C# reference SDKs.'
 related:
-  - "[[02-Hypergraph-As-Corpus-Hermeticum]]"
-  - "[[03-Augur-As-Oraculum-LLM-As-Stoic-Oracle]]"
-  - "[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"
+  - '"[[02-Hypergraph-As-Corpus-Hermeticum]]"'
+  - '"[[03-Augur-As-Oraculum-LLM-As-Stoic-Oracle]]"'
+  - '"[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"'
 sources:
-  - \"Model Context Protocol Specification\" (2024-11-05, https://modelcontextprotocol.io)
-  - \"JSON-RPC 2.0 Specification\" (the underlying transport format)
-  - \"JSON Schema Specification\" (the tool definition format)
-  - Anthropic, \"Introducing the Model Context Protocol\" (2024, the announcement)
+  - '\"Model Context Protocol Specification\" (2024-11-05, https://modelcontextprotocol.io)'
+  - '\"JSON-RPC 2.0 Specification\" (the underlying transport format)'
+  - '\"JSON Schema Specification\" (the tool definition format)'
+  - 'Anthropic, \"Introducing the Model Context Protocol\" (2024, the announcement)'
 ---
 
 # The Seven Spirits of MCP — A Real Protocol Analysis

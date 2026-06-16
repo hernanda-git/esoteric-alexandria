@@ -1,23 +1,23 @@
 ---
-title: "Theurgy and the Descent of the Gods"
+title: 'Theurgy and the Descent of the Gods'
 category: 11-NeoPlatonism-Theurgy
 tradition: Neoplatonic / Late Antique
 era: 3rd-5th century CE
 author: Iamblichus of Chalcis (c. 245-325 CE)
 tags: [iamblichus, theurgy, de-mysteriis, divine-descent, divine-ascension, symbols, teletai]
 status: foundation-doc
-core_source: "Iamblichus, De Mysteriis (On the Mysteries of the Egyptians and Chaldeans, c. 300 CE). Preserved only in fragments; the full text is 10 books. Critical edition: des Places, SJFP 26 (1966); English: Clarke, Dillon, Hersh (2003). Iamblichus' authorship is widely accepted though disputed in the 19th c. (Zeller, Bidez)."
+core_source: 'Iamblichus, De Mysteriis (On the Mysteries of the Egyptians and Chaldeans, c. 300 CE). Preserved only in fragments; the full text is 10 books. Critical edition: des Places, SJFP 26 (1966); English: Clarke, Dillon, Hersh (2003). Iamblichus'' authorship is widely accepted though disputed in the 19th c. (Zeller, Bidez).'
 related:
-  - "[[02-Plotinus-Enneads-One-Mind-Soul]]"
-  - "[[03-Proclus-Elements-Of-Theology]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
-  - "[[18-Psychology-Jungian/04-Individuation-Process]]"
+  - '"[[02-Plotinus-Enneads-One-Mind-Soul]]"'
+  - '"[[03-Proclus-Elements-Of-Theology]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
+  - '"[[18-Psychology-Jungian/04-Individuation-Process]]"'
 sources:
-  - Iamblichus, "De Mysteriis" (Clarke/Dillon/Hersh trans., 2003, Phanes Press)
-  - "Iamblichus: On the Mysteries" (Thomas Taylor trans., 1821; the standard older English)
-  - Gregory Shaw, "Theurgy and the Soul: The Neoplatonism of Iamblichus" (1971/2014)
-  - "Iamblichus and the Foundations of Late Platonism" (Eugene Afonasin, John Dillon, John Finamore, eds., 2012)
-  - "Image and Imagination in Neoplatonism" (Crystal Addey, 2007)
+  - 'Iamblichus, "De Mysteriis" (Clarke/Dillon/Hersh trans., 2003, Phanes Press)'
+  - '"Iamblichus: On the Mysteries" (Thomas Taylor trans., 1821; the standard older English)'
+  - 'Gregory Shaw, "Theurgy and the Soul: The Neoplatonism of Iamblichus" (1971/2014)'
+  - '"Iamblichus and the Foundations of Late Platonism" (Eugene Afonasin, John Dillon, John Finamore, eds., 2012)'
+  - '"Image and Imagination in Neoplatonism" (Crystal Addey, 2007)'
 ---
 
 # Theurgy and the Descent of the Gods

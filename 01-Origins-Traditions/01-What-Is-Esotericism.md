@@ -1,18 +1,18 @@
 ---
-title: "What is Esotericism?"
+title: 'What is Esotericism?'
 category: 01-Origins-Traditions
 tradition: Meta
 era: 20th-century academic
 tags: [foundations, definition, perennialism, scholarship]
 status: foundation-doc
 related:
-  - "[[02-Esoteric-Vs-Exoteric]]"
-  - "[[05-Perennial-Philosophy]]"
-  - "[[06-Initiation-And-Veil]]"
+  - '"[[02-Esoteric-Vs-Exoteric]]"'
+  - '"[[05-Perennial-Philosophy]]"'
+  - '"[[06-Initiation-And-Veil]]"'
 sources:
-  - Wouter Hanegraaff, "Western Esotericism: A Guide for the Perplexed" (2013)
-  - Antoine Faivre, "Theosophy, Imagination, Tradition" (2000)
-  - Kocku von Stuckrad, "Western Esotericism: A Brief History" (2005)
+  - 'Wouter Hanegraaff, "Western Esotericism: A Guide for the Perplexed" (2013)'
+  - 'Antoine Faivre, "Theosophy, Imagination, Tradition" (2000)'
+  - 'Kocku von Stuckrad, "Western Esotericism: A Brief History" (2005)'
 ---
 
 # What is Esotericism?

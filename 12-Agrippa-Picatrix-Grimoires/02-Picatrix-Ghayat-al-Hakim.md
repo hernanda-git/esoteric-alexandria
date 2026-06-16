@@ -1,16 +1,16 @@
 ---
-title: "The Picatrix — Ghāyat al-Ḥakīm"
+title: 'The Picatrix — Ghāyat al-Ḥakīm'
 category: 12-Agrippa-Picatrix-Grimoires
 tradition: Arabic → Latin
-era: Compiled 10th-11th c., translated 1256
-author: Attributed to "Maslama al-Majriti" (d. ~1008 CE), but actually a 10th-11th c. Toledan compilation
+era: 'Compiled 10th-11th c., translated 1256'
+author: 'Attributed to "Maslama al-Majriti" (d. ~1008 CE), but actually a 10th-11th c. Toledan compilation'
 tags: [picatrix, ghayat, sabians, harran, planetary-magic, latin-translation]
 status: foundation-doc
-core_source: "Ghayat al-Hakim wa Ahaqq al-Natijatayn al-Taqdim (The Aim of the Sage and the Truest of Results)"
+core_source: 'Ghayat al-Hakim wa Ahaqq al-Natijatayn al-Taqdim (The Aim of the Sage and the Truest of Results)'
 sources:
-  - Pingree, "Picatrix: A Medieval Treatise on Arabic Astrology" (1986)
-  - Arabic critical edition: Ritter & al-Saleh, 1933-ongoing
-  - English: "The Picatrix" (translated by John Michael Greer & Christopher Warnock, 2010)
+  - 'Pingree, "Picatrix: A Medieval Treatise on Arabic Astrology" (1986)'
+  - 'Arabic critical edition: Ritter & al-Saleh, 1933-ongoing'
+  - 'English: "The Picatrix" (translated by John Michael Greer & Christopher Warnock, 2010)'
   - Latin edition printed 1480s, studied by Ficino, Pico, Agrippa
 ---
 

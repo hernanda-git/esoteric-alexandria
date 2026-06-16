@@ -1,13 +1,13 @@
 ---
-title: "Future Research Directions"
+title: 'Future Research Directions'
 category: 24-Frontier-Open-Questions
 tradition: Cross-tradition / Frontier
 era: 21st century
 tags: [future, research, directions, next-decade, integration]
 status: frontier-doc
 related:
-  - "[[01-Open-Questions-Unresolved-Mysteries]]"
-  - "[[02-The-Consciousness-Question-Is-Esotericism-Mappable]]"
+  - '"[[01-Open-Questions-Unresolved-Mysteries]]"'
+  - '"[[02-The-Consciousness-Question-Is-Esotericism-Mappable]]"'
 ---
 
 # Future Research Directions

@@ -1,13 +1,13 @@
 ---
-title: "Esoteric Glossary — The Master Index"
+title: 'Esoteric Glossary — The Master Index'
 category: 23-Reference-Glossary
 tradition: Cross-tradition
 era: All
 tags: [glossary, terms, cross-tradition, vocabulary, reference]
 status: reference-doc
 related:
-  - "[[02-Cross-Tradition-Concordance-Table]]"
-  - "[[03-Reading-Order-Index-By-Tradition]]"
+  - '"[[02-Cross-Tradition-Concordance-Table]]"'
+  - '"[[03-Reading-Order-Index-By-Tradition]]"'
 sources:
   - Compiled from all categories of the Esoteric Alexandria library
 ---

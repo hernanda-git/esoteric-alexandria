@@ -1,20 +1,20 @@
 ---
-title: "Divination — The Forty Methods"
+title: 'Divination — The Forty Methods'
 category: 07-Divination-Geomancy
 tradition: Cross-tradition
 era: All
 tags: [divination, oracle, mantic-arts, prophet, sign-reading]
 status: foundation-doc
-core_source: "Cross-tradition survey (China, Mesopotamia, Greece, Rome, Islam, Europe)"
+core_source: 'Cross-tradition survey (China, Mesopotamia, Greece, Rome, Islam, Europe)'
 related:
-  - "[[02-Geomancy-Earth-Speaks]]"
-  - "[[03-I-Ching-64-Hexagrams]]"
-  - "[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"
+  - '"[[02-Geomancy-Earth-Speaks]]"'
+  - '"[[03-I-Ching-64-Hexagrams]]"'
+  - '"[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"'
 sources:
-  - M. Eliade, "The Encyclopedia of Religion" (1987), vol 4
-  - W. E. Peuckert, "Geheimkulte" (1951)
-  - The Greek *Sortes Astrampsychi* (1st-2nd c. CE, the "Sortilege of Astrampsychus")
-  - The Chinese *Tui bei tu* (推背图, "Pushing the Back Chart", 7th c.)
+  - 'M. Eliade, "The Encyclopedia of Religion" (1987), vol 4'
+  - 'W. E. Peuckert, "Geheimkulte" (1951)'
+  - 'The Greek *Sortes Astrampsychi* (1st-2nd c. CE, the "Sortilege of Astrampsychus")'
+  - 'The Chinese *Tui bei tu* (推背图, "Pushing the Back Chart", 7th c.)'
 ---
 
 # Divination — The Forty Methods

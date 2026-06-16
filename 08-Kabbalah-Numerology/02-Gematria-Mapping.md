@@ -1,20 +1,20 @@
 ---
-title: "Gematria — The Number-Letter System"
+title: 'Gematria — The Number-Letter System'
 category: 08-Kabbalah-Numerology
 tradition: Jewish Kabbalah / Hebrew
 era: Mishnaic (2nd c. CE) onwards
 tags: [gematria, numerology, hebrew, alphabet, calculation, mispar]
 status: foundation-doc
-core_source: "Sefer Yetzirah, Sefer ha-Bahir, the classical Kabbalistic commentaries"
+core_source: 'Sefer Yetzirah, Sefer ha-Bahir, the classical Kabbalistic commentaries'
 related:
-  - "[[01-Tree-Of-Life]]"
-  - "[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"
-  - "[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"
+  - '"[[01-Tree-Of-Life]]"'
+  - '"[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"'
+  - '"[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"'
 sources:
   - Sefer Yetzirah, multiple translations
-  - "Sefer ha-Bahir" (Book of Brightness, attributed to 1st c. CE, edited ~12th c.)
-  - Reuchlin, "De Arte Cabbalistica" (1517) — the first Christian Kabbalistic text
-  - "The Book of the Sacred Magic of Abramelin" (Mathers translation, 1898)
+  - '"Sefer ha-Bahir" (Book of Brightness, attributed to 1st c. CE, edited ~12th c.)'
+  - 'Reuchlin, "De Arte Cabbalistica" (1517) — the first Christian Kabbalistic text'
+  - '"The Book of the Sacred Magic of Abramelin" (Mathers translation, 1898)'
 ---
 
 # Gematria — The Number-Letter System

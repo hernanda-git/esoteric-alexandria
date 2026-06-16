@@ -1,21 +1,21 @@
 ---
-title: "Christian Kabbalah — Pico, Reuchlin, Agrippa"
+title: 'Christian Kabbalah — Pico, Reuchlin, Agrippa'
 category: 08-Kabbalah-Numerology
 tradition: Christian Kabbalah
 era: 1486 (Pico) to 1533 (Agrippa) and beyond
 tags: [christian-kabbalah, pico, reuchlin, agrippa, prisca-theologia, mirandola]
 status: foundation-doc
-core_source: "Pico della Mirandola, "900 Theses" (1486); Reuchlin, "De Arte Cabbalistica" (1517); Agrippa, "Three Books of Occult Philosophy" (1533)"
+core_source: 'Pico della Mirandola, "900 Theses" (1486); Reuchlin, "De Arte Cabbalistica" (1517); Agrippa, "Three Books of Occult Philosophy" (1533)'
 related:
-  - "[[01-Tree-Of-Life]]"
-  - "[[02-Gematria-Mapping]]"
-  - "[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"
+  - '"[[01-Tree-Of-Life]]"'
+  - '"[[02-Gematria-Mapping]]"'
+  - '"[[12-Agrippa-Picatrix-Grimoires/01-Three-Books-Agrippa]]"'
 sources:
-  - Pico della Mirandola, "900 Theses" (1486) and "Oration on the Dignity of Man" (1496)
-  - Johannes Reuchlin, "De Arte Cabbalistica" (1517)
-  - Heinrich Cornelius Agrippa, "De Occulta Philosophia" (1533)
-  - Frances Yates, "Giorgio da Veneto and the Florentine Academy" (1947) and "The Occult Philosophy in the Elizabethan Age" (1979)
-  - Joseph Dan, "The Christian Kabbalah" (1997)
+  - 'Pico della Mirandola, "900 Theses" (1486) and "Oration on the Dignity of Man" (1496)'
+  - 'Johannes Reuchlin, "De Arte Cabbalistica" (1517)'
+  - 'Heinrich Cornelius Agrippa, "De Occulta Philosophia" (1533)'
+  - 'Frances Yates, "Giorgio da Veneto and the Florentine Academy" (1947) and "The Occult Philosophy in the Elizabethan Age" (1979)'
+  - 'Joseph Dan, "The Christian Kabbalah" (1997)'
 ---
 
 # Christian Kabbalah — Pico, Reuchlin, Agrippa

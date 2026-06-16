@@ -1,21 +1,21 @@
 ---
-title: "Jinn — The Islamic Spirit-Lore"
+title: 'Jinn — The Islamic Spirit-Lore'
 category: 06-Angels-Jinn-Demons
 tradition: Islamic / Quranic
 era: 7th century CE onwards
 tags: [jinn, islam, quran, surah-jinn, pre-arabian, shaytan, ifrit, marid]
 status: foundation-doc
-core_source: "Quran (Sura 72 al-Jinn, Sura 55 al-Rahman, Sura 15 al-Hijr), al-Buni's Shams al-Ma'arif"
+core_source: 'Quran (Sura 72 al-Jinn, Sura 55 al-Rahman, Sura 15 al-Hijr), al-Buni''s Shams al-Ma''arif'
 related:
-  - "[[01-Angelic-Hierarchy]]"
-  - "[[02-Goetic-Spirits-72-Shemhamphorash]]"
-  - "[[02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview]]"
+  - '"[[01-Angelic-Hierarchy]]"'
+  - '"[[02-Goetic-Spirits-72-Shemhamphorash]]"'
+  - '"[[02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview]]"'
 sources:
   - Quran, Sura 72 (al-Jinn)
-  - Ibn al-Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"
-  - al-Buni, "Shams al-Ma'arif" (13th c.)
-  - "Kitab al-Tabak" (Stories of the Jinn) — multiple medieval compilations
-  - Amira El-Zein, "Islam, Arabs, and the Spirit World" (2009)
+  - 'Ibn al-Arabi, "Fusus al-Hikam" and "al-Futuhat al-Makkiyya"'
+  - 'al-Buni, "Shams al-Ma''arif" (13th c.)'
+  - '"Kitab al-Tabak" (Stories of the Jinn) — multiple medieval compilations'
+  - 'Amira El-Zein, "Islam, Arabs, and the Spirit World" (2009)'
 ---
 
 # Jinn — The Islamic Spirit-Lore

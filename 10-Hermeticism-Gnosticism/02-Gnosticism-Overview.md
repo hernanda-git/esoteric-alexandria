@@ -1,20 +1,20 @@
 ---
-title: "Gnosticism — The Knowing Ones"
+title: 'Gnosticism — The Knowing Ones'
 category: 10-Hermeticism-Gnosticism
 tradition: Gnostic / Hellenistic-Jewish-Christian
 era: 1st-4th century CE
 tags: [gnosticism, gnosis, demiurge, sophia, valentinus, basilides, sethian, mandaean, nag-hammadi]
 status: foundation-doc
-core_source: "Nag Hammadi Codices (discovered 1945, published 1956-1977), Irenaeus's Adversus Haereses (2nd c. CE)"
+core_source: 'Nag Hammadi Codices (discovered 1945, published 1956-1977), Irenaeus''s Adversus Haereses (2nd c. CE)'
 related:
-  - "[[01-Corpus-Hermeticum]]"
-  - "[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"
+  - '"[[01-Corpus-Hermeticum]]"'
+  - '"[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"'
 sources:
-  - "The Nag Hammadi Library" (James Robinson, ed., 1977/1990)
-  - Irenaeus, "Adversus Haereses" (2nd c. CE)
-  - Hans Jonas, "The Gnostic Religion" (1958, 3rd ed. 2001)
-  - Karen King, "What is Gnosticism?" (2003)
-  - Elaine Pagels, "The Gnostic Gospels" (1979)
+  - '"The Nag Hammadi Library" (James Robinson, ed., 1977/1990)'
+  - 'Irenaeus, "Adversus Haereses" (2nd c. CE)'
+  - 'Hans Jonas, "The Gnostic Religion" (1958, 3rd ed. 2001)'
+  - 'Karen King, "What is Gnosticism?" (2003)'
+  - 'Elaine Pagels, "The Gnostic Gospels" (1979)'
 ---
 
 # Gnosticism — The Knowing Ones

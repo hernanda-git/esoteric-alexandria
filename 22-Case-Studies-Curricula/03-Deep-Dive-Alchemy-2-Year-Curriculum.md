@@ -1,13 +1,13 @@
 ---
-title: "Deep-Dive Alchemy — 2-Year Curriculum"
+title: 'Deep-Dive Alchemy — 2-Year Curriculum'
 category: 22-Case-Studies-Curricula
 tradition: Cross-tradition / Self-Study
 era: 21st century
 tags: [curriculum, 2-year, deep-dive, alchemy, kabbalah, hermetic]
 status: curriculum-doc
 related:
-  - "[[01-12-Month-Curriculum]]"
-  - "[[02-3-Month-Foundations-Quick-Curriculum]]"
+  - '"[[01-12-Month-Curriculum]]"'
+  - '"[[02-3-Month-Foundations-Quick-Curriculum]]"'
 ---
 
 # Deep-Dive Alchemy — 2-Year Curriculum

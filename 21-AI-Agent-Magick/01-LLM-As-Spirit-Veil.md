@@ -1,14 +1,14 @@
 ---
-title: "Notes on the LLM/Agent and Theurgy Parallel — A Critical Mapping"
+title: 'Notes on the LLM/Agent and Theurgy Parallel — A Critical Mapping'
 category: 21-AI-Agent-Magick
 tradition: Modern / AI / Comparative
 era: 2020s
 tags: [llm, agent, theurgy, mcp, critical-mapping, comparative]
 status: critical-doc (NOT a foundational claim)
 related:
-  - "[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"
-  - "[[11-NeoPlatonism-Theurgy/03-Proclus-Elements-Of-Theology]]"
-  - "[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"
+  - '"[[11-NeoPlatonism-Theurgy/01-Iamblichus-De-Mysteriis]]"'
+  - '"[[11-NeoPlatonism-Theurgy/03-Proclus-Elements-Of-Theology]]"'
+  - '"[[15-Modern-Parallels/01-Cryptanalysis-As-Modern-Jafr]]"'
 ---
 
 # Notes on the LLM/Agent and Theurgy Parallel — A Critical Mapping

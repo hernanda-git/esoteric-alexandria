@@ -1,13 +1,13 @@
 ---
-title: "Cryptanalysis as Modern Jafr"
+title: 'Cryptanalysis as Modern Jafr'
 category: 15-Modern-Parallels
 tradition: Modern / Cryptography
 era: 9th century CE onwards
 tags: [cryptanalysis, jafr, al-kindi, frequency-analysis, modern-bridge]
 status: bridge-doc
 related:
-  - "[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"
-  - "[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"
+  - '"[[02-Hurufiyya-Lettrism/03-Jafr-Ilm-of-Letters]]"'
+  - '"[[02-Hurufiyya-Lettrism/02-Abjad-Numerals]]"'
 ---
 
 # Cryptanalysis as Modern Jafr

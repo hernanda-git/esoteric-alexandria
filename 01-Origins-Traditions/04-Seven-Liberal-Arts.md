@@ -1,18 +1,18 @@
 ---
-title: "The Seven Liberal Arts & Their Hidden Half"
+title: 'The Seven Liberal Arts & Their Hidden Half'
 category: 01-Origins-Traditions
 tradition: Medieval European
 era: 5th-15th century CE
 tags: [trivium, quadrivium, liberal-arts, hidden-curriculum, medieval]
 status: foundation-doc
 related:
-  - "[[01-What-Is-Esotericism]]"
-  - "[[02-Esoteric-Vs-Exoteric]]"
-  - "[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"
+  - '"[[01-What-Is-Esotericism]]"'
+  - '"[[02-Esoteric-Vs-Exoteric]]"'
+  - '"[[10-Hermeticism-Gnosticism/01-Corpus-Hermeticum]]"'
 sources:
-  - Hugh of St Victor, "Didascalicon" (c. 1127)
-  - Augustine, "De Doctrina Christiana" (397-426)
-  - Boethius, "De Institutione Arithmetica" (c. 500)
+  - 'Hugh of St Victor, "Didascalicon" (c. 1127)'
+  - 'Augustine, "De Doctrina Christiana" (397-426)'
+  - 'Boethius, "De Institutione Arithmetica" (c. 500)'
 ---
 
 # The Seven Liberal Arts & Their Hidden Half
