@@ -192,11 +192,16 @@ def dispatch(prompt: str, batch_label: str) -> bool:
     hermes = shutil.which("hermes") or "/home/it26/.local/bin/hermes"
     usage = STATE / f"enrich-usage-{datetime.now().strftime('%Y%m%d-%H%M%S')}.json"
     cmd = [
-        hermes, "-z", prompt,
+        hermes,
+        "-z",
+        prompt,
         "--yolo",
-        "--model", MODEL,
-        "--usage-file", str(usage),
+        "--usage-file",
+        str(usage),
     ]
+    # omit --model when MODEL is empty so the runner uses the configured default
+    if MODEL:
+        cmd += ["--model", MODEL]
     log(f"--- DISPATCH {batch_label} (model={MODEL}) ---")
     try:
         proc = subprocess.run(

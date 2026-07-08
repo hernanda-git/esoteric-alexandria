@@ -10,6 +10,7 @@ The business bridge — the application of esoteric structures to leadership, or
 | 02 | The Leader's Work — A Clean Vocabulary | 02-Leader-Work-Without-The-Overclaim.md | 20th-21st century | Leadership Studies | Canonical / Foundation |
 | 02 | The Magus in the Western Esoteric Tradition | 02-The-Magus-In-The-Western-Esoteric-Tradition.md | Medieval–Renaissance | Western Esotericism | Canonical |
 | 03 | The Organization as Culture — Not as Subtle Body | 03-Org-Culture-As-Culture-Not-Subtle-Body.md | 20th-21st century | Organizational Studies | Canonical / Foundation |
+| 04 | Board Ritual and Rhythm — Governance as Ceremony | 04-Board-Ritual-and-Rhythm.md | 20th-21st century | Governance Studies | Canonical |
 | 06 | The Fifth Discipline — Systemic Leadership | 06-The-Fifth-Discipline-Systemic-Leadership.md | 20th century | Systems / Organizational | Canonical |
 
 ### Historical / superseded archive
