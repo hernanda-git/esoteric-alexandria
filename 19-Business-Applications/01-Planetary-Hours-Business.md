@@ -6,8 +6,8 @@ era: 21st century
 tags: [planetary-hours, electional, timing, business, optimal, schedule]
 status: bridge-doc
 related:
-  - '"[[02-Leader-As-Magus-Vision-Charisma-Action]]"'
-  - '"[[03-Org-Culture-As-Subtle-Body]]"'
+  - '"[[02-Leader-Work-Without-The-Overclaim]]"'
+  - '"[[03-Org-Culture-As-Culture-Not-Subtle-Body]]"'
   - '"[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]"'
   - '"[[03-Planetary-Astrology/05-Planetary-Hours]]"'
 sources:
@@ -138,8 +138,8 @@ The library's category 19 is the **textual foundation**. The practice requires t
 
 ## See Also
 
-- [[02-Leader-As-Magus-Vision-Charisma-Action]] — the leader
-- [[03-Org-Culture-As-Subtle-Body]] — the organization
+- [[02-Leader-Work-Without-The-Overclaim]] — the leader
+- [[03-Org-Culture-As-Culture-Not-Subtle-Body]] — the organization
 - [[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]] — the trading parallel
 - [[03-Planetary-Astrology/05-Planetary-Hours]] — the planetary hours
 - [[05-Talismanic-Magick/02-Planetary-Talismans]] — the talismanic tradition
