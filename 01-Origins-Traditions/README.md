@@ -13,10 +13,7 @@ Cross-tradition survey: where did the esoteric sciences come from, and how do th
 | 05 | Perennial Philosophy — Same River, Different Banks | 05-Perennial-Philosophy.md | Comparative | Comparative |
 | 06 | Initiation, Veil, and Unveiling | 06-Initiation-And-Veil.md | Cross-tradition | Comparative |
 | 07 | The Master-Disciple Chain in 12 Traditions | 07-Master-Disciple-Chains.md | Cross-tradition | Comparative |
-
-## Open gap in this category
-
-- **08 — The Method of Correspondences and Concordance** is not yet present. It would make the meta-theory explicit: how esotericists build cross-tradition bridges without collapsing specificity. Leave `08-*.md` blank until content is authored.
+| 08 | The Method of Correspondences and Concordance | 08-The-Method-Of-Correspondences-And-Concordance.md | Cross-tradition | Methodology |
 
 ## Deep-Dive Paths
 
