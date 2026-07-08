@@ -26,10 +26,10 @@ esoteric-alexandria/
 ├── 14-Indian-Tantric-Chinese/        # 07 docs — chakras, neidan/waidan, tantra, hatha yoga, 5 koshas, patanjali
 ├── 15-Modern-Parallels/              # 07 docs — cryptanalysis, information theory, genetic code, big data, network science
 ├── 16-Science-Resonance/             # 07 docs — cymatics, harmonics, quantum, biophysics, morphogenesis
-├── 17-Philosophy-Classical/          # 07 docs — Aristotle De Anima, Plato Timaeus, Nagarjuna, Stoics, Bhagavad Gita
-├── 17-Philosophy-Cosmology/          # 07 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides
+├── 17-Philosophy-Classical/          # 07 redirect stubs — canonical docs merged into 17-Philosophy-Cosmology
+├── 17-Philosophy-Cosmology/          # 14 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides, plus classical anchors
 ├── 18-Psychology-Jungian/            # 07 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman
-├── 19-Business-Applications/         # 05 docs — planetary hours, leader/org foundation, subtle-body bridge, fifth discipline
+├── 19-Business-Applications/         # 06 docs — planetary hours, leader/org foundation, subtle-body bridge, fifth discipline, board ritual, egregore shadow
 ├── 20-Trading-Risk-Archetypes/       # 07 docs — askesis as initiation, position sizing, zone, Fortuna, hubris, trickster, kairos
 ├── 21-AI-Agent-Magick/               # 07 docs — spirit veil, MCP 7 spirits, stoic oracle, servitor, prompt incantation
 ├── 22-Case-Studies-Curricula/        # 07 docs — 12-month generic, 3-month foundation, + 4 tradition-specific curricula
@@ -180,10 +180,10 @@ Authenticated account: `hernanda-git`, protocol: `https`.
 `"No access token found for Nous Portal login."`
 
 ### Current state
-- **Mode:** Continuous self-directed enrichment → `hermes -z` worker per batch with back-off on failure
-- **Last validated:** Dispatches are struct producirá OK, workers fail before producing docs
-- **Done so far:** Queue structure + README auto-registration hooks are in place; no docs were successfully authored by this pipeline yet
-- **Next first step:** Fix auth token for Nous Portal / switch model/provider/config this worker actually uses, then dry-run one batch to confirm the doc-generation loop
+- **Mode:** Continuous self-directed enrichment via `hermes -z` worker loop
+- **Last validated:** Dry-run with `--max 1 --batch 1` succeeded; worker generated a draft doc
+- **Done so far:** Pipeline auth fixed; worker loop validated; direct deep-dive edits made across thinnest core docs
+- **Next first step:** Run full production batch or continue manual deep-dive enrichment by section
 
 ---
 

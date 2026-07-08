@@ -24,3 +24,18 @@ PER DOC, follow EXACTLY:
 [2026-07-08 03:02:18 UTC] WORKER exit=0 -> OK
 [2026-07-08 03:02:18 UTC] REACHED --max 1 batches — exiting.
 [2026-07-08 03:02:18 UTC] CONTINUOUS ENRICHMENT ENDED.
+[2026-07-08 05:53:15 UTC] ======================================================================
+[2026-07-08 05:53:15 UTC] CONTINUOUS ENRICHMENT STARTED  pid=15900  batch=2  max=3  model=
+[2026-07-08 05:53:15 UTC] Repo: C:\Workspace\esoteric-alexandria
+[2026-07-08 05:53:15 UTC] Stop file: C:\Workspace\esoteric-alexandria\state\enrich-loop.stop  |  kill -TERM 15900 to stop
+[2026-07-08 05:53:15 UTC] ======================================================================
+[2026-07-08 05:53:15 UTC] --- DISPATCH batch#1 self-directed (model=) ---
+[2026-07-08 06:01:57 UTC]     Created 2 docs and recorded provenance:
+[2026-07-08 06:01:57 UTC]     
+[2026-07-08 06:01:57 UTC]     - `C:\Workspace\esoteric-alexandria\12-Agrippa-Picatrix-Grimoires\07-Ars-Notoria-Notary-Art.md`
+[2026-07-08 06:01:57 UTC]     - `C:\Workspace\esoteric-alexandria\19-Business-Applications\05-Egregore-Organizational-Shadow.md`
+[2026-07-08 06:01:57 UTC]     
+[2026-07-08 06:01:57 UTC]     Both categories’ READMEs were updated to include the new documents, and `state/evolve.db` `gaps` rows were inserted for each.
+[2026-07-08 06:01:57 UTC]       [tool] (°ロ°) synthesizing...
+[2026-07-08 06:01:57 UTC] WORKER exit=0 -> OK
+[2026-07-08 06:01:57 UTC] --- DISPATCH batch#2 self-directed (model=) ---

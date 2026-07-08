@@ -8,10 +8,11 @@ The business bridge — the application of esoteric structures to leadership, or
 |---|-------|------|-----|-----------|--------|
 | 01 | Planetary Hours for Business | 01-Planetary-Hours-Business.md | Medieval/Modern | Astrological/Traditional | Canonical |
 | 02 | The Leader's Work — A Clean Vocabulary | 02-Leader-Work-Without-The-Overclaim.md | 20th-21st century | Leadership Studies | Canonical / Foundation |
-| 02 | The Magus in the Western Esoteric Tradition | 02-The-Magus-In-The-Western-Esoteric-Tradition.md | Medieval–Renaissance | Western Esotericism | Canonical |
 | 03 | The Organization as Culture — Not as Subtle Body | 03-Org-Culture-As-Culture-Not-Subtle-Body.md | 20th-21st century | Organizational Studies | Canonical / Foundation |
+| 02 | The Magus in the Western Esoteric Tradition | 02-The-Magus-In-The-Western-Esoteric-Tradition.md | Medieval–Renaissance | Western Esotericism | Canonical |
 | 04 | Board Ritual and Rhythm — Governance as Ceremony | 04-Board-Ritual-and-Rhythm.md | 20th-21st century | Governance Studies | Canonical |
 | 06 | The Fifth Discipline — Systemic Leadership | 06-The-Fifth-Discipline-Systemic-Leadership.md | 20th century | Systems / Organizational | Canonical |
+| 07 | The Egregore as Organizational Shadow — Competitive Analysis | 05-Egregore-Organizational-Shadow.md | 21st century | Organizational Studies / Esoteric bridge | Bridge |
 
 ### Historical / superseded archive
 
@@ -32,5 +33,5 @@ The business bridge — the application of esoteric structures to leadership, or
 
 ### Status
 
-- Canonical docs are complete and internally linked.
+- Canonical/bridge docs complete and internally linked.
 - Future docs: business strategy via gematria/practical number work; board ritual/rhythm; organizational Tier Maps.

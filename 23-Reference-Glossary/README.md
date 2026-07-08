@@ -12,6 +12,7 @@ The catalog layer of the library — dictionary, corpus index, chronological spi
 | 04 | Biographical Index — Major Figures | 04-Biographical-Index-Major-Figures.md | Biographical | Life dates, affiliations, filiations |
 | 05 | Source Index — Major Texts | 05-Source-Index-Major-Texts.md | Bibliographic | Core source texts, editions, dates |
 | 06 | Date Index — Chronology of the Tradition | 06-Date-Index-Chronology-Of-The-Tradition.md | Chronology | Year-anchored events and texts |
+| 07 | Manuscript Provenance Table — Codex to Print to Digital | 07-Manuscript-Provenance-Table.md | Provenance | Witnesses, transmission news, critical editions |
 
 ### Deep-Dive Paths
 

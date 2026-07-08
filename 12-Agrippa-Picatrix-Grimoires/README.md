@@ -12,6 +12,7 @@ The Western operative esoteric corpus — the manuals that trained the magus: He
 | 04 | The Heptameron — Pietro d'Abano's Magical Operations | 04-Heptameron-Pietro-Abano.md | 14th c. | Medieval / Western |
 | 05 | The Sworn Book of Honorius (*Liber Juratus*) | 05-Sworn-Book-Of-Honorius.md | 13th-14th c. | Medieval / Western |
 | 06 | The Lemegeton / Goetia — The 72 Spirits and Structure | 06-Lemegeton-Goetia-Real-Structure.md | 17th c. | Solomonic / Western |
+| 07 | Ars Notoria — The Notary Art and Memory Rituals | 07-Ars-Notoria-Notary-Art.md | 13th-14th c. | Medieval / Western |
 
 ### Deep-Dive Paths
 
@@ -28,4 +29,4 @@ The Western operative esoteric corpus — the manuals that trained the magus: He
 
 ### Status
 
-- 6/6 docs present. Future: composite index of manuscripts, translator notes, exact Latin/Edition comparison.
+- 7/7 docs present. Future: composite index of manuscripts, translator notes, exact Latin/Edition comparison.
