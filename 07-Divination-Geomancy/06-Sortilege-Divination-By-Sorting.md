@@ -3,55 +3,86 @@ title: "Sortilege — Divination by Sorting"
 category: 07-Divination-Geomancy
 tradition: Western Medieval / Classical
 era: All
-tags: 'sortilege, sortition, cleromancy, biblio-mancy, rhapsody, stichomancy, random-selection, real-source'
+tags: sortilege, sortition, cleromancy, bibliomancy, rhapsody, stichomancy, random-selection, sortes-virgilianae
 status: foundation-doc
-core_source: 'The classical references: the Sortes Virgilianae (the Sortes of Virgil, the Roman practice of opening Virgil at random for a prophecy, attested by Hadrian and Alexander Severus); the Sortes Sanctorum (the Sortes of the Saints, the early Christian practice of opening scripture at random); the Sortes Astrampsychi (the Egyptian-Greek oracular text, c. 2nd c. CE, the 92 questions with assigned numbers for drawing). The modern academic study: E.R. Dodds, The Greeks and the Irrational (1951).'
 related:
   - '[[01-Divination-Methods-Overview]]'
-  - "[[04-Geomancy-The-16-Real-Figures-And-Method]]'
-  - "[[05-Oneiromancy-Real-Dream-Divination-Tradition]]'
+  - '\"[[04-Geomancy-The-16-Real-Figures-And-Method]]\"'
+  - '\"[[05-Oneiromancy-Real-Dream-Divination-Tradition]]\"'
 sources:
-  - 'Sortes Virgilianae, ed. and trans. Jean-Michel Humez (1981, the standard modern study)'
-  - 'Sortes Astrampsychi, ed. and trans. Stewart (1901, the standard edition)'
-  - 'Homer, Iliad 24.527-533 (the oracle of Dodona, the source of the Sortes tradition)'
-  - 'Suetonius, Vita Hadriani 2.5, Vita Alexandri 4.1 (the Roman practice of the Sortes)'
-  - 'Augustine, Confessions 4.3 (the Augustinian critique of the Sortes)'
+  - 'Sortes Virgilianae, ed. and trans. Jean-Michel Humez (1981)'
+  - 'Sortes Astrampsychi, ed. and trans. Stewart (1901)'
+  - 'Homer, Iliad 24.527-533 (oracle of Dodona)'
+  - 'Suetonius, Vita Hadriani 2.5, Vita Alexandri 4.1 (Roman Sortes)'
+  - 'Augustine, Confessions 4.3 (Christian critique)'
   - 'Dodds, The Greeks and the Irrational (1951)'
 ---
-
 # Sortilege — Divination by Sorting
 
 ## The Real Document
 
-The **sortilege** (**Latin** ***sortilegium***, **"**divination** **by** **sorting**"**) **is** **a** **method** of **divination** **that** **sorts** **a** **random** **selection** of **objects** (**sticks**, **stones**, **lots**, **scriptures**, **etc.**) **to** **determine** **the** **divine** **will**; the **sortilege** **is** **a** **real** **divination** **method**; the **sortilege** **is** **a** **specific** **form** of **the** **cleromancy** (**"**divination** **by** **lots**"**).
-
-The **sortilege** **is** **the** **most** **ancient** **and** **most** **universal** **form** of **divination**; the **sortilege** **is** **preserved** in **all** **major** **traditions**:
-
-- **The** **Greco**-**Roman** **tradition** (**the** ***Sortes*** **of** **Virgil**; **the** ***Sortes*** **of** **the** **Temple** of **Fortuna**; **the** ***Sortes*** **of** **the** **Sibyl**)
-- **The** **Jewish** **tradition** (**the** ***Goral***; **the** **Urim** **and** **Thummim**; **the** ***Purim*** **lot**)
-- **The** **Christian** **tradition** (**the** ***Sortes*** **Sanctorum**; **the** **opening** of **scripture** at **random**)
-- **The** **Islamic** **tradition** (**the** ***Istiqara***; **the** **divination** by **sorting** of **the** **Quran**)
-- **The** **Hindu** **tradition** (**the** ***Pralamb***; **the** **sorting** of **the** **Shloka**)
-
-The **sortilege** **is** **preserved** in **real** **manuscripts** **and** **printed** **editions**.
+**Sortilege** is **divination** by **sortition** -- the **mechanical** splitting of a **domain** into **parts**, **shuffling** those parts, and **drawing** a **result** whose **meaning** is **read** against the **structure** of the **set** itself. The **set** can be **cards**, **lots**, **stones**, **lines** of **text**, **dice**, **dominoes**, or **runes**. What makes it **sortilege** is **not** the **material** but the **schema**: the **operations** follow a **standardized** **pattern** (shuffle, **draw**, **decode**), and the **schema** is **taught** verbally or **written**.
 
 ## The Real 6 Methods
 
-The **6** **methods** of **sortilege** **are**:
+| Method | Tradition | Object | Canonical example |
+|---|---|---|---|
+| **1. Sortes Virgilianae** | Classical Greco-Roman | Opening a book at random (Virgil / Homer / the Scriptures) | Hadrian's readings in the Aeneid |
+| **2. Sortes Sanctorum** | Early Christian | Opening the Psalter or Gospels at random | St. Augustine's conversion-night reading |
+| **3. Bibliomancy / Stichomancy** | Medieval-Pagan | Opening any sacred or canonical book | Bible opened to Matthew 17 |
+| **4. Rhapsodomancy** | Greek | Random selection of a poetic line | Pythia; rhapsodic selection in temple rites |
+| **5. Astrampsychi / Sortes Astrampsychi** | Egyptian-Greco | 92-question list + die-draw to 1-10 + oracle response column | PGM XII; attributed to Astrampsychos (c. 2nd c. CE) |
+| **6. Islamic Istiqama / Quranic Sortilege** | Islamic | Random selection of a Quranic verse or lot-fall from a text pouch | Tafsir-istiqama, popular in Ottoman households |
 
-1. **Sortes** **Virgilianae** (**the** **Sortes** of **Virgil**; **the** **specific** **method**; **the** **method** **is** **the** **opening** of **Virgil**'s **works** at **random**; **the** **method** **is** **attributed** to **Hadrian** (the **Roman** **emperor**; **the** **2nd** **c.** **CE**))
-2. **Sortes** **Sanctorum** (**the** **Sortes** of **the** **Saints**; **the** **specific** **method**; **the** **method** **is** **the** **opening** of **scripture** at **random**; **the** **method** **is** **attributed** to the **early** **Christian** **tradition**)
-3. **Sortes** **Astrampsychi** (**the** **Sortes** of **Astrampsychus**; **the** **specific** **method**; **the** **method** **is** **the** **drawing** of **a** **lot** from **a** **list** of **92** **questions**; **the** **method** **is** **attributed** to **Astrampsychus** (the **2nd**-**c.** **Egyptian**-**Greek** **magician**))
-4. **Bibliomancy** (**the** **specific** **method**; **the** **method** **is** **the** **opening** of **a** **book** at **random**; **the** **method** **is** **attributed** to the **medieval** **tradition**)
-5. **Rhapsody** (**the** **specific** **method**; **the** **method** **is** **the** **random** **selection** of **a** **line** of **verse**; **the** **method** **is** **attributed** to the **Greek** **tradition**; **the** **method** **is** **attributed** to **Homer**)
-6. **Stichomancy** (**the** **specific** **method**; **the** **method** **is** **the** **random** **selection** of **a** **line** of **scripture**; **the** **method** **is** **attributed** to the **Jewish** **tradition**; **the** **method** **is** **attributed** to the **Quran**)
+Same **mechanical** pattern in all six: **constrain** the **input**, **remove** **intentional** **selection**, **decode** against a **fixed** **lookup**.
 
-## The Real Note
+## Sortes Virgilianae — The Roman Sortes
 
-The **sortilege** **is** **a** **real** **divination** **method**; the **sortilege** **is** **preserved** in **real** **manuscripts**; the **sortilege** **is** **a** **real** **divination** **tradition**. The **sortilege** **does** **not** **claim** **to** **be** **a** **science**; the **sortilege** **is** **a** **cultural** **practice**.
+The **Sortes Virgilianae** are the **paradigmatic** **case**. A **Roman** would **open** the **Aeneid** at **random**, **point** with a **pin** to a **line**, and **read** the **hexameter** as a **prophecy** for a current **question**. The **Emperor** **Hadrian** is alleged to have read **his** own **future** reign in a **Virgil** **opening**; **Emperor** **Alexander** **Severus** kept a **Virgil** on his **nightstand** for **nightly** **sortilege**.
+
+The **Augustine** **critique** (Confessions **4.**3) is **important**: **he** **condemns** the **practice** as **idolatrous** because it **attributes** **divine** **voice** to a **created** **text**. The **critique** is **not** that the **outcome** is **wrong** but that the **theology** is **misplaced**. **Augustine** **himself** **experienced** **the** **sortes** as **real**; he **merely** **rejected** the **pagan** **framing**.
+
+## Bibliomancy and Stichomancy — The Christian / General Form
+
+**Bibliomancy** -- **random** **opening** of **any** **book** treated as **oracular**; **stichomancy** -- **random** **selection** of **a** **line** or **verse**. **Same** **pattern**: **open**, **point**, **read** the **context**.
+
+**Modern** **form**: **the** **"**Bible** **opened** **on** **a** **table**"** is still a **cultural** **practice** in **some** **Christian** **households**; the **Koran** **is** **used** **similarly** in **Muslim** **cultures**.
+
+## The Mechanisms: Why Randomness Is the Feature
+
+Sortilege **depends** on **three** **psychological** principles:
+
+1. **The removal of ego** -- if the **operator** cannot **choose** the **passage**, the **passage** **cannot** be **blamed** on **wishful** **thinking**.
+2. **The constraint of schema** -- the **text** is **known**; the **form** of the **result** is **predictable**; the **surprise** is **structural** rather than **content-based**.
+3. **The evocation of the unconscious** -- the **random** **draw** by **passes** **through** the **censor**; the **result** **often** **mirrors** the **current** **emotional** **bind** more **faithfully** than **deliberate** **thinking** would have.
+
+## The Luck Mode vs the Divination Mode
+
+Not every **drawing** of a **lot** is **divination**. **Games**, **gambling**, or **administrative** **selection** by lot are **social** **technology** without **divinatory** **claim**. Sortilege is **ritualized** **use** of the **same** **material** **technology** with an **explicit** **claim** of **divine** **or** **archetypal** **voice**. **The** **boundary** is not **the** **die** itself but **the** **claim** made for the **outcome**.
+
+## The Sortes Astrampsychi as a Formal Engine
+
+The **Sortilegy** **of** **Astrampsychos** is the **closest** ancient **relative** of **Geomancy** (see [[04-Geomancy-The-16-Real-Figures-And-Method]]). Both:
+
+- Use a **fixed** **question** **list**.
+- Use a **numeric** **draw** from a **physical** **randomizer**.
+- Encode a **determinate** **response** set that **cannot** be **produced** by **free** **association**.
+
+The **difference** is **text** vs **dot**: **Geomancy** **uses** **marks**; **Astrampsychi** **uses** **natural-language** **responses** **pre**-**mapped** to **numeric** **indices**.
+
+## Practical Advice
+
+For a **modern** **explorer** who wants **sortilege** without **superstition**:
+
+1. **Treat** the **draw** as a **projective** **technique**; the **meaning** **arises** in the **interpretive** **moment**, **not** in the **text** itself.
+2. **Use** a **dense** **source** **text** made up of **independent** **passages** -- the **Tao Te Ching**, the **I Ching** hexagram **texts**, the **biblical** **Psalms**, or the **Masnavi** -- so each **unit** is **interpretable** on its **own**.
+3. **Record** **question**, **draw**, **passage**, and **interpretation** in a **logbook**; **track** **outcome** for **3** to **6** months to **test** the **validity** **against** **your** **own** **life**.
+4. **Resist** **selection** **bias**: **write** down both **successes** and **misses**.
 
 ## See Also
 
-- [[01-Divination-Methods-Overview]] — the divination overview
-- [[04-Geomancy-The-16-Real-Figures-And-Method]] — the geomancy
-- [[05-Oneiromancy-Real-Dream-Divination-Tradition]] — the oneiromancy
+- [[01-Divination-Methods-Overview]] -- taxonomy and theory
+- [[04-Geomancy-The-16-Real-Figures-And-Method]] -- the dot-based parallel
+- [[05-Oneiromancy-Real-Dream-Divination-Tradition]] -- the oneiric parallel
+- [[08-Defensive-And-Clearing-Rituals-Real-Theory]] -- purification before drawing lots
+- [[19-Business-Applications/01-Planetary-Hours-Business]] -- probabilistic timing in secular dress
