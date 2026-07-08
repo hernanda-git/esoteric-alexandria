@@ -14,7 +14,7 @@ The tradition of transmutation — the outer chemistry of metals, the inner chem
 | 05 | The Rosarium Philosophorum — Real Alchemical Images | 05-Rosarium-Philosophorum-Real-Images.md | c. 1550 CE | Western Alchemical |
 | 06 | The Aurora Consurgens — Real Alchemical Codex | 06-Aurora-Consurgens-Real-Alchemical-Codex.md | c. 1420-1430 CE | Western Alchemical |
 
-> Note: docs are listed in directory order. Pair-numbered `04-*` files cover separate source classes (modern chemistry lineage vs. the Hermetic Tablet).
+> Note: paired `04-*` files cover separate source classes — modern chemistry lineage vs. the Hermetic Tablet. Both are retained as canonical.
 
 ### Deep-Dive Paths
 

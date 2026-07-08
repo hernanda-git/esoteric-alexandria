@@ -14,9 +14,7 @@ The oldest traditions of the esoteric library — Babylonian star-wisdom, Egypti
 | 05 | Egyptian Book of the Dead — Coffin Texts and Papyrus Sources | 05-Egyptian-Book-Of-The-Dead-Real-Coffin-Texts-And-Papyrus-Sources.md | Coffin Texts c. 2100 BCE; Papyrus of Ani c. 1250 BCE | Ancient Egyptian |
 | 06 | Enuma Elish — The Real Babylonian Creation Epic | 06-Enuma-Elish-Real-Babylonian-Creation-Epic.md | c. 1100 BCE / c. 700 BCE | Babylonian / Mesopotamian |
 
-> **Duplicate number note:** `04-Babylonian-Zodiac` and `04-Pyramid-Texts` share numbering; categorize by topic, then filename.
-
-## Deep-Dive Paths
+> Note: `04-Babylonian-Zodiac` and `04-Pyramid-Texts` share numbering; categorize by topic, then filename.
 
 - **Cosmological layer:** Enuma Elish tablet-by-tablet, Marduk's 50 names, and the 7-tablet schema are the template for the later Hermetic *Kore Kosmou*.
 - **Divinatory layer:** the MUL.APIN zodiac and Enuma Anu Enlil omen series are the actual operational mechanics of Babylonian astrology.

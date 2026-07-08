@@ -9,8 +9,8 @@ status: bridge-doc
 core_source: 'Peter M. Senge, "The Fifth Discipline: The Art and Practice of the Learning Organization" (1990, rev. 2006)'
 related:
   - '[[01-Planetary-Hours-Business]]'
-  - '[[02-Leader-As-Magus-Vision-Charisma-Action]]'
-  - '[[03-Org-Culture-As-Subtle-Body]]'
+  - '[[02-Leader-Work-Without-The-Overclaim]]'
+  - '[[03-Org-Culture-As-Culture-Not-Subtle-Body]]'
   - '[[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]]'
 sources:
   - 'Peter M. Senge, "The Fifth Discipline" (1990, Doubleday; rev. ed. 2006)'
@@ -65,7 +65,7 @@ The library's category 19 is the textual foundation. The practice requires a liv
 ## See Also
 
 - [[01-Planetary-Hours-Business]] — the timing discipline
-- [[02-Leader-As-Magus-Vision-Charisma-Action]] — the individual master
-- [[03-Org-Culture-As-Subtle-Body]] — the organization as organism
+- [[02-Leader-Work-Without-The-Overclaim]] — the individual master
+- [[03-Org-Culture-As-Culture-Not-Subtle-Body]] — the organization as organism
 - [[15-Modern-Parallels/06-Network-Science-As-Chain-Of-Being]] — the systems parallel
 - [[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]] — the risk parallel
