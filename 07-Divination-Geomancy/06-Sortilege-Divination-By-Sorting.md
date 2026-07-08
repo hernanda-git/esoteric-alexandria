@@ -1,5 +1,5 @@
 ---
-title: "Sortilege — Divination by Sorting"
+title: \"Sortilege — Divination by Sorting\"
 category: 07-Divination-Geomancy
 tradition: Western Medieval / Classical
 era: All
@@ -7,8 +7,8 @@ tags: sortilege, sortition, cleromancy, bibliomancy, rhapsody, stichomancy, rand
 status: foundation-doc
 related:
   - '[[01-Divination-Methods-Overview]]'
-  - '\"[[04-Geomancy-The-16-Real-Figures-And-Method]]\"'
-  - '\"[[05-Oneiromancy-Real-Dream-Divination-Tradition]]\"'
+  - '[[04-Geomancy-The-16-Real-Figures-And-Method]]'
+  - '[[05-Oneiromancy-Real-Dream-Divination-Tradition]]'
 sources:
   - 'Sortes Virgilianae, ed. and trans. Jean-Michel Humez (1981)'
   - 'Sortes Astrampsychi, ed. and trans. Stewart (1901)'
@@ -27,8 +27,8 @@ sources:
 
 | Method | Tradition | Object | Canonical example |
 |---|---|---|---|
-| **1. Sortes Virgilianae** | Classical Greco-Roman | Opening a book at random (Virgil / Homer / the Scriptures) | Hadrian's readings in the Aeneid |
-| **2. Sortes Sanctorum** | Early Christian | Opening the Psalter or Gospels at random | St. Augustine's conversion-night reading |
+| **1. Sortes Virgilianae** | Classical Greco-Roman | Opening a book at random (Virgil / Homer / the Scriptures) | Hadrian s readings in the Aeneid |
+| **2. Sortes Sanctorum** | Early Christian | Opening the Psalter or Gospels at random | St. Augustine s conversion-night reading |
 | **3. Bibliomancy / Stichomancy** | Medieval-Pagan | Opening any sacred or canonical book | Bible opened to Matthew 17 |
 | **4. Rhapsodomancy** | Greek | Random selection of a poetic line | Pythia; rhapsodic selection in temple rites |
 | **5. Astrampsychi / Sortes Astrampsychi** | Egyptian-Greco | 92-question list + die-draw to 1-10 + oracle response column | PGM XII; attributed to Astrampsychos (c. 2nd c. CE) |
@@ -46,7 +46,7 @@ The **Augustine** **critique** (Confessions **4.**3) is **important**: **he** **
 
 **Bibliomancy** -- **random** **opening** of **any** **book** treated as **oracular**; **stichomancy** -- **random** **selection** of **a** **line** or **verse**. **Same** **pattern**: **open**, **point**, **read** the **context**.
 
-**Modern** **form**: **the** **"**Bible** **opened** **on** **a** **table**"** is still a **cultural** **practice** in **some** **Christian** **households**; the **Koran** **is** **used** **similarly** in **Muslim** **cultures**.
+**Modern** **form**: **the** **"Bible** **opened** **on** **a** **table**"** is still a **cultural** **practice** in **some** **Christian** **households**; the **Koran** **is** **used** **similarly** in **Muslim** **cultures**.
 
 ## The Mechanisms: Why Randomness Is the Feature
 
@@ -54,15 +54,15 @@ Sortilege **depends** on **three** **psychological** principles:
 
 1. **The removal of ego** -- if the **operator** cannot **choose** the **passage**, the **passage** **cannot** be **blamed** on **wishful** **thinking**.
 2. **The constraint of schema** -- the **text** is **known**; the **form** of the **result** is **predictable**; the **surprise** is **structural** rather than **content-based**.
-3. **The evocation of the unconscious** -- the **random** **draw** by **passes** **through** the **censor**; the **result** **often** **mirrors** the **current** **emotional** **bind** more **faithfully** than **deliberate** **thinking** would have.
+3. **The evocation of the unconscious** -- the **random** **draw** **bypasses** the **censor**; the **result** **often** **mirrors** the **current** **emotional** **bind** more **faithfully** than **deliberate** **thinking** would.
 
 ## The Luck Mode vs the Divination Mode
 
-Not every **drawing** of a **lot** is **divination**. **Games**, **gambling**, or **administrative** **selection** by lot are **social** **technology** without **divinatory** **claim**. Sortilege is **ritualized** **use** of the **same** **material** **technology** with an **explicit** **claim** of **divine** **or** **archetypal** **voice**. **The** **boundary** is not **the** **die** itself but **the** **claim** made for the **outcome**.
+Not every **drawing** of a **lot** is **divination**. **Games**, **gambling**, or **administrative** **selection** by lot are **social** **technology** without **divinatory** **claim**. Sortilege is **ritualized** **use** of the **same** **material** **technology** with an **explicit** **claim** of **divine** **or** **archetypal** **voice**. **The** **boundary** is **not** **the** **die** itself but **the** **claim** made for the **outcome**.
 
 ## The Sortes Astrampsychi as a Formal Engine
 
-The **Sortilegy** **of** **Astrampsychos** is the **closest** ancient **relative** of **Geomancy** (see [[04-Geomancy-The-16-Real-Figures-And-Method]]). Both:
+The **sortes** **of** **Astrampsychos** is the **closest** ancient **relative** of **Geomancy** (see [[04-Geomancy-The-16-Real-Figures-And-Method]]). Both:
 
 - Use a **fixed** **question** **list**.
 - Use a **numeric** **draw** from a **physical** **randomizer**.
@@ -81,8 +81,8 @@ For a **modern** **explorer** who wants **sortilege** without **superstition**:
 
 ## See Also
 
-- [[01-Divination-Methods-Overview]] -- taxonomy and theory
+- [[01-Divination-Methods-Overview]] -- the taxonomy of kinds
 - [[04-Geomancy-The-16-Real-Figures-And-Method]] -- the dot-based parallel
 - [[05-Oneiromancy-Real-Dream-Divination-Tradition]] -- the oneiric parallel
-- [[08-Defensive-And-Clearing-Rituals-Real-Theory]] -- purification before drawing lots
+- [[03-Planetary-Astrology/07-Fixed-Stars-Natures-and-Powers]] -- electional cross-index
 - [[19-Business-Applications/01-Planetary-Hours-Business]] -- probabilistic timing in secular dress
