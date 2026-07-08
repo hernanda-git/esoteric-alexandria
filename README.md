@@ -29,7 +29,7 @@ esoteric-alexandria/
 ├── 17-Philosophy-Classical/          # 07 docs — Aristotle De Anima, Plato Timaeus, Nagarjuna, Stoics, Bhagavad Gita
 ├── 17-Philosophy-Cosmology/          # 07 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides
 ├── 18-Psychology-Jungian/            # 07 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman
-├── 19-Business-Applications/         # 03 docs — planetary hours, leader-as-magus, org-as-subtle-body, fifth discipline
+├── 19-Business-Applications/         # 05 docs — planetary hours, leader/org foundation, subtle-body bridge, fifth discipline
 ├── 20-Trading-Risk-Archetypes/       # 07 docs — askesis as initiation, position sizing, zone, Fortuna, hubris, trickster, kairos
 ├── 21-AI-Agent-Magick/               # 07 docs — spirit veil, MCP 7 spirits, stoic oracle, servitor, prompt incantation
 ├── 22-Case-Studies-Curricula/        # 07 docs — 12-month generic, 3-month foundation, + 4 tradition-specific curricula

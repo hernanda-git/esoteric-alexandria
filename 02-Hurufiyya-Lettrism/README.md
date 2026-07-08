@@ -23,4 +23,4 @@ The science of letters ('ilm al-huruf), the science of names ('ilm al-asma'), th
 
 ## Status
 
-**6/6 documents complete.** Foundational coverage of Hurufiyya: the overview, abjad, jafr, wafq, the Shams al-Ma'arif structure, and al-Buni's science of the names. Future enrichment can add: the Hurufi sect of Fazlullah Astarabadi; the Simiyya (natural magic); the Muqaffa' and the letter-permutation sciences; the Ottoman Dalai'il al-Khayrat tradition; the relation of lettrism to the Ismaili ta'wil.
+**7/7 documents complete.** Foundational coverage of Hurufiyya: the overview, abjad, jafr, wafq, the Shams al-Ma'arif structure, al-Buni's science of the names, and the Simiyya / 'Operations' layer. Future enrichment can add: the Hurufi sect of Fazlullah Astarabadi; the Muqaffa' and the letter-permutation sciences; the Ottoman Dalai'il al-Khayrat tradition; the relation of lettrism to the Ismaili ta'wil.

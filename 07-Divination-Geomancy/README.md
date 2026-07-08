@@ -7,8 +7,10 @@ Sign-reading — the mantic arts, the oracular traditions, the consultation of t
 | # | Title | Era | Tradition |
 |---|---|---|---|
 | 01 | [Divination — The Forty Methods](01-Divination-Methods-Overview.md) | Cross-tradition | Meta |
-| 02 | [Geomancy — When the Earth Speaks](02-Geomancy-Earth-Speaks.md) | 9th-12th c. systematized, older | Arabic-Islamic / Western Medieval |
-| 03 | [The I Ching — 64 Hexagrams](03-I-Ching-64-Hexagrams.md) | ~1100-500 BCE | Chinese / Taoist / Confucian |
+| 04 | Geomancy — The 16 Real Figures and Method | 04-Geomancy-The-16-Real-Figures-And-Method.md | 9th-12th c. systematized, older | Arabic-Islamic / Western Medieval |
+| 05 | Oneiromancy — Real Dream-Divination Tradition | 05-Oneiromancy-Real-Dream-Divination-Tradition.md | Ancient / cross-tradition | Dream divination |
+| 06 | Sortilege — Divination by Sorting | 06-Sortilege-Divination-By-Sorting.md | Ancient / cross-tradition | Sortilege |
+| 07 | Astragalomancy — Divination by Knucklebones | 07-Astragalomancy-Divination-By-Knucklebones.md | Ancient (Greek/Roman/Egyptian) | Astragalomancy |
 
 ## Cross-References
 

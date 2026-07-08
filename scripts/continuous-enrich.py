@@ -41,7 +41,7 @@ STATE = REPO / "state"
 DB = STATE / "evolve.db"
 STOP = STATE / "enrich-loop.stop"
 LOG = STATE / "enrich-loop.log"
-MODEL = "tencent/hy3:free"
+MODEL = ""  # empty => use configured default; override only if needed
 
 slug_re = re.compile(r"[^a-zA-Z0-9]+")
 
