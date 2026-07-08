@@ -9,6 +9,10 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 | 01 | [The Corpus Hermeticum — The Foundational Texts](01-Corpus-Hermeticum.md) | 1st-3rd c. CE | Hermetic / Greco-Egyptian |
 | 02 | [Gnosticism — The Knowing Ones](02-Gnosticism-Overview.md) | 1st-4th c. CE | Gnostic / Hellenistic |
 | 03 | [The Poimandres — The Vision of the Mind](03-Poimandres-Vision-Of-Mind.md) | 1st-2nd c. CE | Hermetic |
+| 04 | [The Asclepius — The Real Hermetic Dialogue](04-The-Asclepius-Real-Hermetic-Dialogue.md) | 1st-3rd c. CE | Hermetic |
+| 05 | [The Nag Hammadi Texts — The Real Gnostic Library](05-Nag-Hammadi-Texts-Real-Gnostic-Library.md) | c. 350-400 CE (copied) | Gnostic / Sethian / Valentinian |
+| 06 | [The Mandaeans — The Nasoraeans and the Ginza Rabba](06-The-Mandaeans-Nasoraeans-Ginza-Rabba.md) | 3rd-7th c. CE (living) | Gnostic / Mandaean |
+| 07 | [The Kore Kosmou — The Virgin of the World](07-Kore-Kosmou-Virgin-Of-The-World.md) | 1st-3rd c. CE | Hermetic / Greco-Egyptian |
 
 ## Cross-References
 
@@ -19,4 +23,4 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 
 ## Status
 
-**3/3 documents complete.** Foundationally complete. Future enrichment can add: the Asclepius, the Nag Hammadi texts in detail (Gospel of Thomas, Gospel of Philip, Gospel of Truth, Apocryphon of John, Thunder Perfect Mind), the Mandaean tradition, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran.
+**6/6 documents complete.** Foundationally complete. Coverage now spans the Corpus Hermeticum, Gnosticism overview, the Poimandres, the Asclepius, the Nag Hammadi library, and the living Mandaean tradition. Future enrichment can add: the Mandaean Book of John in detail, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran, the Gospel of Thomas as a standalone study.

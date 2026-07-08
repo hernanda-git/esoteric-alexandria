@@ -1,0 +1,17 @@
+{
+  "estimated_cost_usd": 0.0,
+  "cost_status": "estimated",
+  "cost_source": "provider_models_api",
+  "input_tokens": 31667,
+  "output_tokens": 9894,
+  "cache_read_tokens": 345664,
+  "cache_write_tokens": 0,
+  "reasoning_tokens": 3264,
+  "total_tokens": 387225,
+  "api_calls": 10,
+  "model": "tencent/hy3:free",
+  "provider": "nous",
+  "session_id": "20260708_025849_be345b",
+  "completed": true,
+  "failed": false
+}

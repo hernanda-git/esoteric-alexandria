@@ -1,0 +1,268 @@
+[2026-07-07 19:12:07 UTC] ======================================================================
+[2026-07-07 19:12:07 UTC] CONTINUOUS ENRICHMENT STARTED  pid=92434  batch=2  max=forever  model=tencent/hy3:free
+[2026-07-07 19:12:07 UTC] Repo: /mnt/c/Workspace/esoteric-alexandria
+[2026-07-07 19:12:07 UTC] Stop file: /mnt/c/Workspace/esoteric-alexandria/state/enrich-loop.stop  |  kill -TERM 92434 to stop
+[2026-07-07 19:12:07 UTC] ======================================================================
+[2026-07-07 19:12:08 UTC] [DRY-RUN] would dispatch batch#1 gaps=1,2
+[2026-07-07 19:12:08 UTC] You are an enrichment worker for the Esoteric Alexandria knowledge library at /mnt/c/Workspace/esoteric-alexandria.
+
+Author the following doc(s). For EACH target, follow these steps EXACTLY:
+
+TARGETS (gap_id | category | filename | topic):
+  1 | 19-Business-Applications | the-leader-as-magus-vision-charisma-action.md | The Leader as Magus — Vision, Charisma, Action
+  2 | 19-Business-Applications | the-organization-as-a-subtle-body.md | The Organization as a Subtle Body
+
+PER-TARGET STEPS:
+1. Read the target category's README.md and ONE existing sibling .md to learn the exact YAML frontmatter fo
+[2026-07-07 19:12:08 UTC] CONTINUOUS ENRICHMENT ENDED.
+[2026-07-07 19:12:20 UTC] ======================================================================
+[2026-07-07 19:12:20 UTC] CONTINUOUS ENRICHMENT STARTED  pid=92492  batch=3  max=forever  model=tencent/hy3:free
+[2026-07-07 19:12:20 UTC] Repo: /mnt/c/Workspace/esoteric-alexandria
+[2026-07-07 19:12:20 UTC] Stop file: /mnt/c/Workspace/esoteric-alexandria/state/enrich-loop.stop  |  kill -TERM 92492 to stop
+[2026-07-07 19:12:20 UTC] ======================================================================
+[2026-07-07 19:12:20 UTC] --- DISPATCH batch#1 gaps=1,2 (model=tencent/hy3:free) ---
+[2026-07-07 19:17:20 UTC]     Both targets done. Summary:
+[2026-07-07 19:17:20 UTC]     
+[2026-07-07 19:17:20 UTC]     Created:
+[2026-07-07 19:17:20 UTC]     - /mnt/c/Workspace/esoteric-alexandria/19-Business-Applications/the-leader-as-magus-vision-charisma-action.md
+[2026-07-07 19:17:20 UTC]     - /mnt/c/Workspace/esoteric-alexandria/19-Business-Applications/the-organization-as-a-subtle-body.md
+[2026-07-07 19:17:20 UTC]     (Registered as rows 04 & 05 in 19-Business-Applications/README.md; gaps 1 & 2 marked filled in evolve.db.)
+[2026-07-07 19:17:20 UTC]     
+[2026-07-07 19:17:20 UTC]     One thing you should know — the README already had rows 02 and 03 with these exact titles (and the actual on-disk docs at those slots are the *corrected* foundation docs, e.g. "The Magus in the Western Esoteric Tradition" and "Org Culture as Culture Not Subtle Body"). The README's 02/03 link targets
+[2026-07-07 19:17:20 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:17:20 UTC] --- DISPATCH batch#2 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:21:33 UTC]     Done. Provenance recorded for all three.
+[2026-07-07 19:21:33 UTC]     
+[2026-07-07 19:21:33 UTC]     One-line summary of files created:
+[2026-07-07 19:21:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/16-Science-Resonance/04-Quantum-Entanglement-And-Cosmic-Sympathy.md (new; README row 04 appended)
+[2026-07-07 19:21:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/17-Philosophy-Cosmology/02-Upanishads-Atman-And-Brahman.md (new; README row 02 appended)
+[2026-07-07 19:21:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/24-Frontier-Open-Questions/04-Mathematical-Esotericism-Formal-Modeling.md (new; README row 04 appended)
+[2026-07-07 19:21:33 UTC]     
+[2026-07-07 19:21:33 UTC]     All three fill the thinnest (3-doc) categories that had READMEs, chose uncovered high-value topics, follow the house YAML/frontmatter + prose style with citations and See Also, and are logged as `high` severity rows in state/evolve.db. No unrelated files were modified.
+[2026-07-07 19:21:33 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:21:34 UTC] --- DISPATCH batch#3 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:25:49 UTC]     Done. Three high-value enrichment docs authored, table rows appended, and provenance recorded.
+[2026-07-07 19:25:49 UTC]     
+[2026-07-07 19:25:49 UTC]     Files created:
+[2026-07-07 19:25:49 UTC]     - /mnt/c/Workspace/esoteric-alexandria/16-Science-Resonance/05-Biophysics-Of-Vibration.md — biophysics of vibration (Frohlich coherence, mechanobiology, cellular resonance), + README table row 05
+[2026-07-07 19:25:49 UTC]     - /mnt/c/Workspace/esoteric-alexandria/22-Case-Studies-Curricula/04-Hermetic-Tradition-12-Month-Curriculum.md — Hermetic 12-month study plan, + README table row 04
+[2026-07-07 19:25:49 UTC]     - /mnt/c/Workspace/esoteric-alexandria/23-Reference-Glossary/04-Biographical-Index-Major-Figures.md — biographical index of major esoteric figures, + README table row 04
+[2026-07-07 19:25:49 UTC]     
+[2026-07-07 19:25:49 UTC]     Deviation note: the four absolute-thinnest categories (11, 17, 20, 21) each have only 3 .md docs but no README.md, so steps 1 (read README) and 5 (append to its table) are impossible there. I instead targeted the three thinnest categories that DO have READMEs — 16, 22, 23 — choosing topics each READ
+[2026-07-07 19:25:49 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:25:49 UTC] --- DISPATCH batch#4 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:29:10 UTC]     All three provenance rows recorded. Done.
+[2026-07-07 19:29:10 UTC]     
+[2026-07-07 19:29:10 UTC]     Created 3 new substantive, house-style docs for the thinnest categories (each had only 3 .md docs and no README), with matching READMEs and provenance recorded:
+[2026-07-07 19:29:10 UTC]     
+[2026-07-07 19:29:10 UTC]     - /mnt/c/Workspace/esoteric-alexandria/11-NeoPlatonism-Theurgy/04-Porphyry-Bridge-Of-Late-Platonism.md — plus created README.md (bridges Plotinus→Iamblichus; fills the missing hinge of the Neoplatonic chain)
+[2026-07-07 19:29:10 UTC]     - /mnt/c/Workspace/esoteric-alexandria/20-Trading-Risk-Archetypes/04-Fortuna-And-Tyche-Archetype-Of-Chance.md — plus created README.md (chance/variance archetype mapped onto position sizing, with honesty caveats)
+[2026-07-07 19:29:10 UTC]     - /mnt/c/Workspace/esoteric-alexandria/21-AI-Agent-Magick/04-Servitor-And-Golem-Autonomous-Agents.md — plus created README.md (golem/servitor lifecycle ↔ autonomous agent loop, as a risk mnemonic not metaphysics)
+[2026-07-07 19:29:10 UTC]     
+[2026-07-07 19:29:10 UTC]     Each doc follows the exact YAML frontmatter format (title, category, tradition, era, tags, status, related wikilinks, sources) and prose style (Honesty Note, structured bodies, See Also) copied from sibling docs; topics were confirmed uncovered by listing each dir first. 3 high-severity rows written
+[2026-07-07 19:29:10 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:29:10 UTC] --- DISPATCH batch#5 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:33:33 UTC]     Done. All three docs authored, READMEs updated (including creating the missing one), and provenance recorded.
+[2026-07-07 19:33:33 UTC]     
+[2026-07-07 19:33:33 UTC]     Files created this run:
+[2026-07-07 19:33:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/17-Philosophy-Classical/04-The-Stoics-Logos-Sympatheia-Cosmopolis.md (category was thinnest at 3 docs; created its missing README.md too)
+[2026-07-07 19:33:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/11-NeoPlatonism-Theurgy/05-Pseudo-Dionysius-Celestial-Hierarchy.md (row appended to README; status 4/4→5/5)
+[2026-07-07 19:33:33 UTC]     - /mnt/c/Workspace/esoteric-alexandria/18-Psychology-Jungian/05-Synchronicity-Acausal-Connecting-Principle.md (row appended to README; status 4/4→5/5)
+[2026-07-07 19:33:33 UTC]     
+[2026-07-07 19:33:33 UTC]     All three topics were explicitly flagged as future-enrichment gaps in their own READMEs (stoic reception, pseudo-Dionysian reception, Synchronicity essay), so no duplication. Each doc follows the house YAML + "the X is a specific…" litany + real-source citations + See Also, with modern-category mapp
+[2026-07-07 19:33:33 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:33:33 UTC] --- DISPATCH batch#6 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:36:14 UTC]     Done. Three new high-value enrichment docs created in the thinnest categories (4 docs each, tied):
+[2026-07-07 19:36:14 UTC]     
+[2026-07-07 19:36:14 UTC]     - /mnt/c/Workspace/esoteric-alexandria/17-Philosophy-Cosmology/05-Mulla-Sadra-Transcendent-Theosophy.md — Mulla Sadra's primacy-of-being & trans-substantial motion (uncovers a noted gap; bridges Ibn Arabi + Neoplatonic emanation to modern monist/process thought)
+[2026-07-07 19:36:14 UTC]     - /mnt/c/Workspace/esoteric-alexandria/21-AI-Agent-Magick/05-Prompt-As-Incantation-Critical-Mapping.md — prompt-as-incantation (a flagged future topic; critical/hedged mapping, speech-act theory vs. theurgy)
+[2026-07-07 19:36:14 UTC]     - /mnt/c/Workspace/esoteric-alexandria/20-Trading-Risk-Archetypes/05-Hubris-And-The-Blow-Up.md — Hubris/Nemesis archetype of overreach & the trading blow-up (flagged future topic; classical reception)
+[2026-07-07 19:36:14 UTC]     
+[2026-07-07 19:36:14 UTC]     Each follows the house YAML frontmatter + prose style (honesty/critical note, structured bodies with citations, See Also), appends a numbered row to its category README table, and records a high-severity gap entry with filled_at timestamp in state/evolve.db. (Category 09-Sufism-Irfan, also at 4 docs
+[2026-07-07 19:36:14 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:36:14 UTC] --- DISPATCH batch#7 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:39:31 UTC]     Done. Three new high-value enrichment docs authored into the thinnest (4-doc) categories, in the exact house style, with README table rows appended and provenance recorded in the gaps DB.
+[2026-07-07 19:39:31 UTC]     
+[2026-07-07 19:39:31 UTC]     Files created:
+[2026-07-07 19:39:31 UTC]     - /mnt/c/Workspace/esoteric-alexandria/17-Philosophy-Classical/05-Aristotle-Metaphysics-Being-And-The-Unmoved-Mover.md
+[2026-07-07 19:39:31 UTC]     - /mnt/c/Workspace/esoteric-alexandria/24-Frontier-Open-Questions/05-Comparative-Mythology-Cross-Cultural-Patterns.md
+[2026-07-07 19:39:31 UTC]     - /mnt/c/Workspace/esoteric-alexandria/23-Reference-Glossary/05-Source-Index-Major-Texts.md
+[2026-07-07 19:39:31 UTC]     
+[2026-07-07 19:39:31 UTC]     Each: read the category README + a sibling doc, copied YAML/frontmatter + prose style, picked a non-duplicate topic (all three were named in the READMEs' own future-enrichment lists), wrote 55–75 lines, appended the numbered table row, updated the Status line, and logged a 'high' gap fill in evolve.
+[2026-07-07 19:39:31 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:39:31 UTC] --- DISPATCH batch#8 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:43:06 UTC]     Done. Created 3 high-value enrichment docs for the thinnest categories and recorded provenance:
+[2026-07-07 19:43:06 UTC]     
+[2026-07-07 19:43:06 UTC]     - /mnt/c/Workspace/esoteric-alexandria/22-Case-Studies-Curricula/05-Indian-Tradition-12-Month-Curriculum.md (Indian 12-month self-study curriculum; README row 05 added)
+[2026-07-07 19:43:06 UTC]     - /mnt/c/Workspace/esoteric-alexandria/11-NeoPlatonism-Theurgy/06-Damascius-Closing-Of-The-Academy.md (Damascius & the 529 CE Academy closure; README row 06 added)
+[2026-07-07 19:43:06 UTC]     - /mnt/c/Workspace/esoteric-alexandria/16-Science-Resonance/06-Quantum-Biology-Coherent-Vibration.md (quantum coherence in living systems; README row 06 added)
+[2026-07-07 19:43:06 UTC]     
+[2026-07-07 19:43:06 UTC]     All three follow the house YAML/style, cite primary sources, and map tradition onto modern categories; provenance logged in state/evolve.db.
+[2026-07-07 19:43:06 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:43:06 UTC] --- DISPATCH batch#9 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:46:31 UTC]     All six files created and verified. Done.
+[2026-07-07 19:46:31 UTC]     
+[2026-07-07 19:46:31 UTC]     Summary — created 3 new enrichment docs + 3 category READMEs (one was required for each thinnest category, since none existed):
+[2026-07-07 19:46:31 UTC]     
+[2026-07-07 19:46:31 UTC]     1. 09-Sufism-Irfan/05-Rumi-And-The-Masnavi.md — Rumi and the Masnavi (Spiritual Couplets): life, the Shams encounter, the Masnavi as "Quran in Persian tongue," the doctrine of 'ishq (love), the sama' and Mevlevi order, modern reception gap. Plus created 09-Sufism-Irfan/README.md with the documents t
+[2026-07-07 19:46:31 UTC]     
+[2026-07-07 19:46:31 UTC]     2. 02-Hurufiyya-Lettrism/06-Ahmad-Al-Buni-And-The-Science-Of-Names.md — al-Buni and the 'ilm al-asma' (science of the Divine Names): the ism al-a'zam, the letter/value/planet method, the cross-traditional link to Kabbalah, and the honesty note on empirical hawas. Plus created 02-Hurufiyya-Lettrism/R
+[2026-07-07 19:46:31 UTC]     
+[2026-07-07 19:46:31 UTC]     3. 03-Planetary-Astrology/06-Medical-Astrology-Critical-Days.md — Medical Astrology (iatromathematika): melothesia (planetary rulerships of body parts), the lunar critical-day cycles, the Perso-Arabic/Galen synthesis, Culpeper, and the "like cures like" alchemical parallel. Plus created 03-Planetary
+[2026-07-07 19:46:31 UTC]     
+[2026-07-07 19:46:31 UTC]     Each doc copies the house YAML frontmatter (title, category, tradition, era, author, tags, status, core_source, related [[wikilinks]], sources), uses the structured prose-with-citations style, ends with a "See Also" block, and a numbered row was appended to each new category README. Provenance recor
+[2026-07-07 19:46:31 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:46:31 UTC] --- DISPATCH batch#10 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:49:03 UTC]     All three docs written, READMEs updated, and provenance recorded.
+[2026-07-07 19:49:03 UTC]     
+[2026-07-07 19:49:03 UTC]     Created 3 enrichments for the thinnest categories:
+[2026-07-07 19:49:03 UTC]     - 18-Psychology-Jungian/06-Active-Imagination-The-Dialogue-With-The-Unconscious.md (Jung's active-imagination method; 06, copy of frontmatter/style)
+[2026-07-07 19:49:03 UTC]     - 21-AI-Agent-Magick/06-Latent-Space-Egregores-Memetic-Agents.md (egregore ↔ multi-agent security parallel; topic the README itself flagged as future enrichment)
+[2026-07-07 19:49:03 UTC]     - 24-Frontier-Open-Questions/06-Esoteric-Methodology-And-The-Replication-Problem.md (falsifiability/replication crisis applied to the tradition)
+[2026-07-07 19:49:03 UTC]     
+[2026-07-07 19:49:03 UTC]     Each got a numbered README table row + Status bump, and a high-severity 'filled' row was appended to state/evolve.db (66 → 69 rows). No unrelated files touched.
+[2026-07-07 19:49:04 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:49:04 UTC] --- DISPATCH batch#11 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:52:49 UTC]     All three categories now hold 6 docs, READMEs updated (including a created one for Category 15 and a corrected stale one for Category 10), and provenance recorded. Done.
+[2026-07-07 19:52:49 UTC]     
+[2026-07-07 19:52:49 UTC]     Summary of files created:
+[2026-07-07 19:52:49 UTC]     
+[2026-07-07 19:52:49 UTC]     1. /mnt/c/Workspace/esoteric-alexandria/09-Sufism-Irfan/06-Al-Hallaj-And-Ana-Al-Haqq.md — Al-Hallaj and the Ana al-Haqq (the intoxication/sobriety debate and martyrdom); row appended to 09's README.
+[2026-07-07 19:52:49 UTC]     
+[2026-07-07 19:52:49 UTC]     2. /mnt/c/Workspace/esoteric-alexandria/10-Hermeticism-Gnosticism/06-The-Mandaeans-Nasoraeans-Ginza-Rabba.md — the living Mandaean Gnostic tradition; row appended and the stale 10 README corrected (it listed only 3 docs but had 5; now fully reflects all 6).
+[2026-07-07 19:52:49 UTC]     
+[2026-07-07 19:52:49 UTC]     3. /mnt/c/Workspace/esoteric-alexandria/15-Modern-Parallels/06-Network-Science-As-Chain-Of-Being.md — network science mapped onto the Chain of Being / silsila; and the previously missing 15 README.md was created with the full 6-row documents table.
+[2026-07-07 19:52:49 UTC]     
+[2026-07-07 19:52:49 UTC]     All three enrichment rows were recorded in state/evolve.db with severity 'high' and filled timestamps.
+[2026-07-07 19:52:49 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:52:49 UTC] --- DISPATCH batch#12 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:55:49 UTC]     Done. Three new high-value enrichment docs generated for the thinnest tied categories (5 docs each), house style copied, READMEs updated, provenance recorded.
+[2026-07-07 19:55:49 UTC]     
+[2026-07-07 19:55:49 UTC]     Files created:
+[2026-07-07 19:55:49 UTC]     - 17-Philosophy-Classical/06-Bhagavad-Gita-The-Yoga-Of-Action.md — the Gita's Karma Yoga (action without attachment to fruit), cross-linked to Stoicism and trading discipline.
+[2026-07-07 19:55:49 UTC]     - 17-Philosophy-Cosmology/06-Heraclitus-Flux-Logos-And-The-Unity-Of-Opposites.md — flux, Logos, fire, and the unity of opposites; mapped to process philosophy and resonance physics.
+[2026-07-07 19:55:49 UTC]     - 20-Trading-Risk-Archetypes/06-The-Trickster-As-Market-Maker.md — the Trickster archetype vs. market-maker/spoofing, held as a careful (non-cosmological) structural lens like its sibling docs.
+[2026-07-07 19:55:49 UTC]     
+[2026-07-07 19:55:49 UTC]     All three READMEs gained a numbered table row, their Status lines bumped to 6/6, and gap-row provenance was inserted into state/evolve.db (ids 73–75). No unrelated files were modified.
+[2026-07-07 19:55:49 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:55:50 UTC] --- DISPATCH batch#13 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 19:58:35 UTC]     Done. Three new docs created in the thinnest categories, READMEs updated, and provenance recorded:
+[2026-07-07 19:58:35 UTC]     
+[2026-07-07 19:58:35 UTC]     - `/mnt/c/Workspace/esoteric-alexandria/22-Case-Studies-Curricula/06-Kabbalistic-Tradition-12-Month-Curriculum.md` (Kabbalistic 12-month self-study curriculum)
+[2026-07-07 19:58:35 UTC]     - `/mnt/c/Workspace/esoteric-alexandria/23-Reference-Glossary/06-Date-Index-Chronology-Of-The-Tradition.md` (historical timeline + annual observance cycle)
+[2026-07-07 19:58:35 UTC]     - `/mnt/c/Workspace/esoteric-alexandria/21-AI-Agent-Magick/07-Vector-Database-As-Memory-Temple.md` (critical RAG/vector-store ↔ memory-temple mapping)
+[2026-07-07 19:58:35 UTC]     
+[2026-07-07 19:58:35 UTC]     All three follow the house frontmatter/prose style, cross-link existing docs, add README table rows, and log high-severity "filled" gaps to evolve.db (now 78 rows).
+[2026-07-07 19:58:35 UTC] WORKER exit=0 -> OK
+[2026-07-07 19:58:36 UTC] --- DISPATCH batch#14 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:00:55 UTC]     Done. Three new high-value enrichment docs created in the thinnest categories (all tied at 6 docs prior), following the house YAML/prose style and appending rows to each README table.
+[2026-07-07 20:00:55 UTC]     
+[2026-07-07 20:00:55 UTC]     Files created:
+[2026-07-07 20:00:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/02-Hurufiyya-Lettrism/07-Simiya-Magical-Properties-of-Letters.md — Simiya (the magical properties of letters), also repairs a dangling wikilink referenced in doc 01.
+[2026-07-07 20:00:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/03-Planetary-Astrology/07-Fixed-Stars-Natures-and-Powers.md — the fixed stars (natures, malefic pairs, election rules), a README-suggested gap.
+[2026-07-07 20:00:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/13-Mesopotamian-Egyptian/04-Pyramid-Texts-Old-Kingdom-Ascension.md — the Pyramid Texts, oldest religious corpus and ancestor of Egyptian eschatology, a README-suggested gap.
+[2026-07-07 20:00:55 UTC]     
+[2026-07-07 20:00:55 UTC]     Provenance recorded for all three in state/evolve.db (gaps count now 81). No unrelated files modified.
+[2026-07-07 20:00:55 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:00:56 UTC] --- DISPATCH batch#15 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:03:55 UTC]     Done. Gap queue was empty (the 81 prior rows were historical filled records), so I self-directed to the three thinnest categories that have READMEs (each had 6 docs) and added one substantive doc each.
+[2026-07-07 20:03:55 UTC]     
+[2026-07-07 20:03:55 UTC]     Files created:
+[2026-07-07 20:03:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/05-Talismanic-Magick/07-Lunar-Mansions-Talismans.md — The 28 Mansions of the Moon (uncovered; 05 had only planetary + Goetia)
+[2026-07-07 20:03:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/10-Hermeticism-Gnosticism/07-Kore-Kosmou-Virgin-Of-The-World.md — The Kore Kosmou / Virgin of the World (uncovered; Isis-Horus revelation)
+[2026-07-07 20:03:55 UTC]     - /mnt/c/Workspace/esoteric-alexandria/16-Science-Resonance/07-Resonance-And-Morphogenesis.md — Resonance & Morphogenesis (Turing/Goodwin/Levin; uncovered bridge topic)
+[2026-07-07 20:03:55 UTC]     
+[2026-07-07 20:03:55 UTC]     Each doc was written in the house YAML-frontmatter + structured-citations + "See Also" style (copied from a sibling), appended as row 07 to its category README table, and logged to state/evolve.db (3 new high-severity rows, now 84 total). No unrelated files modified.
+[2026-07-07 20:03:55 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:03:56 UTC] --- DISPATCH batch#16 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:06:27 UTC]     All three provenance rows recorded. Done.
+[2026-07-07 20:06:27 UTC]     
+[2026-07-07 20:06:27 UTC]     Created 3 high-value enrichment docs (targeting the thinnest content categories at 6 .md each) and appended their rows to each category README, with DB provenance recorded:
+[2026-07-07 20:06:27 UTC]     
+[2026-07-07 20:06:27 UTC]     - /mnt/c/Workspace/esoteric-alexandria/08-Kabbalah-Numerology/07-Lurianic-Kabbalah-Tzimtzum-Tikkun.md — Lurianic Kabbalah (tzimtzum / shevirah / tikkun / gilgul)
+[2026-07-07 20:06:27 UTC]     - /mnt/c/Workspace/esoteric-alexandria/09-Sufism-Irfan/07-Al-Ghazali-Ihya-Deliverance.md — al-Ghazali and the Ihya' / Munqidh / Tahafut
+[2026-07-07 20:06:27 UTC]     - /mnt/c/Workspace/esoteric-alexandria/11-NeoPlatonism-Theurgy/07-Arabic-Neoplatonism-Theology-Of-Aristotle.md — Arabic reception (Theology of Aristotle, Liber de Causis, al-Farabi, Avicenna)
+[2026-07-07 20:06:27 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:06:28 UTC] --- DISPATCH batch#17 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:09:17 UTC]     Done. Three high-value enrichment docs authored for the thinnest knowledge categories (6 .md each), each in house style with YAML frontmatter, citations, and See Also:
+[2026-07-07 20:09:17 UTC]     
+[2026-07-07 20:09:17 UTC]     - 24-Frontier-Open-Questions/07-Entropy-Negentropy-And-The-Esoteric-Cosmos.md — entropy/negentropy & the Great Work (thermodynamics ↔ alchemy)
+[2026-07-07 20:09:17 UTC]     - 20-Trading-Risk-Archetypes/07-Kairos-The-Right-Moment-Of-The-Trade.md — Kairos (right moment) as the entry-archetype, bridging Chronos, the Zone, and Fortuna/Trickster
+[2026-07-07 20:09:17 UTC]     - 18-Psychology-Jungian/07-James-Hillman-And-Archetypal-Psychology.md — Hillman's archetypal psychology (image over archetype, acorn/daimon) as the bridge from Jung to the plural cosmology
+[2026-07-07 20:09:17 UTC]     
+[2026-07-07 20:09:17 UTC]     READMEs updated with numbered table rows; provenance recorded as 3 high-severity 'filled' rows in state/evolve.db. No unrelated files touched.
+[2026-07-07 20:09:17 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:09:17 UTC] --- DISPATCH batch#18 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:12:12 UTC]     Done. Three new high-value enrichment docs authored, registered in their category READMEs, and provenance recorded in evolve.db.
+[2026-07-07 20:12:12 UTC]     
+[2026-07-07 20:12:12 UTC]     Files created:
+[2026-07-07 20:12:12 UTC]     - /mnt/c/Workspace/esoteric-alexandria/14-Indian-Tantric-Chinese/07-The-Yoga-Sutras-Of-Patanjali.md (Raja Yoga's eight limbs + kleshas, mapped to chakra/Tantra and Western alchemy)
+[2026-07-07 20:12:12 UTC]     - /mnt/c/Workspace/esoteric-alexandria/19-Business-Applications/06-The-Fifth-Discipline-Systemic-Leadership.md (Senge's five disciplines as modern esoteric practice / systems thinking as Chain of Being)
+[2026-07-07 20:12:12 UTC]     - /mnt/c/Workspace/esoteric-alexandria/15-Modern-Parallels/07-Thermodynamics-Entropy-As-Great-Work.md (Second Law + dissipative structures as critical mapping onto the alchemical Great Work)
+[2026-07-07 20:12:13 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:12:13 UTC] --- DISPATCH batch#19 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:16:48 UTC]     Done. Three new high-value enrichment docs authored in house style, with README tables and provenance recorded.
+[2026-07-07 20:16:48 UTC]     
+[2026-07-07 20:16:48 UTC]     Created (all in /mnt/c/Workspace/esoteric-alexandria):
+[2026-07-07 20:16:48 UTC]     - 17-Philosophy-Classical/07-Plato-Republic-Theory-Of-Forms-And-The-Cave.md — Theory of Forms, Cave, philosopher-king, tripartite soul (uncovered; only Timaeus existed)
+[2026-07-07 20:16:48 UTC]     - 17-Philosophy-Cosmology/07-Parmenides-Being-And-The-One.md — Way of Truth, the One, being-vs-becoming (uncovered; only Heraclitus existed)
+[2026-07-07 20:16:48 UTC]     - 22-Case-Studies-Curricula/07-The-Sufi-Path-12-Month-Curriculum.md — 12-month self-study Sufi path (no Sufi curriculum existed)
+[2026-07-07 20:16:48 UTC]     
+[2026-07-07 20:16:48 UTC]     Each picked for a thinnest category (6 docs → now 7), copies the exact YAML frontmatter/sources/`See Also` style of its siblings, and records a severity='high' gap row with detected_at=filled_at=now.
+[2026-07-07 20:16:48 UTC] WORKER exit=0 -> OK
+[2026-07-07 20:16:48 UTC] --- DISPATCH batch#20 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:16:57 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:16:57 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:16:57 UTC] backing off 30s before next worker
+[2026-07-07 20:17:27 UTC] --- DISPATCH batch#21 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:17:31 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:17:31 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:17:31 UTC] backing off 60s before next worker
+[2026-07-07 20:18:31 UTC] --- DISPATCH batch#22 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:18:36 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:18:36 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:18:36 UTC] backing off 90s before next worker
+[2026-07-07 20:20:06 UTC] --- DISPATCH batch#23 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:20:19 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:20:19 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:20:19 UTC] backing off 120s before next worker
+[2026-07-07 20:22:19 UTC] --- DISPATCH batch#24 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:22:23 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:22:23 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:22:23 UTC] backing off 150s before next worker
+[2026-07-07 20:24:53 UTC] --- DISPATCH batch#25 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:24:58 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:24:58 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:24:58 UTC] backing off 180s before next worker
+[2026-07-07 20:27:58 UTC] --- DISPATCH batch#26 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:28:02 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:28:02 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:28:02 UTC] backing off 210s before next worker
+[2026-07-07 20:31:32 UTC] --- DISPATCH batch#27 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:31:45 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:31:45 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:31:45 UTC] backing off 240s before next worker
+[2026-07-07 20:35:46 UTC] --- DISPATCH batch#28 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:35:50 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:35:50 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:35:50 UTC] backing off 270s before next worker
+[2026-07-07 20:40:20 UTC] --- DISPATCH batch#29 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:40:28 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:40:28 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:40:28 UTC] backing off 300s before next worker
+[2026-07-07 20:45:28 UTC] --- DISPATCH batch#30 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:45:41 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:45:41 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:45:41 UTC] backing off 300s before next worker
+[2026-07-07 20:50:41 UTC] --- DISPATCH batch#31 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:50:47 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:50:47 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:50:47 UTC] backing off 300s before next worker
+[2026-07-07 20:55:48 UTC] --- DISPATCH batch#32 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 20:56:00 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 20:56:00 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 20:56:00 UTC] backing off 300s before next worker
+[2026-07-07 21:01:01 UTC] --- DISPATCH batch#33 self-directed (model=tencent/hy3:free) ---
+[2026-07-07 21:01:09 UTC]     hermes -z: agent failed: No access token found for Nous Portal login.
+[2026-07-07 21:01:09 UTC] WORKER exit=1 -> FAILED
+[2026-07-07 21:01:09 UTC] backing off 300s before next worker

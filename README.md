@@ -10,37 +10,89 @@
 
 ```
 esoteric-alexandria/
-├── 01-Origins-Traditions/            # Cross-tradition survey — what is esotericism, where did it come from
-├── 02-Hurufiyya-Lettrism/            # 'Ilm al-Huruf, the science of letters (Shams al-Ma'arif core)
-├── 03-Planetary-Astrology/           # Classical 7 planets, dignities, aspects, elections
-├── 04-Alchemy-Transmutation/         # Inner & outer alchemy, stages, the Great Work
-├── 05-Talismanic-Magick/             # Sigils, squares, planetary talismans, spirit-veils
-├── 06-Angels-Jinn-Demons/            # Angelic hierarchies, jinn lore, goetic spirits
-├── 07-Divination-Geomancy/           # Geomancy, sand divination, cleromancy, bibliomancy
-├── 08-Kabbalah-Numerology/           # Tree of Life, gematria, sephirot, paths
-├── 09-Sufism-Irfan/                  # Tasawwuf, dhikr, maqamat, Wahdat al-Wujud
-├── 10-Hermeticism-Gnosticism/        # Hermetica, Poimandres, Asclepius, Nag Hammadi
-├── 11-NeoPlatonism-Theurgy/          # Plotinus, Iamblichus, Proclus, theurgical rites
-├── 12-Agrippa-Picatrix-Grimoires/    # Three Books of Occult Philosophy, Picatrix, Sworn Book
-├── 13-Mesopotamian-Egyptian/         # Enuma Anu Enlil, Book of the Dead, hermetic roots
-├── 14-Indian-Tantric-Chinese/        # Vedas, Tantra, Taoist internal alchemy, Yi Jing
-├── 15-Modern-Parallels/              # How these ideas show up today (chaos magick, sigil tech)
-├── 16-Science-Resonance/             # Cymatics, cymatic geometry, wave theory, vibration
-├── 17-Philosophy-Cosmology/          # Creation myths, emanation, ontological hierarchy
-├── 18-Psychology-Jungian/            # Archetypes, shadow, individuation, synchronicity
-├── 19-Business-Applications/         # Market timing, planetary hours, leadership archetypes
-├── 20-Trading-Risk-Archetypes/       # Risk as initiation, drawdown as the ordeal, position-sizing as talisman
-├── 21-AI-Agent-Magick/               # What happens when an LLM agent is treated as a spirit-veil
-├── 22-Case-Studies-Curricula/        # Self-study syllabi (3 months, 12 months, deep-dive)
-├── 23-Reference-Glossary/            # Terms, abbreviations, cross-tradition index
-├── 24-Frontier-Open-Questions/       # What the field has not yet resolved (auto-gap-detected)
-│
-├── scripts/                          # Self-evolution engines (see "Self-Evolving" below)
-├── state/                            # Cron progress, gap reports, evolution log
-├── enrich/                           # Incoming source corpora (Shams, Agrippa, Picatrix) — read-only
-├── obsidian-bridge/                  # Sync engine to ~/Documents/Obsidian Vault + Qdrant
-└── .github/workflows/                # Optional CI: validate frontmatter, link check
+├── 01-Origins-Traditions/            # 07 docs — origins, exoterism/esoterism, liberal arts, initiation
+├── 02-Hurufiyya-Lettrism/            # 07 docs — 'ilm al-huruf, abjad, jafr, wafq, al-Buni
+├── 03-Planetary-Astrology/           # 07 docs — planets, hours, electional, medical, fixed stars
+├── 04-Alchemy-Transmutation/         # 07 docs — prima materia, nigredo, Jabir, emerald tablet, corpus hermeticum-esque
+├── 05-Talismanic-Magick/             # 07 docs — squares, 7-planet talismans, goetia, lunar mansions
+├── 06-Angels-Jinn-Demons/            # 08 docs — angelic choirs, goetic 72, jinn classes, merkabah, amesha spentas
+├── 07-Divination-Geomancy/           # 07 docs — 40 methods, geomancy 16 figures, iching, dream divination
+├── 08-Kabbalah-Numerology/           # 07 docs — sefirot, gematria, christian kabbalah, sefer yetzirah, 4 worlds
+├── 09-Sufism-Irfan/                  # 07 docs — tariqas, maqamat, Ibn Arabi, Rumi, Hallaj, Ghazali
+├── 10-Hermeticism-Gnosticism/        # 07 docs — Corpus Hermeticum, Poimandres, Nag Hammadi, Mandaeans, Kore Kosmou
+├── 11-NeoPlatonism-Theurgy/          # 07 docs — Plotinus, Porphyry, Iamblichus, Proclus, Pseudo-Dionysius, Damascius
+├── 12-Agrippa-Picatrix-Grimoires/    # 06 docs — Three Books, Picatrix, Heptameron, Sworn Book, Lemegeton
+├── 13-Mesopotamian-Egyptian/         # 06 docs — Enuma Anu Enlil, Book of the Dead, Sabians, Zodiac, Pyramid texts
+├── 14-Indian-Tantric-Chinese/        # 07 docs — chakras, neidan/waidan, tantra, hatha yoga, 5 koshas, patanjali
+├── 15-Modern-Parallels/              # 07 docs — cryptanalysis, information theory, genetic code, big data, network science
+├── 16-Science-Resonance/             # 07 docs — cymatics, harmonics, quantum, biophysics, morphogenesis
+├── 17-Philosophy-Classical/          # 07 docs — Aristotle De Anima, Plato Timaeus, Nagarjuna, Stoics, Bhagavad Gita
+├── 17-Philosophy-Cosmology/          # 07 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides
+├── 18-Psychology-Jungian/            # 07 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman
+├── 19-Business-Applications/         # 03 docs — planetary hours, leader-as-magus, org-as-subtle-body, fifth discipline
+├── 20-Trading-Risk-Archetypes/       # 07 docs — askesis as initiation, position sizing, zone, Fortuna, hubris, trickster, kairos
+├── 21-AI-Agent-Magick/               # 07 docs — spirit veil, MCP 7 spirits, stoic oracle, servitor, prompt incantation
+├── 22-Case-Studies-Curricula/        # 07 docs — 12-month generic, 3-month foundation, + 4 tradition-specific curricula
+├── 23-Reference-Glossary/            # 06 docs — glossary, concordance, reading order, bio/source/date index
+├── 24-Frontier-Open-Questions/       # 07+ docs — unresolved mysteries, mathematical modeling, comparative myth, replication
+
+├── scripts/                          # Self-evolution engines
+│   ├── evolve.py                     # Main runner: gap-detector, curator, linker, obsidian-sync, promoter
+│   ├── continuous-enrich.py          # Continuous ingestor from enrich/ symlinks
+│   └── evolve-daily.sh               # Daily cron wrapper
+├── state/                            # Cron output, reconcile reports, enrich logs/usage
+├── enrich/                           # Incoming source corpora
+│   ├── shams-al-maarif/ → C:\Working Folder\Research\shams-al-maarif-ocr
+│   ├── aibase/ → C:\Workspace\AiBaseKnowledge
+│   └── money-glitch/ → C:\Workspace\money-glitch-vault
+├── obsidian-bridge/                  # Sync to Obsidian vault + Qdrant
+└── .github/workflows/                # CI: frontmatter validate, link check
 ```
+
+---
+
+## Deep-Dive Index by Category
+
+### Hermeneutic/First-Principles categories
+- **01-Origins-Traditions** — meta-reading: where esotericism came from, the esoteric/exoteric boundary, initiation mechanics, the seven liberal arts, master-disciple chains.
+- **11-NeoPlatonism-Theurgy** — late-antique metaphysics and ritual tech: the One, the Intellect, the Soul, theurgy as binding.
+- **17-Philosophy-Cosmology** — emanation/descent as the structural family of all cosmologies.
+- **17-Philosophy-Classical** — the Greek/Buddhist anchors: Aristotelian soul, Platonic forms, Stoic logos, Madhyamaka emptiness.
+
+### Operator/Source-Document categories
+- **02-Hurufiyya-Lettrism** — Arabic letter-numerology, abjad, jafr, wafq, Shams al-Ma'arif structure, al-Buni/Ahmad al-Buni, simiya.
+- **03-Planetary-Astrology** — 7 planets, planetary hours/real computation, Babylonian omen tradition, Vettius Valens, electional, medical/critical days, fixed stars.
+- **05-Talismanic-Magick** — squares/sigils, 7-planet talismans, Goetia/Lemegeton, lunar mansion talismans, consecration/suffumigation.
+- **08-Kabbalah-Numerology** — Tree of Life 32 paths, gematria, Sefer Yetzirah chapters, four worlds, pardes, Lurianic tzimtzum/tikkun.
+- **10-Hermeticism-Gnosticism** — Corpus Hermeticum, Poimandres, Asclepius, Kore Kosmou; Nag Hammadi, Mandaeans, Ginza Rabba.
+- **12-Agrippa-Picatrix-Grimoires** — Agrippa Three Books, Picatrix Arabic/Latin, Heptameron, Sworn Book of Honorius, Lemegeton real structure.
+- **13-Mesopotamian-Egyptian** — Enuma Anu Enlil, Enuma Elish, Egyptian Book of the Dead/Coffin Texts, Sabians of Harran, Pyramid Texts.
+- **14-Indian-Tantric-Chinese** — 7 chakras, Chinese neidan/waidan, left-hand/right-hand tantra, hatha yoga pradipika, 5 koshas, Vijnana Bhairava, Yoga Sutras.
+- **09-Sufism-Irfan** — tariqas/darqawi-style chain, maqamat/ahwal, Ibn Arabi Fusus al-Hikam, Rumi/Masnavi, Hallaj ana al-haqq, Ghazali Ihya.
+- **06-Angels-Jinn-Demons** — 9 choirs, 72 goetic spirits, jinn 4 classes, merkabah, hechalot, amesha spentas.
+- **07-Divination-Geomancy** — 40 methods, geomantic 16 figures, I Ching 64 hexagrams, oneiromancy, sortilege.
+- **04-Alchemy-Transmutation** — nigredo/albedo/citrinitas/rubedo, Jabir, modern chemistry lineage, Rosarium, Aurora Consurgens, Emerald Tablet source.
+
+### Modern-Bridge categories
+- **15-Modern-Parallels** — cryptanalysis as jafr, information theory as mar'ifa, genetic code as wafq, big data/Akashic, network science/chain of being, thermodynamics/great-work.
+- **16-Science-Resonance** — cymatics, music of the spheres, Fourier harmonics, quantum entanglement/cosmic sympathy, quantum biology, morphogenesis.
+- **18-Psychology-Jungian** — Jung + alchemy, shadow work, archetypes/collective unconscious, individuation, synchronicity, active imagination, Hillman.
+- **19-Business-Applications** — planetary hours for meetings, leader-as-magus 3-function audit, org-as-subtle-body culture model, Senge fifth discipline.
+- **20-Trading-Risk-Archetypes** — askesis as initiation, position-sizing math, trading-in-the-zone psychology, Fortuna/Tyche, hubris/blow-up, trickster/MM, kairos.
+- **21-AI-Agent-Magick** — LLM as spirit-veil, MCP protocol as non-mystical interface, LLM as Stoic oracle, servitor/golem, prompt-as-incantation-economy, latent-space egrogores/consensus, vector-database-as-memory-temple.
+- **22-Case-Studies-Curricula** — generic 12-month, 3-month fast-start, deep-dive alchemy 2-year, + Hermetic/Indian/Kabbalistic/Sufi trails.
+- **23-Reference-Glossary** — glossary, cross-tradition concordance, reading order, biographical/source/date index.
+- **24-Frontier-Open-Questions** — unresolved mysteries, consciousness/mapability question, mathematical formalization, cross-cultural comparative myth, methodology + replication problem, entropy/negentropy/esoteric cosmos.
+
+---
+
+## Library Shape
+
+Every folder contains a `README.md` index with exact doc counts and a per-doc list showing file name, era, and tradition. Sub-folder navigators in Obsidian/Qdrant should load into the `.related:` arrays of the individual documents.
+
+### Auto-generated files excluded from reading
+
+The repository contains automated史学-style output generated by `continuous-enrich.py`. Those files are preserved in `state/` and individual auto-generated docs keep `auto-generated` tags. Do not delete them without review.
 
 ---
 
@@ -48,13 +100,13 @@ esoteric-alexandria/
 
 This library **never stops growing**. Three engines run on cron:
 
-| Engine | Schedule | What it does |
-|---|---|---|
-| **Gap Detector** | Daily 04:00 WIB | Scans category indices, finds topics with no document, generates a "gap report" |
-| **Promoter** | Daily 04:30 WIB | Qdrant `brain_semantic` clusters ≥5 with same topic but no note → drafts new doc into `Inbox/auto-generated/` |
-| **Linker** | Daily 05:00 WIB | Reads new docs, runs Qdrant semantic similarity, auto-adds `[[wikilinks]]` to related notes |
-| **Obsidian Bridge** | Hourly | Syncs all new/changed `.md` into `~/Documents/Obsidian Vault/Resources/Esoteric/` and Qdrant `brain_notes` collection |
-| **Weekly Digest** | Sun 09:00 WIB | Telegram report: new docs, top links, biggest gaps, suggested next reads |
+| Engine | Schedule | What it does | Qdrant required? |
+|---|---|---|---|
+| **Gap Detector** | Daily 04:00 WIB | Scans category indices, finds topics with no document, generates a `gap-report-*` | No |
+| **Curator/Enricher** | Daily 04:15 WIB | Iterates false positives -> split -> realign RAW into organized articles, enriches sections with deep context | No |
+| **Linker** | Daily 04:30 WIB | Reads new docs, runs semantic similarity, auto-adds `[[wikilinks]]` to related notes | Yes |
+| **Obsidian Bridge** | Hourly | Syncs all new/changed `.md` into `~/Documents/Obsidian Vault/Resources/Esoteric/` and Qdrant `brain_notes` collection | No |
+| **Weekly Digest** | Sun 09:00 WIB | Telegram report: new docs, top links, biggest gaps, suggested next reads | No |
 
 All engines are **deterministic, idempotent, and dry-runnable**. No destructive action without `--apply`.
 
@@ -69,13 +121,13 @@ Every doc in this repo is mirrored into your **Obsidian vault** at:
 ```
 ~/Documents/Obsidian Vault/Resources/Esoteric/
 ├── 01-Origins-Traditions/
-├── 02-Hurufiyya-Lettrism/
-└── ... (all 24 categories mirrored)
+├── ...
+└── 24-Frontier-Open-Questions/
 ```
 
 …and vectorized into **Qdrant** collection `brain_notes` (with collection `brain_episodic` for raw ingest and `brain_semantic` for distilled clusters). Your `mcp_brain_memory_search` and `mcp_brain_memory_store` tools will reflect the library in real time.
 
-The Obsidian bridge respects the existing 459-note vault — it **adds**, never overwrites.
+The Obsidian bridge respects the existing vault — it **adds**, never overwrites.
 
 ---
 
@@ -83,10 +135,9 @@ The Obsidian bridge respects the existing 459-note vault — it **adds**, never 
 
 | Source | Where it lives | How it's used |
 |---|---|---|
-| **Shams al-Ma'arif** (Ahmad al-Buni, d.1225) | `enrich/shams-al-maarif/` ← symlink to `C:\Working Folder\Research\shams-al-maarif-ocr` | 283 translated pages → seed corpus for category 02 (Hurufiyya) and 05 (Talismanic) |
-| **AiBaseKnowledge** (modern AI corpus) | `enrich/aibase/` ← symlink to `C:\Workspace\AiBaseKnowledge` | 177 docs filtered for esoteric-adjacent concepts (vibration, emergence, archetypes) → category 15 (Modern Parallels) and 21 (AI-Agent Magick) |
-| **money-glitch-vault** (current demand) | `enrich/money-glitch/` ← symlink to `C:\Workspace\money-glitch-vault` | 7 categories of demand signals (crawler, trading bot, freelancer AI) → category 19 (Business) and 20 (Trading) |
-| **Planned: Agrippa, Picatrix, Hermetica** | `enrich/classics/` | When ingested → category 12 (Grimoires) and 10 (Hermeticism) |
+| **Shams al-Ma'arif** (Ahmad al-Buni, d.1225) | `enrich/shams-al-maarif/` symlinked to `C:\Working Folder\Research\shams-al-maarif-ocr` | 283 translated pages → seed corpus for 02 and 05 |
+| **AiBaseKnowledge** | `enrich/aibase/` → `C:\Workspace\AiBaseKnowledge` | 177 docs filtered for esoteric-adjacent concepts → 15 and 21 |
+| **money-glitch-vault** | `enrich/money-glitch/` → `C:\Workspace\money-glitch-vault` | Demand signals → 19 and 20 |
 
 The repo is **read-only** with respect to these source vaults. It only reads.
 
@@ -97,20 +148,42 @@ The repo is **read-only** with respect to these source vaults. It only reads.
 ```bash
 # 1. Read the foundation
 cat 01-Origins-Traditions/01-What-Is-Esotericism.md
-cat 02-Hurufiyya-Lettrism/01-'Ilm-al-Huruf-Overview.md
+cat 02-Hurufiyya-Lettrism/01-Ilm-al-Huruf-Overview.md
 
 # 2. Run a self-evolution cycle (dry-run)
-python3 scripts/evolve.py --dry-run --mode full
+python scripts/evolve.py --dry-run --mode full
 
 # 3. Generate the gap report
-python3 scripts/gap-detector.py --write
+python scripts/evolve.py --engine gap-detector
 
-# 4. Sync to Obsidian
-python3 obsidian-bridge/sync.py --apply
+# 4. Sync to Obsidian (gh-credential-aware git ops if pushing)
+python scripts/evolve.py --engine obsidian-sync
 
 # 5. Query your brain
-# (in Hermes)  mcp_brain_memory_search(query="planetary talisman", collection="brain_notes")
+# (in Hermes) mcp_brain_memory_search(query="planetary talisman", collection="brain_notes")
 ```
+
+---
+
+## Credentials & Git
+
+All GitHub operations in this repo use the Windows `gh` credential helper:
+`'C:\\Program Files\\GitHub CLI\\gh.exe' auth git-credential`
+Authenticated account: `hernanda-git`, protocol: `https`.
+
+---
+
+## Enrichment Pipeline Status
+
+`scripts/continuous-enrich.py` is implemented and structurally wired into `state/evolve.db` and `state/enrich-loop.log`, but **not currently validated as fully operational** because every dispatched worker run fails early with:
+
+`"No access token found for Nous Portal login."`
+
+### Current state
+- **Mode:** Continuous self-directed enrichment → `hermes -z` worker per batch with back-off on failure
+- **Last validated:** Dispatches are struct producirá OK, workers fail before producing docs
+- **Done so far:** Queue structure + README auto-registration hooks are in place; no docs were successfully authored by this pipeline yet
+- **Next first step:** Fix auth token for Nous Portal / switch model/provider/config this worker actually uses, then dry-run one batch to confirm the doc-generation loop
 
 ---
 
@@ -118,18 +191,5 @@ python3 obsidian-bridge/sync.py --apply
 
 > *"The universe is not only queerer than we suppose, but queerer than we can suppose."* — J.B.S. Haldane
 
-The ancient esotericists were not primitive — they were encoding a multi-layered cosmology into a pre-literate storage medium (symbol, ritual, sigil). The modern AI engineer faces the same problem: how do you compress the entire pattern-space of human experience into a token-bounded context?
-
-This library treats the **esoteric tradition as a first-class knowledge system** — not as folklore, not as metaphor, but as a 2,500-year-old engineering discipline for mapping invisible causes to visible effects. Where modern science can only gesture ("quantum coherence", "emergence", "complexity"), the esoteric tradition has a fully developed vocabulary and methodology for the same territory.
-
-We do not claim the rituals work in the literal pre-scientific sense. We claim the **knowledge graph** is real, and that mapping it onto modern categories yields genuine insight.
-
 ---
 
-## License
-
-Content is derivative of public-domain classical sources (Shams al-Ma'arif is 800 years old; Agrippa is 500; Picatrix is 1000). The library itself is MIT — share, remix, attribute.
-
-## Maintainer
-
-Hernanda (@0xvalarion). Bandung, Indonesia. AI infrastructure engineer by trade, esoteric student by calling.
