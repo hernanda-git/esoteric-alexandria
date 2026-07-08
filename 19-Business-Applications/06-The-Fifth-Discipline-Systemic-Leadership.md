@@ -26,13 +26,13 @@ sources:
 
 **The Fifth Discipline** (1990) by **Peter Senge** reframed management as the cultivation of a **learning organization** — a body that continuously expands its capacity to create the results it truly wants. Senge named five "disciplines" that, practiced together, produce an organization that learns as a living whole. The fifth — **systems thinking** — is the integrator that makes the other four cohere.
 
-The esoteric bridge is direct: Senge's five disciplines are a modern, secular restatement of the **integrative practice** that the esoteric traditions have always prescribed — the disciplined transformation of an aggregate of parts into a single conscious organism (see [[03-Org-Culture-As-Subtle-Body]]).
+The esoteric bridge is direct: Senge's five disciplines are a modern, secular restatement of the **integrative practice** that the esoteric traditions have always prescribed — the disciplined transformation of an aggregate of parts into a single conscious organism (see [[03-Org-Culture-As-Culture-Not-Subtle-Body]]).
 
 ## The Five Disciplines
 
 | # | Discipline | Esoteric Parallel |
 |---|---|---|
-| 1 | **Personal Mastery** — clarifying and deepening one's personal vision; holding creative tension between vision and reality | The *via purgativa*; the practitioner's individual work (see [[02-Leader-As-Magus-Vision-Charisma-Action]]) |
+| 1 | **Personal Mastery** — clarifying and deepening one's personal vision; holding creative tension between vision and reality | The *via purgativa*; the practitioner's individual work (see [[02-Leader-Work-Without-The-Overclaim]]) |
 | 2 | **Mental Models** — surfacing and testing the deep assumptions that shape perception | The dissolution of *avidya* (ignorance) in the Yoga Sutras |
 | 3 | **Shared Vision** — building a genuinely shared image of the future the group seeks | The *telos* of the order; the Group Mind of the ceremonial circle |
 | 4 | **Team Learning** — the discipline of dialogue and collective inquiry | The harmonized operation of a working group or lodge |

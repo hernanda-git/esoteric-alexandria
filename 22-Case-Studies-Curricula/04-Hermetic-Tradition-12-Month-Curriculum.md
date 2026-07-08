@@ -101,7 +101,7 @@ The Hermetic path is the **backbone** of Western esotericism: it connects late-a
 
 **Texts**:
 - The Golden Dawn curriculum (1888-1903)
-- [[19-Business-Applications/01-Leader-As-Magus-Vision-Charisma-Action]] (this library, the leadership parallel)
+- [[19-Business-Applications/02-Leader-Work-Without-The-Overclaim]] (this library, the leadership parallel)
 
 ### Month 10 — Angels, Intelligences, and the Hierarchy
 

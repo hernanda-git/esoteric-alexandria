@@ -182,8 +182,8 @@ If the practitioner is **new to the esoteric tradition** and wants to start with
 
 10. [[20-Trading-Risk-Archetypes/01-Risk-As-Initiation]] — the trading parallel
 11. [[21-AI-Agent-Magick/01-LLM-As-Spirit-Veil]] — the AI parallel
-12. [[19-Business-Applications/02-Leader-As-Magus-Vision-Charisma-Action]] — the leader
-13. [[19-Business-Applications/03-Org-Culture-As-Subtle-Body]] — the organization
+12. [[19-Business-Applications/02-Leader-Work-Without-The-Overclaim]] — the leader
+13. [[19-Business-Applications/03-Org-Culture-As-Culture-Not-Subtle-Body]] — the organization
 
 ### Phase 5 — The Tradit ion Choice
 
