@@ -12,7 +12,8 @@ The trader's craft read through the esoteric lens: discipline as initiation, the
 | 04 | Fortuna and Tyche — The Archetype of Chance | 04-Fortuna-And-Tyche-Archetype-Of-Chance.md | Antiquity + 21st c. | Modern / Trading / Classical Reception |
 | 05 | Hubris and the Blow-Up — The Archetype of Overreach | 05-Hubris-And-The-Blow-Up.md | Antiquity + 21st c. | Modern / Trading / Classical Reception |
 | 06 | The Trickster as Market-Maker | 06-The-Trickster-As-Market-Maker.md | 20th–21st c. | Modern / Trading / Jungian Reception |
-| 07 | Kairos — The Right Moment of the Trade | 07-Kairos-The-Right-Moment-Of-The-Trade.md | Antiquity + 21st c. | Modern / Trading / Classical Reception |
+|| 07 | Kairos — The Right Moment of the Trade | 07-Kairos-The-Right-Moment-Of-The-Trade.md | Antiquity + 21st c. | Modern / Trading / Classical Reception |
+|| 08 | Kaizen as Askesis — Continuous Improvement Without the Fallacy | 08-Kaizen-As-Askesis-Continuous-Improvement-Without-The-Fallacy.md | 20th-21st c. | Modern / Trading / Comparative |
 
 ## Deep-Dive Paths
 

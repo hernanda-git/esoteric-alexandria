@@ -39,3 +39,10 @@ PER DOC, follow EXACTLY:
 [2026-07-08 06:01:57 UTC]       [tool] (°ロ°) synthesizing...
 [2026-07-08 06:01:57 UTC] WORKER exit=0 -> OK
 [2026-07-08 06:01:57 UTC] --- DISPATCH batch#2 self-directed (model=) ---
+[2026-07-08 06:16:32 UTC]     Done.
+[2026-07-08 06:16:32 UTC]     - Added `C:\Workspace\esoteric-alexandria\17-Philosophy-Cosmology\08-Participation-How-The-One-Imprints-On-The-Many.md` with Quine-free frontmatter and cross-links.
+[2026-07-08 06:16:32 UTC]     - Added `C:\Workspace\esoteric-alexandria\20-Trading-Risk-Archetypes\08-Kaizen-As-Askesis-Continuous-Improvement-Without-The-Fallacy.md` with hedged comparative framing.
+[2026-07-08 06:16:32 UTC]     - Updated `17-Philosophy-Cosmology\README.md` and `20-Trading-Risk-Archetypes\README.md` with the new rows.
+[2026-07-08 06:16:32 UTC]     - Recorded both docs in `state/evolve.db` via `gaps` inserts.
+[2026-07-08 06:16:32 UTC] WORKER exit=0 -> OK
+[2026-07-08 06:16:32 UTC] --- DISPATCH batch#3 self-directed (model=) ---
