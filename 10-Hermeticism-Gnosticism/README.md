@@ -13,6 +13,7 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 | 05 | [The Nag Hammadi Texts — The Real Gnostic Library](05-Nag-Hammadi-Texts-Real-Gnostic-Library.md) | c. 350-400 CE (copied) | Gnostic / Sethian / Valentinian |
 | 06 | [The Mandaeans — The Nasoraeans and the Ginza Rabba](06-The-Mandaeans-Nasoraeans-Ginza-Rabba.md) | 3rd-7th c. CE (living) | Gnostic / Mandaean |
 | 07 | [The Kore Kosmou — The Virgin of the World](07-Kore-Kosmou-Virgin-Of-The-World.md) | 1st-3rd c. CE | Hermetic / Greco-Egyptian |
+| 08 | [Jacob Boehme and Christian Theosophy — The Visionary Shoemaker](08-Jacob-Boehme-Christian-Theosophy.md) | 1575–1624 CE | Christian Theosophy / German Mysticism |
 
 ## Cross-References
 
@@ -23,4 +24,4 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 
 ## Status
 
-**6/6 documents complete.** Foundationally complete. Coverage now spans the Corpus Hermeticum, Gnosticism overview, the Poimandres, the Asclepius, the Nag Hammadi library, and the living Mandaean tradition. Future enrichment can add: the Mandaean Book of John in detail, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran, the Gospel of Thomas as a standalone study.
+**7/7 documents complete.** Foundationally complete, with a major new addition: Jacob Boehme (doc 08) — the German theosopher whose doctrines of the Ungrund, the Three Principles, and the Signature shaped the entire subsequent Western esoteric tradition (Hegel, Schelling, Blake, the Romantic movement, Theosophy, Anthroposophy, and Jung). Future enrichment can add: the Mandaean Book of John in detail, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran, the Gospel of Thomas as a standalone study.

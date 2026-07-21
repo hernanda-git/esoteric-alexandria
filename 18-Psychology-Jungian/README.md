@@ -13,6 +13,7 @@ The modern psychological reading of the esoteric tradition — Jung, the archety
 | 05 | Synchronicity — The Acausal Connecting Principle | 05-Synchronicity-Acausal-Connecting-Principle.md | 1952 | Modern / Depth Psychology |
 | 06 | Active Imagination — The Dialogue with the Unconscious | 06-Active-Imagination-The-Dialogue-With-The-Unconscious.md | 1913–1961 | Modern / Depth Psychology |
 | 07 | James Hillman and Archetypal Psychology — The Soul's Code | 07-James-Hillman-And-Archetypal-Psychology.md | 1975–1996 | Modern / Depth Psychology |
+| 08 | Gurdjieff and the Fourth Way — The Work on Oneself | 08-Gurdjieff-Fourth-Way.md | 1866–1949 | Fourth Way / Esoteric Synthesis |
 
 ## Cross-References
 
@@ -23,4 +24,4 @@ The modern psychological reading of the esoteric tradition — Jung, the archety
 
 ## Status
 
-**7/7 documents complete.** Foundational coverage complete. Future deep-dive: *Red Book* as primary practice record, von Franz on fairy-tales, the modern IFS model against Jungian complexes, MDMA-assisted therapy + active imagination, psychedelic research + archetype activation.
+**7/7 documents complete.** Foundational coverage complete. The new doc 08 adds Gurdjieff's Fourth Way — a practical system of self-transformation ("the Work") that bridges Western esotericism, Sufi practice, and modern psychology through the methods of self-remembering, conscious labour, and the Enneagram. Future deep-dive: *Red Book* as primary practice record, von Franz on fairy-tales, the modern IFS model against Jungian complexes, MDMA-assisted therapy + active imagination, psychedelic research + archetype activation.

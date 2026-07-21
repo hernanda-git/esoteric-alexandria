@@ -10,7 +10,7 @@
 
 ```
 esoteric-alexandria/
-├── 01-Origins-Traditions/            # 07 docs — origins, exoterism/esoterism, liberal arts, initiation
+├── 01-Origins-Traditions/            # 09 docs — origins, exoterism/esoterism, liberal arts, initiation + African Diaspora traditions
 ├── 02-Hurufiyya-Lettrism/            # 07 docs — 'ilm al-huruf, abjad, jafr, wafq, al-Buni
 ├── 03-Planetary-Astrology/           # 07 docs — planets, hours, electional, medical, fixed stars
 ├── 04-Alchemy-Transmutation/         # 07 docs — prima materia, nigredo, Jabir, emerald tablet, corpus hermeticum-esque
@@ -19,7 +19,7 @@ esoteric-alexandria/
 ├── 07-Divination-Geomancy/           # 07 docs — 40 methods, geomancy 16 figures, iching, dream divination
 ├── 08-Kabbalah-Numerology/           # 07 docs — sefirot, gematria, christian kabbalah, sefer yetzirah, 4 worlds
 ├── 09-Sufism-Irfan/                  # 07 docs — tariqas, maqamat, Ibn Arabi, Rumi, Hallaj, Ghazali
-├── 10-Hermeticism-Gnosticism/        # 07 docs — Corpus Hermeticum, Poimandres, Nag Hammadi, Mandaeans, Kore Kosmou
+├── 10-Hermeticism-Gnosticism/        # 08 docs — Corpus Hermeticum, Poimandres, Nag Hammadi, Mandaeans, Kore Kosmou + Jacob Boehme
 ├── 11-NeoPlatonism-Theurgy/          # 07 docs — Plotinus, Porphyry, Iamblichus, Proclus, Pseudo-Dionysius, Damascius
 ├── 12-Agrippa-Picatrix-Grimoires/    # 06 docs — Three Books, Picatrix, Heptameron, Sworn Book, Lemegeton
 ├── 13-Mesopotamian-Egyptian/         # 06 docs — Enuma Anu Enlil, Book of the Dead, Sabians, Zodiac, Pyramid texts
@@ -28,7 +28,7 @@ esoteric-alexandria/
 ├── 16-Science-Resonance/             # 07 docs — cymatics, harmonics, quantum, biophysics, morphogenesis
 ├── 17-Philosophy-Classical/          # 07 redirect stubs — canonical docs merged into 17-Philosophy-Cosmology
 ├── 17-Philosophy-Cosmology/          # 14 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides, plus classical anchors
-├── 18-Psychology-Jungian/            # 07 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman
+├── 18-Psychology-Jungian/            # 08 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman + Gurdjieff
 ├── 19-Business-Applications/         # 06 docs — planetary hours, leader/org foundation, subtle-body bridge, fifth discipline, board ritual, egregore shadow
 ├── 20-Trading-Risk-Archetypes/       # 07 docs — askesis as initiation, position sizing, zone, Fortuna, hubris, trickster, kairos
 ├── 21-AI-Agent-Magick/               # 07 docs — spirit veil, MCP 7 spirits, stoic oracle, servitor, prompt incantation
@@ -54,7 +54,7 @@ esoteric-alexandria/
 ## Deep-Dive Index by Category
 
 ### Hermeneutic/First-Principles categories
-- **01-Origins-Traditions** — meta-reading: where esotericism came from, the esoteric/exoteric boundary, initiation mechanics, the seven liberal arts, master-disciple chains.
+- **01-Origins-Traditions** — meta-reading: where esotericism came from, the esoteric/exoteric boundary, initiation mechanics, the seven liberal arts, master-disciple chains; **+ African Diaspora Traditions — Vodou, Santería, Candomblé, Hoodoo, and Ifá: the living esoteric systems of the African diaspora, created through creolization under colonialism**.
 - **11-NeoPlatonism-Theurgy** — late-antique metaphysics and ritual tech: the One, the Intellect, the Soul, theurgy as binding.
 - **17-Philosophy-Cosmology** — emanation/descent as the structural family of all cosmologies.
 - **17-Philosophy-Classical** — the Greek/Buddhist anchors: Aristotelian soul, Platonic forms, Stoic logos, Madhyamaka emptiness.
@@ -64,7 +64,7 @@ esoteric-alexandria/
 - **03-Planetary-Astrology** — 7 planets, planetary hours/real computation, Babylonian omen tradition, Vettius Valens, electional, medical/critical days, fixed stars.
 - **05-Talismanic-Magick** — squares/sigils, 7-planet talismans, Goetia/Lemegeton, lunar mansion talismans, consecration/suffumigation.
 - **08-Kabbalah-Numerology** — Tree of Life 32 paths, gematria, Sefer Yetzirah chapters, four worlds, pardes, Lurianic tzimtzum/tikkun.
-- **10-Hermeticism-Gnosticism** — Corpus Hermeticum, Poimandres, Asclepius, Kore Kosmou; Nag Hammadi, Mandaeans, Ginza Rabba.
+- **10-Hermeticism-Gnosticism** — Corpus Hermeticum, Poimandres, Asclepius, Kore Kosmou; Nag Hammadi, Mandaeans, Ginza Rabba; **+ Jacob Boehme and Christian Theosophy — the German visionary who shaped Romanticism, Hegel, and the entire modern esoteric tradition from his doctrine of the Ungrund**.
 - **12-Agrippa-Picatrix-Grimoires** — Agrippa Three Books, Picatrix Arabic/Latin, Heptameron, Sworn Book of Honorius, Lemegeton real structure.
 - **13-Mesopotamian-Egyptian** — Enuma Anu Enlil, Enuma Elish, Egyptian Book of the Dead/Coffin Texts, Sabians of Harran, Pyramid Texts.
 - **14-Indian-Tantric-Chinese** — 7 chakras, Chinese neidan/waidan, left-hand/right-hand tantra, hatha yoga pradipika, 5 koshas, Vijnana Bhairava, Yoga Sutras.
@@ -76,7 +76,7 @@ esoteric-alexandria/
 ### Modern-Bridge categories
 - **15-Modern-Parallels** — cryptanalysis as jafr, information theory as mar'ifa, genetic code as wafq, big data/Akashic, network science/chain of being, thermodynamics/great-work.
 - **16-Science-Resonance** — cymatics, music of the spheres, Fourier harmonics, quantum entanglement/cosmic sympathy, quantum biology, morphogenesis.
-- **18-Psychology-Jungian** — Jung + alchemy, shadow work, archetypes/collective unconscious, individuation, synchronicity, active imagination, Hillman.
+- **18-Psychology-Jungian** — Jung + alchemy, shadow work, archetypes/collective unconscious, individuation, synchronicity, active imagination, Hillman, **+ Gurdjieff's Fourth Way — the "Work" of self-remembering, the Enneagram, and the transformation of mechanical humanity into conscious being**.
 - **19-Business-Applications** — planetary hours for meetings, leader-as-magus 3-function audit, org-as-subtle-body culture model, Senge fifth discipline.
 - **20-Trading-Risk-Archetypes** — askesis as initiation, position-sizing math, trading-in-the-zone psychology, Fortuna/Tyche, hubris/blow-up, trickster/MM, kairos.
 - **21-AI-Agent-Magick** — LLM as spirit-veil, MCP protocol as non-mystical interface, LLM as Stoic oracle, servitor/golem, prompt-as-incantation-economy, latent-space egrogores/consensus, vector-database-as-memory-temple.
