@@ -16,6 +16,7 @@ remains in one coherent namespace.
 | 06 | Heraclitus — Flux, Logos, and the Unity of Opposites | 06-Heraclitus-Flux-Logos-And-The-Unity-Of-Opposites.md | c. 535–475 BCE | Greek Presocratic | Canonical |
 | 07 | Parmenides — Being, the One, and the Way of Truth | 07-Parmenides-Being-And-The-One.md | c. 515–450 BCE | Greek Presocratic | Canonical |
 | 08 | Participation — How the One Imprints on the Many | 08-Participation-How-The-One-Imprints-On-The-Many.md | c. 4th c. BCE – 3rd c. CE | Greek Classical / Neoplatonic | Canonical |
+| 09 | Meister Eckhart and the Christian Mystical Tradition — The Godhead Beyond God | 09-Meister-Eckhart-Christian-Mysticism.md | c.1260–1328 CE | Christian Mysticism / German Mysticism | Canonical |
 | 09 | Aristotle's De Anima — The Real Treatise on the Soul | 08-Aristotle-De-Anima-Real-Treatise-On-Soul.md | 4th c. BCE | Greek Classical | Redirect |
 | 10 | Plato's Timaeus — The Real Cosmological Dialogue | 09-Plato-Timaeus-Real-Cosmology.md | c. 360 BCE | Greek Classical | Redirect |
 | 11 | Nagarjuna — The Madhyamaka Buddhist Philosophy | 10-Nagarjuna-Madhyamaka-Buddhist-Philosophy.md | c. 150-250 CE | Indian Buddhist | Redirect |
@@ -36,4 +37,4 @@ remains in one coherent namespace.
 
 ## Status
 
-**14/14 documents complete.** Foundational coverage complete. Future enrichment can add: I Ching commentary traditions, Whitehead process philosophy as modern emanation, contemporary emergence theory, Stoic ethics in modern trading, and comparative emptiness/being mappings.
+**15/15 documents complete.** Foundational coverage complete. The new doc 09 — Meister Eckhart & the Christian Mystical Tradition — adds the entire apophatic tradition from Pseudo-Dionysius through Eckhart to John of the Cross: the Godhead beyond God, the ground of the soul, the birth of the Word in the soul, and the seven‑mansion map of Teresa of Ávila. Future enrichment can add: I Ching commentary traditions, Whitehead process philosophy as modern emanation, contemporary emergence theory, Stoic ethics in modern trading, and comparative emptiness/being mappings.

@@ -14,6 +14,7 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 | 06 | [The Mandaeans — The Nasoraeans and the Ginza Rabba](06-The-Mandaeans-Nasoraeans-Ginza-Rabba.md) | 3rd-7th c. CE (living) | Gnostic / Mandaean |
 | 07 | [The Kore Kosmou — The Virgin of the World](07-Kore-Kosmou-Virgin-Of-The-World.md) | 1st-3rd c. CE | Hermetic / Greco-Egyptian |
 | 08 | [Jacob Boehme and Christian Theosophy — The Visionary Shoemaker](08-Jacob-Boehme-Christian-Theosophy.md) | 1575–1624 CE | Christian Theosophy / German Mysticism |
+| 09 | [Rudolf Steiner and Anthroposophy — Spiritual Science for the Modern World](09-Rudolf-Steiner-Anthroposophy.md) | 1861–1925 CE | Anthroposophy / Christian Esotericism |
 
 ## Cross-References
 
@@ -24,4 +25,4 @@ The Greco-Egyptian and Hellenistic-Jewish-Christian traditions that established 
 
 ## Status
 
-**7/7 documents complete.** Foundationally complete, with a major new addition: Jacob Boehme (doc 08) — the German theosopher whose doctrines of the Ungrund, the Three Principles, and the Signature shaped the entire subsequent Western esoteric tradition (Hegel, Schelling, Blake, the Romantic movement, Theosophy, Anthroposophy, and Jung). Future enrichment can add: the Mandaean Book of John in detail, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran, the Gospel of Thomas as a standalone study.
+**8/8 documents complete.** The new doc 09 adds Rudolf Steiner and Anthroposophy — the most systematically ambitious and practically applied esoteric figure of the 20th century, whose ninefold anthropology, cosmic evolution, Christology, Waldorf education, biodynamic agriculture, eurythmy, and social threefolding represent the modern flowering of the Boehmean‑Hermetic‑Gnostic tradition. Future enrichment can add: the Mandaean Book of John in detail, the Manichaean tradition, the modern Gnostic churches, the Sabians of Harran, the Gospel of Thomas as a standalone study.

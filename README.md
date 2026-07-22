@@ -19,7 +19,7 @@ esoteric-alexandria/
 ├── 07-Divination-Geomancy/           # 07 docs — 40 methods, geomancy 16 figures, iching, dream divination
 ├── 08-Kabbalah-Numerology/           # 07 docs — sefirot, gematria, christian kabbalah, sefer yetzirah, 4 worlds
 ├── 09-Sufism-Irfan/                  # 07 docs — tariqas, maqamat, Ibn Arabi, Rumi, Hallaj, Ghazali
-├── 10-Hermeticism-Gnosticism/        # 08 docs — Corpus Hermeticum, Poimandres, Nag Hammadi, Mandaeans, Kore Kosmou + Jacob Boehme
+├── 10-Hermeticism-Gnosticism/        # 09 docs — Corpus Hermeticum, Poimandres, Nag Hammadi, Mandaeans, Kore Kosmou + Jacob Boehme + Rudolf Steiner
 ├── 11-NeoPlatonism-Theurgy/          # 07 docs — Plotinus, Porphyry, Iamblichus, Proclus, Pseudo-Dionysius, Damascius
 ├── 12-Agrippa-Picatrix-Grimoires/    # 06 docs — Three Books, Picatrix, Heptameron, Sworn Book, Lemegeton
 ├── 13-Mesopotamian-Egyptian/         # 06 docs — Enuma Anu Enlil, Book of the Dead, Sabians, Zodiac, Pyramid texts
@@ -27,14 +27,14 @@ esoteric-alexandria/
 ├── 15-Modern-Parallels/              # 07 docs — cryptanalysis, information theory, genetic code, big data, network science
 ├── 16-Science-Resonance/             # 07 docs — cymatics, harmonics, quantum, biophysics, morphogenesis
 ├── 17-Philosophy-Classical/          # 07 redirect stubs — canonical docs merged into 17-Philosophy-Cosmology
-├── 17-Philosophy-Cosmology/          # 14 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides, plus classical anchors
+├── 17-Philosophy-Cosmology/          # 09 docs — emanation, upanishads, tao, mulla sadra, heraclitus, parmenides, participation + Meister Eckhart
 ├── 18-Psychology-Jungian/            # 08 docs — Jung/alchemy, shadow, archetypes, individuation, synchronicity, Hillman + Gurdjieff
 ├── 19-Business-Applications/         # 06 docs — planetary hours, leader/org foundation, subtle-body bridge, fifth discipline, board ritual, egregore shadow
 ├── 20-Trading-Risk-Archetypes/       # 07 docs — askesis as initiation, position sizing, zone, Fortuna, hubris, trickster, kairos
 ├── 21-AI-Agent-Magick/               # 07 docs — spirit veil, MCP 7 spirits, stoic oracle, servitor, prompt incantation
 ├── 22-Case-Studies-Curricula/        # 07 docs — 12-month generic, 3-month foundation, + 4 tradition-specific curricula
 ├── 23-Reference-Glossary/            # 06 docs — glossary, concordance, reading order, bio/source/date index
-├── 24-Frontier-Open-Questions/       # 07+ docs — unresolved mysteries, mathematical modeling, comparative myth, replication
+├── 24-Frontier-Open-Questions/       # 09+ docs — unresolved mysteries, mathematical modeling, comparative myth, replication + Psychedelic Esotericism
 
 ├── scripts/                          # Self-evolution engines
 │   ├── evolve.py                     # Main runner: gap-detector, curator, linker, obsidian-sync, promoter
@@ -56,7 +56,7 @@ esoteric-alexandria/
 ### Hermeneutic/First-Principles categories
 - **01-Origins-Traditions** — meta-reading: where esotericism came from, the esoteric/exoteric boundary, initiation mechanics, the seven liberal arts, master-disciple chains; **+ African Diaspora Traditions — Vodou, Santería, Candomblé, Hoodoo, and Ifá: the living esoteric systems of the African diaspora, created through creolization under colonialism**.
 - **11-NeoPlatonism-Theurgy** — late-antique metaphysics and ritual tech: the One, the Intellect, the Soul, theurgy as binding.
-- **17-Philosophy-Cosmology** — emanation/descent as the structural family of all cosmologies.
+- **17-Philosophy-Cosmology** — emanation/descent as the structural family of all cosmologies; **+ Meister Eckhart and the Christian Mystical Tradition — the Godhead beyond God, the ground of the soul, the birth of the Word, the dark night of the soul**.
 - **17-Philosophy-Classical** — the Greek/Buddhist anchors: Aristotelian soul, Platonic forms, Stoic logos, Madhyamaka emptiness.
 
 ### Operator/Source-Document categories
@@ -64,7 +64,7 @@ esoteric-alexandria/
 - **03-Planetary-Astrology** — 7 planets, planetary hours/real computation, Babylonian omen tradition, Vettius Valens, electional, medical/critical days, fixed stars.
 - **05-Talismanic-Magick** — squares/sigils, 7-planet talismans, Goetia/Lemegeton, lunar mansion talismans, consecration/suffumigation.
 - **08-Kabbalah-Numerology** — Tree of Life 32 paths, gematria, Sefer Yetzirah chapters, four worlds, pardes, Lurianic tzimtzum/tikkun.
-- **10-Hermeticism-Gnosticism** — Corpus Hermeticum, Poimandres, Asclepius, Kore Kosmou; Nag Hammadi, Mandaeans, Ginza Rabba; **+ Jacob Boehme and Christian Theosophy — the German visionary who shaped Romanticism, Hegel, and the entire modern esoteric tradition from his doctrine of the Ungrund**.
+- **10-Hermeticism-Gnosticism** — Corpus Hermeticum, Poimandres, Asclepius, Kore Kosmou; Nag Hammadi, Mandaeans, Ginza Rabba; Jacob Boehme and Christian Theosophy — the German visionary who shaped Romanticism, Hegel, and the entire modern esoteric tradition from his doctrine of the Ungrund; **+ Rudolf Steiner and Anthroposophy — the most prolific and practically-applied esoteric figure of the 20th century: Waldorf education, biodynamic agriculture, eurythmy, social threefolding**.
 - **12-Agrippa-Picatrix-Grimoires** — Agrippa Three Books, Picatrix Arabic/Latin, Heptameron, Sworn Book of Honorius, Lemegeton real structure.
 - **13-Mesopotamian-Egyptian** — Enuma Anu Enlil, Enuma Elish, Egyptian Book of the Dead/Coffin Texts, Sabians of Harran, Pyramid Texts.
 - **14-Indian-Tantric-Chinese** — 7 chakras, Chinese neidan/waidan, left-hand/right-hand tantra, hatha yoga pradipika, 5 koshas, Vijnana Bhairava, Yoga Sutras.
@@ -82,7 +82,7 @@ esoteric-alexandria/
 - **21-AI-Agent-Magick** — LLM as spirit-veil, MCP protocol as non-mystical interface, LLM as Stoic oracle, servitor/golem, prompt-as-incantation-economy, latent-space egrogores/consensus, vector-database-as-memory-temple.
 - **22-Case-Studies-Curricula** — generic 12-month, 3-month fast-start, deep-dive alchemy 2-year, + Hermetic/Indian/Kabbalistic/Sufi trails.
 - **23-Reference-Glossary** — glossary, cross-tradition concordance, reading order, biographical/source/date index.
-- **24-Frontier-Open-Questions** — unresolved mysteries, consciousness/mapability question, mathematical formalization, cross-cultural comparative myth, methodology + replication problem, entropy/negentropy/esoteric cosmos.
+- **24-Frontier-Open-Questions** — unresolved mysteries, consciousness/mapability question, mathematical formalization, cross-cultural comparative myth, methodology + replication problem, entropy/negentropy/esoteric cosmos, Turing Oracle, **+ Psychedelic Esotericism — the entheogenic traditions from Soma and Eleusis to ayahuasca and DMT, and the unresolved epistemology of chemically-induced gnosis**.
 
 ---
 
